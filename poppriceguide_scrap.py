@@ -14,16 +14,20 @@ soup = BeautifulSoup(response.text, "html.parser")
 
 # now find all div element that has attributes called itemname, itemvalue and textcontainer
 #  and store it into python list "lists"
-# lists = soup.findAll("div", {"class": "itemname", "class": "itemvalue", "class": "textcontainer"})
+#lists = soup.findAll("div", {"class": "itemrow"})
 
 item_name = soup.findAll("div", {"class": "itemname"})
 # item_name = item_name.text.strip()
 #
+
 item_value = soup.findAll("div", {"class": "itemvalue"})
 # item_value = item_value.text.strip()
 #
+
 description = soup.findAll("div", {"class": "textcontainer"})
 # description = description.text.strip()
+
+own_want = soup.findAll("div", {"class": "col-50white"})
 
 
 # choose a file name to save the data
@@ -35,5 +39,5 @@ with open(filename, 'w') as csv_file:
 
     # using for loop to write on CSV file
     for i in range(128):  # I am only looping 129
-        writer.writerow([item_name[i], item_value[i], description[i]])
+        writer.writerow([item_name[i].text, item_value[i].text, own_want[i].text, own_want[i+1].text, description[i].text])
         # writer.writerow([lists[i]['itemname'], lists[i]['itemvalue'], lists[i]['textcontainer']])
