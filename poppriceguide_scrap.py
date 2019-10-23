@@ -27,17 +27,21 @@ item_value = soup.findAll("div", {"class": "itemvalue"})
 description = soup.findAll("div", {"class": "textcontainer"})
 # description = description.text.strip()
 
-own_want = soup.findAll("div", {"class": "col-50white"})
+own_want = soup.findAll("div", {"class": ["col-50white", "col-50green"] })
 
 
 # choose a file name to save the data
 filename = 'ppg_scrap.csv'
 
+#print(len(own_want))
+j = 0
 # open a csv file 'w' meaning write
 with open(filename, 'w') as csv_file:
     writer = csv.writer(csv_file)
 
     # using for loop to write on CSV file
     for i in range(128):  # I am only looping 129
-        writer.writerow([item_name[i].text, item_value[i].text, own_want[i].text, own_want[i+1].text, description[i].text])
-        # writer.writerow([lists[i]['itemname'], lists[i]['itemvalue'], lists[i]['textcontainer']])
+        writer.writerow([item_name[i].text, item_value[i].text, own_want[i*2].text, own_want[(i*2)+1].text, description[j].text])
+        j+=1
+        j+=1
+        #writer.writerow([lists[i]['itemname'], lists[i]['itemvalue'], lists[i]['textcontainer']])
