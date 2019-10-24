@@ -21,6 +21,10 @@ item_name = soup.findAll("div", {"class": "itemname"})
 #
 
 item_value = soup.findAll("div", {"class": "itemvalue"})
+#for i in item_value
+# item_value = item_value[i].text
+# for i in item_value:
+#     print(i)
 # item_value = item_value.text.strip()
 #
 
@@ -41,7 +45,11 @@ with open(filename, 'w') as csv_file:
 
     # using for loop to write on CSV file
     for i in range(128):  # I am only looping 129
-        writer.writerow([item_name[i].text, item_value[i].text, own_want[i*2].text, own_want[(i*2)+1].text, description[j].text])
+        if item_value[i].text[2] == '/':
+            value = 0
+        else:
+            value = float(item_value[i].text[2:len(item_value[i].text)])
+        writer.writerow([item_name[i].text, value, own_want[i*2].text, own_want[(i*2)+1].text, description[j].text])
         j+=1
         j+=1
         #writer.writerow([lists[i]['itemname'], lists[i]['itemvalue'], lists[i]['textcontainer']])
