@@ -35,13 +35,15 @@ own_want = soup.findAll("div", {"class": ["col-50white", "col-50green"] })
 
 
 # choose a file name to save the data
-filename = 'ppg_scrap.csv'
+filename = 'scrap.csv'
 
 #print(len(own_want))
 j = 0
 # open a csv file 'w' meaning write
 with open(filename, 'w') as csv_file:
     writer = csv.writer(csv_file)
+    writer.writerow(["Item Name", "Value", "Own", "Want", "% Difference", "Description"])
+
 
     # using for loop to write on CSV file
     for i in range(128):  # I am only looping 129
@@ -49,7 +51,9 @@ with open(filename, 'w') as csv_file:
             value = 0
         else:
             value = float(item_value[i].text[2:len(item_value[i].text)])
-        writer.writerow([item_name[i].text, value, own_want[i*2].text, own_want[(i*2)+1].text, description[j].text])
+        if value != 0:
+        	writer.writerow([item_name[i].text, value, own_want[i*2].text.replace("Own", ""), own_want[(i*2)+1].text.replace("Want", ""), "{0:.5f}".format(float(own_want[(i*2) + 1].text.replace("Want", "")) / float(own_want[i*2].text.replace("Own", ""))), description[j].text])
+
         j+=1
         j+=1
         #writer.writerow([lists[i]['itemname'], lists[i]['itemvalue'], lists[i]['textcontainer']])
