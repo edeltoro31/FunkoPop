@@ -5,7 +5,6 @@ import time
 
 
 # We need to tell what url we are going to access
-url = 'https://www.poppriceguide.com/guide/searchresults.php?search=All%20&page=1'
 
 
 # choose a file name to save the data
@@ -50,16 +49,20 @@ with open(filename, 'w') as csv_file:
 		j = 0
 		# open a csv file 'w' meaning write
 		    # using for loop to write on CSV file
-		for i in range(24):
+		for i in range(len(item_name)):
 		    item_val = item_value[i].text.split()
+		    own = float(own_want[i*2].text.replace("Own", ""))
+		    if own == 0:
+		    	own = 1
+		    want = float(own_want[(i*2)+1].text.replace("Want", ""))
 		    if item_val[0] == "--":
 		        value = 0
 		    else:
-		        value = float(item_val[0][2:len(item_val[0])])
+		        value = float(item_val[0][1:len(item_val[0])])
 		    if value != 0:
-		    	writer.writerow([item_name[i].text, value, own_want[i*2].text.replace("Own", ""), own_want[(i*2)+1].text.replace("Want", ""), "{0:.5f}".format(float(own_want[(i*2) + 1].text.replace("Want", "")) / float(own_want[i*2].text.replace("Own", ""))), description[j].text])
+		    	writer.writerow([item_name[i].text, value, own, want, "{0:.5f}".format(want / own), description[j].text])
 
 		    j+=1
 		    j+=1
 		        #writer.writerow([lists[i]['itemname'], lists[i]['itemvalue'], lists[i]['textcontainer']])
-		time.sleep(3)
+		time.sleep(4)
