@@ -1,697 +1,7402 @@
-Item Name,Value,Own,Want,% Difference,Description
-"
-          Goku        ",9.0,"
-          950 
-        ","
-          250 
-        ",0.26316,Released 2016Rarity: 1/12 
-"
-          Goku (Super Saiyan)        ",11.0,"
-          811 
-        ","
-          249 
-        ",0.30703,Released 2016Excl. to Hot TopicRarity: 1/12 
-"
-          Piccolo        ",5.0,"
-          796 
-        ","
-          247 
-        ",0.31030,Released 2016Rarity: 1/12 
-"
-          Vegeta        ",7.0,"
-          1207 
-        ","
-          249 
-        ",0.20630,Released 2016Rarity: 1/12 
-"
-          Super Saiyan Goku (Glow In The Dark)        ",8.0,"
-          1671 
-        ","
-          133 
-        ",0.07959,Released 2016Excl. to Gamestop  
-"
-          Goku (Windy) (Kamehameha) and Goku Tee        ",36.0,"
-          920 
-        ","
-          109 
-        ",0.11848,Released 2019Excl. to GameStop 
-"
-          Goku        ",9.0,"
-          1028 
-        ","
-          243 
-        ",0.23638,Released 2016 
-"
-          Super Saiyan God Super Saiyan Goku        ",25.0,"
-          779 
-        ","
-          324 
-        ",0.41592,Released 2016 
-"
-          Vegeta        ",11.0,"
-          990 
-        ","
-          256 
-        ",0.25859,Released 2016 
-"
-          Android 17        ",8.0,"
-          4676 
-        ","
-          637 
-        ",0.13623,#529Released 2019 
-"
-          Android 18        ",7.0,"
-          4663 
-        ","
-          658 
-        ",0.14111,#530Released 2019 
-"
-          Badman Vegeta        ",14.0,"
-          15863 
-        ","
-          2188 
-        ",0.13793,#158Released 2016Excl. to Hot Topic 
-"
-          Beerus        ",65.0,"
-          6173 
-        ","
-          3703 
-        ",0.59987,#120Released 2016 
-"
-          Beerus (Flocked)        ",35.0,"
-          4014 
-        ","
-          929 
-        ",0.23144,#514Released 2018Excl. to Funimation 
-"
-          Beerus (Metallic)        ",160.0,"
-          6171 
-        ","
-          3816 
-        ",0.61838,#120Released 2016Excl. to Funimation / San Diego Comic-Con 
-"
-          Bulma        ",13.0,"
-          11388 
-        ","
-          2215 
-        ",0.19450,#108Released 2016 
-"
-          Bulma & Goku with Flying Nimbus        ",80.0,"
-          1942 
-        ","
-          2012 
-        ",1.03605,Released 2016Excl. to Books-A-Million 
-"
-          Bulma (Yellow)        ",9.0,"
-          4679 
-        ","
-          797 
-        ",0.17034,#385Released 2018 
-"
-          Chichi        ",7.0,"
-          1558 
-        ","
-          262 
-        ",0.16816,#617Released 2019 
-"
-          Dead Yamcha [SDCC]        ",50.0,"
-          970 
-        ","
-          742 
-        ",0.76495,#397Released 2018Excl. to San Diego Comic Con 
-"
-          Dead Yamcha [Summer Convention]        ",14.0,"
-          8958 
-        ","
-          655 
-        ",0.07312,#397Released 2018Excl. to Hot Topic (SDCC) 
-"
-          Failed Fusions (2-Pack)        ",23.0,"
-          1900 
-        ","
-          257 
-        ",0.13526,Released 2019Excl. to BoxLunch 
-"
-          Frieza (Final Form)        ",8.0,"
-          19216 
-        ","
-          2651 
-        ",0.13796,#12Released 2014 
-"
-          Frieza (Hoverchair)        ",8.0,"
-          2459 
-        ","
-          297 
-        ",0.12078,#619Released 2019 
-"
-          Future Trunks        ",7.0,"
-          9432 
-        ","
-          981 
-        ",0.10401,#313Released 2017 
-"
-          Future Trunks (Holding Dragonball)        ",15.0,"
-          1739 
-        ","
-          248 
-        ",0.14261,#639Released 2019Excl. to Hot Topic 
-"
-          Future Trunks (Holding Dragonball) (Metallic)        ",100.0,"
-          781 
-        ","
-          338 
-        ",0.43278,#639Released 2019Excl. to Hot Topic 
-"
-          Gohan        ",7.0,"
-          13031 
-        ","
-          2230 
-        ",0.17113,#106Released 2016 
-"
-          Gohan & Piccolo (2-Pack)        ",45.0,"
-          2724 
-        ","
-          1389 
-        ",0.50991,Released 2017Excl. to Funimation 
-"
-          Gohan (Training Outfit)        ",8.0,"
-          6488 
-        ","
-          762 
-        ",0.11745,#383Released 2018 
-"
-          Gohan (with Sword)        ",9.0,"
-          2773 
-        ","
-          235 
-        ",0.08475,#621Released 2019Excl. to GameStop Funko Insider Club 
-"
-          Goku        ",22.0,"
-          17018 
-        ","
-          4594 
-        ",0.26995,#9Released 2014Excl. to Hot Topic 
-"
-          Goku & Flying Nimbus        ",8.0,"
-          19077 
-        ","
-          2225 
-        ",0.11663,#109Released 2016 
-"
-          Goku & Flying Nimbus (Orange)        ",75.0,"
-          5017 
-        ","
-          3437 
-        ",0.68507,#109Released 2016Excl. to Galactic Toys 
-"
-          Goku & Vegeta (Baseball) (2-Pack)        ",30.0,"
-          1113 
-        ","
-          198 
-        ",0.17790,Released 2019Excl. to BoxLunch 
-"
-          Goku (Casual)        ",7.0,"
-          5154 
-        ","
-          545 
-        ",0.10574,#527Released 2019 
-"
-          Goku (Ultra Instinct)        ",9.0,"
-          11465 
-        ","
-          946 
-        ",0.08251,#386Released 2018 
-"
-          Goku (Windy)        ",7.0,"
-          2142 
-        ","
-          293 
-        ",0.13679,#615Released 2019 
-"
-          Goku (Windy) (Kamehameha)        ",28.0,"
-          616 
-        ","
-          149 
-        ",0.24188,#642Released 2019Excl. to GameStop 
-"
-          Goku Black        ",7.0,"
-          12204 
-        ","
-          1140 
-        ",0.09341,#314Released 2017 
-"
-          Golden Frieza (Black Eyes)        ",80.0,"
-          10780 
-        ","
-          4490 
-        ",0.41651,#47Released 2015Excl. to San Diego Comic Con 
-"
-          Golden Frieza (Red Eyes)        ",220.0,"
-          3481 
-        ","
-          4496 
-        ",1.29158,#47Released 2015Excl. to San Diego Comic Con 
-"
-          Goten        ",7.0,"
-          1594 
-        ","
-          246 
-        ",0.15433,#618Released 2019 
-"
-          Goten / Trunks (2-Pack)        ",47.0,"
-          5793 
-        ","
-          1508 
-        ",0.26031,Released 2018Excl. to Funimation/BoxLunch 
-"
-          Gotenks        ",25.0,"
-          7694 
-        ","
-          1735 
-        ",0.22550,#319Released 2018Excl. to PreviewsEdition Size: 20000 
-"
-          Gotenks (Super Ghost Kamikaze Attack) [SDCC]        ",35.0,"
-          311 
-        ","
-          328 
-        ",1.05466,#634Released 2019Excl. to San Diego Comic Con 
-"
-          Gotenks (Super Ghost Kamikaze Attack) [Summer Convention]        ",13.0,"
-          3368 
-        ","
-          320 
-        ",0.09501,#634Released 2019Excl. to BoxLunch (SDCC) 
-"
-          Great Ape Vegeta [Fall Convention]        ",38.0,"
-          6676 
-        ","
-          1251 
-        ",0.18739,#434Released 2018Excl. to Hot Topic (NYCC) 
-"
-          Great Ape Vegeta [NYCC]        ",80.0,"
-          402 
-        ","
-          576 
-        ",1.43284,#434Released 2018Excl. to New York Comic Con 
-"
-          HIT        ",24.0,"
-          8430 
-        ","
-          1549 
-        ",0.18375,#315Released 2018Excl. to Toys R Us 
-"
-          Jiren        ",18.0,"
-          3849 
-        ","
-          1112 
-        ",0.28891,#516Released 2019Excl. to PAX South 
-"
-          Kid Buu        ",7.0,"
-          2781 
-        ","
-          297 
-        ",0.10680,#620Released 2019 
-"
-          King Kai & Bubbles        ",7.0,"
-          4546 
-        ","
-          685 
-        ",0.15068,#532Released 2019 
-"
-          Krillin        ",18.0,"
-          11807 
-        ","
-          2394 
-        ",0.20276,#110Released 2016 
-"
-          Legendary Super Saiyan Broly        ",26.0,"
-          2662 
-        ","
-          416 
-        ",0.15627,#623Released 2019Excl. to Galactic Toys 
-"
-          Legendary Super Saiyan Broly (Glow in the Dark)        ",130.0,"
-          1039 
-        ","
-          569 
-        ",0.54764,#623Released 2019Excl. to Galactic Toys 
-"
-          Majin Buu        ",11.0,"
-          15194 
-        ","
-          2460 
-        ",0.16191,#111Released 2016 
-"
-          Majin Buu (Chocolate)        ",23.0,"
-          8471 
-        ","
-          3175 
-        ",0.37481,#111 
-"
-          Majin Vegeta        ",80.0,"
-          4183 
-        ","
-          1990 
-        ",0.47574,#445Released 2018Excl. to Over9000.com (Online and NYCC Booth) 
-"
-          Master Roshi        ",4.0,"
-          5733 
-        ","
-          854 
-        ",0.14896,#382Released 2018 
-"
-          Master Roshi (Max Power)        ",7.0,"
-          4665 
-        ","
-          920 
-        ",0.19721,#533Released 2018Excl. to Specialty Series 
-"
-          Master Roshi (Peace Sign)        ",13.0,"
-          4743 
-        ","
-          985 
-        ",0.20767,#381Released 2018Excl. to FYE 
-"
-          Nappa        ",5.0,"
-          2003 
-        ","
-          275 
-        ",0.13729,#613Released 2019 
-"
-          Perfect Cell        ",8.0,"
-          18448 
-        ","
-          2636 
-        ",0.14289,#13Released 2014 
-"
-          Piccolo        ",9.0,"
-          18582 
-        ","
-          2632 
-        ",0.14164,#11Released 2014 
-"
-          Piccolo (Lotus Position) [Fall Convention]        ",14.0,"
-          2079 
-        ","
-          161 
-        ",0.07744,#670Released 2019Excl. to GameStop (NYCC) 
-"
-          Piccolo (Lotus Position) [NYCC]        ",42.0,"
-          147 
-        ","
-          79 
-        ",0.53741,#670Released 2019Excl. to New York Comic Con 
-"
-          Planet Arlia Vegeta        ",2220.0,"
-          1554 
-        ","
-          5710 
-        ",3.67439,#10Released 2014Excl. to New York Comic Con/Toy Tokyo  
-"
-          Porunga [ECCC]        ",35.0,"
-          569 
-        ","
-          522 
-        ",0.91740,#553Released 2019Excl. to Emerald City Comic Con 
-"
-          Porunga [Spring Convention]        ",17.0,"
-          4942 
-        ","
-          400 
-        ",0.08094,#553Released 2019Excl. to Hot Topic (ECCC) 
-"
-          Raditz        ",8.0,"
-          2221 
-        ","
-          294 
-        ",0.13237,#616Released 2019 
-"
-          Shenron        ",26.0,"
-          13457 
-        ","
-          3517 
-        ",0.26135,#265Released 2017Excl. to Galactic Toys 
-"
-          Shenron (Golden)        ",19.0,"
-          11939 
-        ","
-          1471 
-        ",0.12321,#265Released 2017Excl. to Hot Topic 
-"
-          Shenron (Jade)        ",21.0,"
-          2949 
-        ","
-          302 
-        ",0.10241,#265Released 2019Excl. to Hot Topic and Cosmic Comics 
-"
-          Son Goku        ",11.0,"
-          5797 
-        ","
-          645 
-        ",0.11126,#517Released 2018Excl. to GameStop Funko Insider Club 
-"
-          SSGSS Goku        ",15.0,"
-          956 
-        ","
-          98 
-        ",0.10251,#668Released 2019Excl. to Hot Topic 
-"
-          SSGSS Goku (Kamehameha)        ",15.0,"
-          4052 
-        ","
-          452 
-        ",0.11155,#563Released 2019Excl. to Chalice Collectibles 
-"
-          SSGSS Vegito (Metallic)        ",16.0,"
-          9404 
-        ","
-          813 
-        ",0.08645,#515Released 2018Excl. to Hot Topic 
-"
-          Super Saiyan 2 Gohan        ",20.0,"
-          8934 
-        ","
-          1214 
-        ",0.13589,#518Released 2018Excl. to GameStop 
-"
-          Super Saiyan 3 Goku        ",19.0,"
-          7589 
-        ","
-          1149 
-        ",0.15140,#492Released 2018Excl. to  GameStop 
-"
-          Super Saiyan Broly [SDCC]        ",65.0,"
-          1191 
-        ","
-          940 
-        ",0.78925,#402Released 2018Excl. to San Diego Comic Con 
-"
-          Super Saiyan Broly [Summer Convention]        ",24.0,"
-          9563 
-        ","
-          1021 
-        ",0.10677,#402Released 2018Excl. to Hot Topic (SDCC) 
-"
-          Super Saiyan Future Trunks        ",11.0,"
-          10868 
-        ","
-          1588 
-        ",0.14612,#318Released 2018Excl. to Hot Topic 
-"
-          Super Saiyan God Goku        ",65.0,"
-          11784 
-        ","
-          5352 
-        ",0.45418,#24Released 2014Excl. to FUNimation 
-"
-          Super Saiyan God Super Saiyan Goku        ",19.0,"
-          20551 
-        ","
-          3059 
-        ",0.14885,#121Released 2016Excl. to Hot Topic 
-"
-          Super Saiyan God Super Saiyan Vegeta        ",38.0,"
-          13791 
-        ","
-          3280 
-        ",0.23784,#156Released 2016Vaulted 
-"
-          Super Saiyan God Super Saiyan Vegeta (Metallic)        ",80.0,"
-          11028 
-        ","
-          3012 
-        ",0.27312,#156Released 2016Excl. to Gamestop 
-"
-          Super Saiyan Gohan        ",19.0,"
-          4272 
-        ","
-          1065 
-        ",0.24930,#509Released 2018Excl. to Galactic Toys 
-"
-          Super Saiyan Goku        ",7.0,"
-          24275 
-        ","
-          2198 
-        ",0.09055,#14Released 2014 
-"
-          Super Saiyan Goku (Glow in the Dark)        ",10.0,"
-          15246 
-        ","
-          2448 
-        ",0.16057,#14Released 2014Excl. to Entertainment Earth 
-"
-          Super Saiyan Goku (Metallic)        ",36.0,"
-          9531 
-        ","
-          2936 
-        ",0.30805,#14Released 2016Excl. to Loot Crate 
-"
-          Super Saiyan Goten        ",8.0,"
-          1815 
-        ","
-          203 
-        ",0.11185,#641Released 2019Excl. to Hot Topic 
-"
-          Super Saiyan Gotenks        ",16.0,"
-          2654 
-        ","
-          394 
-        ",0.14846,#622Released 2019Excl. to AAA Anime 
-"
-          Super Saiyan Rose Goku Black        ",17.0,"
-          14843 
-        ","
-          2359 
-        ",0.15893,#260Released 2017Excl. to Hot Topic 
-"
-          Super Saiyan Trunks        ",55.0,"
-          13985 
-        ","
-          3516 
-        ",0.25141,#155Released 2016Excl. to New York Comic Con 
-"
-          Super Saiyan Vegeta        ",16.0,"
-          12535 
-        ","
-          3400 
-        ",0.27124,#154Released 2016Excl. to AAA Anime 
-"
-          Super Saiyan Vegeta (Blue Chrome) [Fall Convention]        ",27.0,"
-          1629 
-        ","
-          612 
-        ",0.37569,#154Released 2018Excl. to Toy Tokyo (NYCC) 
-"
-          Super Saiyan Vegeta (Blue Chrome) [NYCC]        ",25.0,"
-          4021 
-        ","
-          658 
-        ",0.16364,#154Released 2018Excl. to New York Comic Con / Toy Tokyo 
-"
-          Super Saiyan Vegeta (Gold Chrome) [SDCC]        ",23.0,"
-          4850 
-        ","
-          1129 
-        ",0.23278,#154Released 2018Excl. to San Diego Comic Con / Toy Tokyo 
-"
-          Super Saiyan Vegeta (Gold Chrome) [Summer Convention]        ",29.0,"
-          3013 
-        ","
-          661 
-        ",0.21938,#154Released 2018Excl. to Toy Tokyo Website (SDCC) 
-"
-          Super Saiyan Vegeta (Red Chrome) [SDCC]        ",34.0,"
-          335 
-        ","
-          213 
-        ",0.63582,#154Released 2019Excl. to San Diego Comic Con 
-"
-          Super Saiyan Vegeta (Red Chrome) [Summer Convention]        ",11.0,"
-          4497 
-        ","
-          155 
-        ",0.03447,#154Released 2019Excl. to Hot Topic (SDCC) 
-"
-          Super Saiyan Vegito        ",16.0,"
-          6211 
-        ","
-          1206 
-        ",0.19417,#491Released 2018Excl. to AAA Anime 
-"
-          Tien and Chiaotzu        ",6.0,"
-          6094 
-        ","
-          784 
-        ",0.12865,#384Released 2018 
-"
-          Trunks        ",9.0,"
-          15379 
-        ","
-          2173 
-        ",0.14130,#107Released 2016 
-"
-          Vegeta        ",9.0,"
-          25931 
-        ","
-          2404 
-        ",0.09271,#10Released 2014 
-"
-          Vegeta (Black)        ",43.0,"
-          9869 
-        ","
-          3038 
-        ",0.30783,#157Released 2016Excl. to Gamestop 
-"
-          Vegeta (Chrome)        ",30.0,"
-          2104 
-        ","
-          263 
-        ",0.12500,#10Released 2019Excl. to Funimation 
-"
-          Vegeta (Final Flash) [Fall Convention]        ",21.0,"
-          2641 
-        ","
-          210 
-        ",0.07952,#669Released 2019Excl. to Hot Topic (NYCC) 
-"
-          Vegeta (Final Flash) [NYCC]        ",55.0,"
-          164 
-        ","
-          119 
-        ",0.72561,#669Released 2019Excl. to New York Comic Con 
-"
-          Vegeta (Metallic)         ",36.0,"
-          9508 
-        ","
-          3773 
-        ",0.39682,#10Released 2015Excl. to Shared Exclusive / No Sticker 
-"
-          Vegeta (Metallic) [SDCC]        ",65.0,"
-          50 
-        ","
-          15 
-        ",0.30000,#10Released 2015Excl. to San Diego Comic Con 
-"
-          Vegeta (Windy)        ",7.0,"
-          2425 
-        ","
-          274 
-        ",0.11299,#614Released 2019 
-"
-          Videl        ",8.0,"
-          3293 
-        ","
-          519 
-        ",0.15761,#528Released 2019 
-"
-          Whis        ",9.0,"
-          9743 
-        ","
-          1035 
-        ",0.10623,#317Released 2017 
-"
-          Whis (Metallic)        ",115.0,"
-          2870 
-        ","
-          1526 
-        ",0.53171,#317Released 2018Excl. to San Diego Comic Con Funimation Booth 
+"
+      Pop! Vinyl Pop! Animation All Might (Glow in the Dark)
+    ",40.0,"
+        3496 
+      ","
+        1676 
+      ",0.47941,"
+      #248Released 2017Excl. to Funimation
+"
+"
+      Pop! Vinyl Pop! Freddy Funko Football Freddy (All American)
+    ",4.0,"
+        3080 
+      ","
+        220 
+      ",0.07143,"
+      #2Released Apr 2016Excl. to Funko-Shop
+"
+"
+      Pop! Vinyl Pop! Games All Ghillied Up
+    ",1.0,"
+        1747 
+      ","
+        552 
+      ",0.31597,"
+      #144Released 2016Vaulted
+"
+"
+      Pop! Vinyl Pop! Animation All Might (Teacher)
+    ",1.0,"
+        899 
+      ","
+        341 
+      ",0.37931,"
+      #604Released 2019
+"
+"
+      Pop! Vinyl Pop! Animation All For One
+    ",1.0,"
+        882 
+      ","
+        322 
+      ",0.36508,"
+      #609Released 2019
+"
+"
+      Pop! Vinyl Pop! Animation All For One (Battle Hand)
+    ",5.0,"
+        622 
+      ","
+        479 
+      ",0.77010,"
+      #646Released 2019Excl. to Big Apple Collectibles
+"
+"
+      Pop! Vinyl Pop! Animation Silver Age All Might (Metallic)
+    ",3.0,"
+        497 
+      ","
+        548 
+      ",1.10262,"
+      #608Released 2019Excl. to Barnes & Noble
+"
+"
+      Pop! Vinyl Pop! Animation All Might (Chrome)
+    ",8.0,"
+        634 
+      ","
+        111 
+      ",0.17508,"
+      #248Released 2019Excl. to Funimation
+"
+"
+      Pop! Vinyl Pop! Animation All Might (Chrome) [NYCC Premier]
+    ",5.0,"
+        387 
+      ","
+        293 
+      ",0.75711,"
+      #248Released 2019Excl. to New York Comic Con Funimation Booth
+"
+"
+      Vinyl Vynl All Might + Deku
+    ",1.0,"
+        385 
+      ","
+        130 
+      ",0.33766,"
+      Released 2018
+"
+"
+      Pop! Vinyl Pocket Pop! Keychains Anime Silver Age All Might
+    ",1.0,"
+        93 
+      ","
+        47 
+      ",0.50538,"
+      Released 2019
+"
+"
+      Wacky Wobbler Wacky Wobblers Games Crypto (Destroy All Humans)
+    ",4.0,"
+        41 
+      ","
+        17 
+      ",0.41463,"
+"
+"
+      Wacky Wobbler Wacky Wobblers Games Big Willy Unleashed
+    ",2.0,"
+        28 
+      ","
+        6 
+      ",0.21429,"
+"
+"
+      Pop! Vinyl Pop! Rides 1950 Batmobile (Blue Metallic)
+    ",7.0,"
+        176 
+      ","
+        113 
+      ",0.64205,"
+      #277Excl. to AmazonDue 2019-10-21
+"
+"
+      Pop! Vinyl Pop! Rocks 1950's Elvis (Metallic Gold)
+    ",70.0,"
+        65 
+      ","
+        965 
+      ",14.84615,"
+      #2
+"
+"
+      Pop! Vinyl Pop! Football A.J. Green
+    ",4.0,"
+        40 
+      ","
+        17 
+      ",0.42500,"
+      Due 2019-09-01
+"
+"
+      Pop! Vinyl Pop! Football Aaron Donald
+    ",7.0,"
+        51 
+      ","
+        29 
+      ",0.56863,"
+      Due 2019-09-01
+"
+"
+      Pop! Vinyl Pop! Football Aaron Rodgers
+    ",5.0,"
+        705 
+      ","
+        350 
+      ",0.49645,"
+      #30Released 2016
+"
+"
+      Pop! Vinyl Pop! Football Aaron Rodgers (Away Jersey)
+    ",8.0,"
+        1151 
+      ","
+        378 
+      ",0.32841,"
+      #10Released 2014
+"
+"
+      Pop! Vinyl Pop! Football Aaron Rodgers (Knit Hat)
+    ",6.0,"
+        1352 
+      ","
+        260 
+      ",0.19231,"
+      #43Released 2016
+"
+"
+      Pop! Vinyl Pop! Football Aaron Rodgers (Throwback)
+    ",6.0,"
+        1375 
+      ","
+        267 
+      ",0.19418,"
+      #43Released 2016Excl. to Toys R Us
+"
+"
+      Pop! Vinyl Pop! GPK Adam Bomb (Metallic)
+    ",5.0,"
+        965 
+      ","
+        146 
+      ",0.15130,"
+      #1Released 2018Excl. to New York Comic Con / Toy TokyoEdition Size: 3000
+"
+"
+      Pop! Vinyl Pop! Football Adam Thielen
+    ",5.0,"
+        79 
+      ","
+        25 
+      ",0.31646,"
+      Due 2019-09-01
+"
+"
+      Pop! Vinyl Pop! Football Adrian Peterson
+    ",4.0,"
+        680 
+      ","
+        232 
+      ",0.34118,"
+      #15Released 2014
+"
+"
+      Pop! Vinyl Pop! Animation Aku & Samurai Jack (2-Pack) [Fall Convention]
+    ",5.0,"
+        614 
+      ","
+        169 
+      ",0.27524,"
+      Released 2019Excl. to Funko-Shop (NYCC)
+"
+"
+      Pop! Vinyl Pop! Football (Soccer) Alexandre Lacazette
+    ",1.0,"
+        55 
+      ","
+        20 
+      ",0.36364,"
+      #15Released 2019
+"
+"
+      Pop! Vinyl Pop! Football (Soccer) Alexis Sanchez
+    ",3.0,"
+        50 
+      ","
+        19 
+      ",0.38000,"
+      #18Released 2019
+"
+"
+      Action Figures ReAction Figures Alien Alien (Metallic)
+    ",3.0,"
+        384 
+      ","
+        76 
+      ",0.19792,"
+      Released 2014
+"
+"
+      Pop! Vinyl Pop! Disney Alien (Metallic)
+    ",30.0,"
+        331 
+      ","
+        1674 
+      ",5.05740,"
+      #33Released 2012Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Pop! Vinyl Pocket Pop! Keychains Other Alita (Motorball Body)
+    ",4.0,"
+        58 
+      ","
+        11 
+      ",0.18966,"
+      Released 2019Excl. to Walmart
+"
+"
+      Pop! Vinyl Pop! Football Amari Cooper
+    ",4.0,"
+        82 
+      ","
+        32 
+      ",0.39024,"
+      Due 2019-09-01
+"
+"
+      Pop! Vinyl Pop! Football Amari Cooper
+    ",7.0,"
+        663 
+      ","
+        187 
+      ",0.28205,"
+      #44Released 2016Vaulted
+"
+"
+      Pop! Vinyl Pop! Football Andrew Luck
+    ",6.0,"
+        708 
+      ","
+        189 
+      ",0.26695,"
+      #14Released 2014
+"
+"
+      Pop! Vinyl Pop! Football Andrew Luck (Away Jersey)
+    ",1.0,"
+        464 
+      ","
+        105 
+      ",0.22629,"
+      #45Released 2016
+"
+"
+      Pop! Vinyl Pop! Muppets Animal (Metallic)
+    ",30.0,"
+        468 
+      ","
+        677 
+      ",1.44658,"
+      #5Released 2013Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Wacky Wobbler Wacky Wobblers Muppets Animal (Metallic)
+    ",6.0,"
+        57 
+      ","
+        34 
+      ",0.59649,"
+      Released 2013Excl. to San Diego Comic Con
+"
+"
+      Pop! Vinyl Pop! MLB Anthony Rizzo
+    ",8.0,"
+        547 
+      ","
+        146 
+      ",0.26691,"
+      #6Released 2018
+"
+"
+      Pop! Vinyl Pop! Football Antonio Brown
+    ",8.0,"
+        107 
+      ","
+        20 
+      ",0.18692,"
+      Due 2019-09-01
+"
+"
+      Pop! Vinyl Pop! Football Antonio Brown
+    ",2.0,"
+        1165 
+      ","
+        265 
+      ",0.22747,"
+      #62
+"
+"
+      Pop! Vinyl Pop! Football Antonio Brown (Away Jersey)
+    ",2.0,"
+        527 
+      ","
+        106 
+      ",0.20114,"
+      #62
+"
+"
+      Pop! Vinyl Pop! Football Antonio Brown (Color Rush)
+    ",4.0,"
+        598 
+      ","
+        175 
+      ",0.29264,"
+      #62Released 2017Excl. to Toys R Us
+"
+"
+      Pop! Vinyl Pop! Heroes Aquaman (Metallic)
+    ",80.0,"
+        424 
+      ","
+        974 
+      ",2.29717,"
+      #16Released 2011Excl. to Gemini CollectiblesEdition Size: 240
+"
+"
+      Vinyl Funko Force DC Comics Aquaman (Metallic)
+    ",5.0,"
+        40 
+      ","
+        51 
+      ",1.27500,"
+"
+"
+      Pop! Vinyl Pop! Disney Ariel & Ursula (Metallic)
+    ",80.0,"
+        455 
+      ","
+        2090 
+      ",4.59341,"
+      Released 2012Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Pop! Vinyl Pop! Disney Army Man (Metallic)
+    ",2.0,"
+        7629 
+      ","
+        742 
+      ",0.09726,"
+      #377Released 2018Excl. to BoxLunch
+"
+"
+      Pop! Vinyl Pop! Heroes Arthur Curry (Shirtless) [Fall Convention]
+    ",2.0,"
+        1463 
+      ","
+        152 
+      ",0.10390,"
+      #243Released 2018Excl. to Hot Topic (NYCC)
+"
+"
+      Pop! Vinyl Pop! Games Assaultron (Glow in the Dark) [NYCC]
+    ",5.0,"
+        189 
+      ","
+        84 
+      ",0.44444,"
+      #386Released 2018Excl. to New York Comic Con
+"
+"
+      Hikari Astro Boy Astro Boy (Classic Metallic)
+    ",6.0,"
+        95 
+      ","
+        40 
+      ",0.42105,"
+      Released 2014Edition Size: 3000
+"
+"
+      Pop! Vinyl Pop! Asia Aswang (Orange)
+    ",45.0,"
+        177 
+      ","
+        355 
+      ",2.00565,"
+      #41Released 2015Edition Size: 300
+"
+"
+      Pop! Vinyl Pop! Games Atlas with Pilot
+    ",2.0,"
+        5591 
+      ","
+        364 
+      ",0.06510,"
+      #131Released 2016Excl. to Gamestop
+"
+"
+      Vinyl Funko Force Hanna-Barbera Atom Ant (Metallic)
+    ",5.0,"
+        8 
+      ","
+        26 
+      ",3.25000,"
+      Edition Size: 2000
+"
+"
+      Pop! Vinyl Pop! Fantastic Beasts Augurey [Fall Convention]
+    ",5.0,"
+        2739 
+      ","
+        603 
+      ",0.22015,"
+      #25Released 2018Excl. to Amazon (NYCC)
+"
+"
+      Pop! Vinyl Pop! Disney Aurora (Maleficent Movie) (Metallic)
+    ",4.0,"
+        893 
+      ","
+        940 
+      ",1.05263,"
+      #78Released 2014Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Animation Badman Vegeta
+    ",4.0,"
+        15863 
+      ","
+        2188 
+      ",0.13793,"
+      #158Released 2016Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Football Baker Mayfield (Home Jersey)
+    ",5.0,"
+        152 
+      ","
+        39 
+      ",0.25658,"
+      #110Released 2019Excl. to Fanatics
+"
+"
+      Plush Five Nights at Freddy's Balloon Boy
+    ",5.0,"
+        46 
+      ","
+        24 
+      ",0.52174,"
+      Released 2018Excl. to Hot Topic
+"
+"
+      Plush Five Nights at Freddy's Ballora
+    ",2.0,"
+        214 
+      ","
+        34 
+      ",0.15888,"
+      Released 2017
+"
+"
+      Pop! Vinyl Pop! Football Barry Sanders
+    ",1.0,"
+        961 
+      ","
+        181 
+      ",0.18835,"
+      #81Released 2017
+"
+"
+      Pop! Vinyl Pop! Football Bart Starr
+    ",3.0,"
+        224 
+      ","
+        45 
+      ",0.20089,"
+      #116Released 2018
+"
+"
+      Pop! Vinyl Pop! Football Bart Starr (Black & White)
+    ",1.0,"
+        311 
+      ","
+        57 
+      ",0.18328,"
+      #116Released 2018
+"
+"
+      Wacky Wobbler Wacky Wobblers Freddy Funko Baseball Freddy
+    ",7.0,"
+        26 
+      ","
+        18 
+      ",0.69231,"
+      Released 2005Excl. to San Diego Comic ConEdition Size: 144
+"
+"
+      Pop! Vinyl Pop! Movies Baseball Fury [Fall Convention]
+    ",5.0,"
+        227 
+      ","
+        111 
+      ",0.48899,"
+      #824Released 2019Excl. to Toy Tokyo (NYCC)
+"
+"
+      Pop! Vinyl Pop! Disney Basketball Mickey
+    ",4.0,"
+        362 
+      ","
+        124 
+      ",0.34254,"
+      #553Released 2019Excl. to NBA Experience
+"
+"
+      Pop! Vinyl Pop! Heroes Batgirl (Metallic)
+    ",70.0,"
+        390 
+      ","
+        1506 
+      ",3.86154,"
+      #3Released 2010
+"
+"
+      Vinyl Funko Force DC Comics Batman (Blue - Metallic)
+    ",340.0,"
+        18 
+      ","
+        162 
+      ",9.00000,"
+      Released 2010Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Pop! Vinyl Pop! Heroes Batman (Blue - Metallic)
+    ",50.0,"
+        231 
+      ","
+        1699 
+      ",7.35498,"
+      #1Released 2010Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Pop! Vinyl Pop! Heroes Batman (Bobble-Head) (Metallic)
+    ",60.0,"
+        152 
+      ","
+        1582 
+      ",10.40789,"
+      #1Released 2010Excl. to Target
+"
+"
+      Pop! Vinyl Pop! Heroes Batman (Classic 1966 TV) (Metallic)
+    ",5.0,"
+        1540 
+      ","
+        1748 
+      ",1.13506,"
+      #41Released 2013Excl. to Alamo City Comic Con
+"
+"
+      Wacky Wobbler Wacky Wobblers DC Comics Batman (Classic TV) (Metallic)
+    ",1.0,"
+        183 
+      ","
+        65 
+      ",0.35519,"
+      Released 2013Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Pop! Vinyl Pop! Heroes Batman (Harvest)
+    ",5.0,"
+        2434 
+      ","
+        1772 
+      ",0.72802,"
+      #1Released 2016Excl. to FunkoweenEdition Size: 3300
+"
+"
+      Dorbz DC Comics Batman (Harvest)
+    ",3.0,"
+        869 
+      ","
+        394 
+      ",0.45339,"
+      #228Released 2016Excl. to FunkoweenEdition Size: 1500
+"
+"
+      Hikari DC Comics Batman (Metallic Blue)
+    ",6.0,"
+        235 
+      ","
+        117 
+      ",0.49787,"
+      Released 2014Edition Size: 1500
+"
+"
+      Vinyl Blox Batman (Metallic)
+    ",8.0,"
+        57 
+      ","
+        51 
+      ",0.89474,"
+      #1Released 2011Excl. to San Diego Comic ConEdition Size: 240
+"
+"
+      Vinyl Funko Force DC Comics Batman (Metallic)
+    ",5.0,"
+        14 
+      ","
+        122 
+      ",8.71429,"
+"
+"
+      Pop! Vinyl Pop! Heroes Batman (Metallic)
+    ",5.0,"
+        4423 
+      ","
+        2814 
+      ",0.63622,"
+      #1Released 2010
+"
+"
+      Pop! Vinyl Pop! Heroes Batman (Red Metallic)
+    ",7.0,"
+        1509 
+      ","
+        133 
+      ",0.08814,"
+      #144Released 2019Excl. to Target REDcard
+"
+"
+      Pop! Vinyl Pop! Heroes Batman Beyond (Metallic Chrome)
+    ",8.0,"
+        307 
+      ","
+        161 
+      ",0.52443,"
+      #287Released 2019Excl. to Batman Beyond Complete Series Blu-Ray Set
+"
+"
+      Pop! Vinyl Pop! Heroes Batman Beyond (Metallic)
+    ",25.0,"
+        1535 
+      ","
+        2678 
+      ",1.74463,"
+      #33Released 2013Excl. to Fugitive Toys
+"
+"
+      Pop! Vinyl Pop! Heroes Batman Vs Superman (Dawn of Justice) (Metallic) (2-Pack) 
+    ",7.0,"
+        10747 
+      ","
+        1821 
+      ",0.16944,"
+      Released 2016Excl. to Toys R Us
+"
+"
+      Pop! Vinyl Pop! Animation Battle of Fallen Angels
+    ",9.0,"
+        87 
+      ","
+        36 
+      ",0.41379,"
+      #723Released 2019Excl. to GameStop
+"
+"
+      Pop! Vinyl Pop! Disney Baymax (Armored) (Metallic)
+    ",9.0,"
+        2259 
+      ","
+        1477 
+      ",0.65383,"
+      #112Released 2015Excl. to fun.com
+"
+"
+      Pop! Vinyl Pop! Television Beast Boy (The Night Begins to Shine) (Metallic)
+    ",8.0,"
+        554 
+      ","
+        163 
+      ",0.29422,"
+      #604Released 2018Excl. to New York Comic Con / Toy TokyoEdition Size: 3000
+"
+"
+      Pop! Vinyl Pop! Animation Beerus
+    ",5.0,"
+        6173 
+      ","
+        3703 
+      ",0.59987,"
+      #120Released 2016
+"
+"
+      Pop! Vinyl Pop! Animation Beerus (Flocked)
+    ",5.0,"
+        4015 
+      ","
+        929 
+      ",0.23138,"
+      #514Released 2018Excl. to Funimation
+"
+"
+      Pop! Vinyl Pop! Animation Beerus (Metallic)
+    ",60.0,"
+        6171 
+      ","
+        3816 
+      ",0.61838,"
+      #120Released 2016Excl. to Funimation / San Diego Comic-Con
+"
+"
+      Pop! Vinyl Pop! Football Ben Roethlisberger (Color Rush)
+    ",2.0,"
+        672 
+      ","
+        151 
+      ",0.22470,"
+      #76Released 2017
+"
+"
+      Pop! Vinyl Pop! Football Ben Roethlisberger (Throwback)
+    ",5.0,"
+        1210 
+      ","
+        242 
+      ",0.20000,"
+      #65Released 2016Excl. to Toys R Us
+"
+"
+      Wacky Wobbler Wacky Wobblers Futurama Bender (Metallic)
+    ",5.0,"
+        9 
+      ","
+        66 
+      ",7.33333,"
+      Released 2008Excl. to San Diego Comic ConEdition Size: 540
+"
+"
+      Pop! Vinyl Pop! Animation Benny the Ball (Red Cardigan)
+    ",3.0,"
+        1155 
+      ","
+        251 
+      ",0.21732,"
+      #280Released 2017Rarity: 1/6
+"
+"
+      Pop! Vinyl Pop! Disney Benson [Fall Convention]
+    ",1.0,"
+        528 
+      ","
+        106 
+      ",0.20076,"
+      #618Released 2019Excl. to Amazon (NYCC)
+"
+"
+      Pop! Vinyl Pop! Game of Thrones Beric Dondarrion [Fall Convention]
+    ",5.0,"
+        5902 
+      ","
+        604 
+      ",0.10234,"
+      #65Released 2018Excl. to Barnes & Noble (NYCC)
+"
+"
+      Pop! Vinyl POP! Myth Bigfoot (Marshmallow)
+    ",1.0,"
+        2878 
+      ","
+        435 
+      ",0.15115,"
+      #16Released 2018Excl. to Funko-Shop
+"
+"
+      Pop! Vinyl Pop! Animation Bill Cipher
+    ",1.0,"
+        2968 
+      ","
+        981 
+      ",0.33053,"
+      #243Released 2017
+"
+"
+      Pop! Vinyl Pop! Animation Bill Cipher (Space)
+    ",5.0,"
+        3356 
+      ","
+        1570 
+      ",0.46782,"
+      #243Released 2017Rarity: 1/6
+"
+"
+      Pop! Vinyl Pop! Television Black Jack Randall
+    ",2.0,"
+        1063 
+      ","
+        243 
+      ",0.22860,"
+      #254Released 2015
+"
+"
+      Pop! Vinyl Pop! Games Blisk and Legion
+    ",5.0,"
+        1453 
+      ","
+        331 
+      ",0.22780,"
+      #134Released 2017
+"
+"
+      Pop! Vinyl Pop! Movies Blue (Fallen Kingdom)
+    ",1.0,"
+        6164 
+      ","
+        1192 
+      ",0.19338,"
+      #586Released 2018
+"
+"
+      Pop! Vinyl Pop! Heroes Blue Beetle & Booster Gold (Metallic)
+    ",2.0,"
+        1046 
+      ","
+        241 
+      ",0.23040,"
+      Released 2017Excl. to Previews
+"
+"
+      Pop! Vinyl Pop! Television Blue Ranger (Metallic)
+    ",1.0,"
+        8989 
+      ","
+        1311 
+      ",0.14584,"
+      #363Released 2016Excl. to GameStop / EB Games
+"
+"
+      Pop! Vinyl Pop! Movies Bluntman & Chronic (2-Pack) [Fall Convention]
+    ",7.0,"
+        1429 
+      ","
+        154 
+      ",0.10777,"
+      Released 2019Excl. to FYE (NYCC)
+"
+"
+      Pop! Vinyl Pop! Television BMO (Metallic)
+    ",1.0,"
+        3306 
+      ","
+        1121 
+      ",0.33908,"
+      #52Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Football Bo Jackson
+    ",5.0,"
+        1277 
+      ","
+        225 
+      ",0.17619,"
+      #89Released 2017
+"
+"
+      Pop! Vinyl Pop! Football Bobby Wagner
+    ",5.0,"
+        432 
+      ","
+        95 
+      ",0.21991,"
+      #71Released 2017
+"
+"
+      Vinyl Blox Boo Berry (Metallic)
+    ",1.0,"
+        46 
+      ","
+        61 
+      ",1.32609,"
+      #5Released 2011Excl. to San Diego Comic ConEdition Size: 240
+"
+"
+      Pop! Vinyl Pop! Ad Icons Boo Berry (Metallic)
+    ",10.0,"
+        478 
+      ","
+        1243 
+      ",2.60042,"
+      #3Released 2011Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Hikari Star Wars Bossk (Metallic)
+    ",6.0,"
+        76 
+      ","
+        76 
+      ",1.00000,"
+      Released 2015Edition Size: 750
+"
+"
+      Pop! Vinyl Pop! Football Brett Favre
+    ",1.0,"
+        959 
+      ","
+        201 
+      ",0.20959,"
+      #83Released 2017
+"
+"
+      Pop! Vinyl Pop! Football Brian Bosworth
+    ",4.0,"
+        254 
+      ","
+        54 
+      ",0.21260,"
+      #113Released 2018
+"
+"
+      Pop! Vinyl Pop! Games Brite Bomber (Metallic)
+    ",2.0,"
+        312 
+      ","
+        62 
+      ",0.19872,"
+      #427Released 2019Excl. to Amazon
+"
+"
+      Pop! Vinyl Pop! Rocks Britney Spears (Slave 4 U) (Metallic)
+    ",2.0,"
+        643 
+      ","
+        64 
+      ",0.09953,"
+      #98Released 2019Excl. to Barnes & Noble
+"
+"
+      Pop! Vinyl Pop! Television Britta Perry [Fall Convention]
+    ",2.0,"
+        148 
+      ","
+        33 
+      ",0.22297,"
+      #902Released 2019Excl. to Funko-Shop (NYCC)
+"
+"
+      Pop! Vinyl Pop! Movies Buddy Elf (Snowballs)
+    ",4.0,"
+        2348 
+      ","
+        694 
+      ",0.29557,"
+      #488Released 2017Excl. to BoxLunch
+"
+"
+      Pop! Vinyl Pop! Monsters Bugsy Wingnut (Fall)
+    ",6.0,"
+        46 
+      ","
+        148 
+      ",3.21739,"
+      #4Released 2018Excl. to Funko
+"
+"
+      Pop! Vinyl Pop! Animation Bulma
+    ",3.0,"
+        11388 
+      ","
+        2215 
+      ",0.19450,"
+      #108Released 2016
+"
+"
+      Pop! Vinyl Pop! MLB Buster Posey
+    ",5.0,"
+        474 
+      ","
+        97 
+      ",0.20464,"
+      #9Released 2018
+"
+"
+      Pop! Vinyl Pop! Games Butt Stallion [Fall Convention]
+    ",2.0,"
+        1367 
+      ","
+        78 
+      ",0.05706,"
+      #518Released 2019Excl. to GameStop (NYCC)
+"
+"
+      Pop! Vinyl Pop! Games Butt Stallion [NYCC]
+    ",5.0,"
+        239 
+      ","
+        119 
+      ",0.49791,"
+      #518Released 2019Excl. to New York Comic Con
+"
+"
+      Pop! Vinyl Pop! Monsters Butterhorn (Fall)
+    ",6.0,"
+        54 
+      ","
+        150 
+      ",2.77778,"
+      #2Released 2018Excl. to Funko
+"
+"
+      Pop! Vinyl Pop! Giant Buzz Lightyear (Metallic)
+    ",80.0,"
+        254 
+      ","
+        753 
+      ",2.96457,"
+      Released 2011Excl. to San Diego Comic ConEdition Size: 360
+"
+"
+      Pop! Vinyl Pop! Freddy Funko Buzz Lightyear (Metallic)
+    ",880.0,"
+        33 
+      ","
+        374 
+      ",11.33333,"
+      #3Released 2011Excl. to San Diego Comic ConEdition Size: 12
+"
+"
+      Pop! Vinyl Pop! Star Wars C-3PO (Chrome Metallic) [SDCC]
+    ",6.0,"
+        41 
+      ","
+        50 
+      ",1.21951,"
+      #13Released 2015Excl. to San Diego Comic Con
+"
+"
+      Pop! Vinyl Pop! Star Wars C-3PO (Chrome Metallic) [Summer Convention]
+    ",9.0,"
+        11786 
+      ","
+        2937 
+      ",0.24919,"
+      #13Released 2015Excl. to Hot Topic (SDCC)
+"
+"
+      Pop! Vinyl Pop! Animation Cabbage Man & Cart [Fall Convention]
+    ",6.0,"
+        790 
+      ","
+        137 
+      ",0.17342,"
+      #656Released 2019Excl. to GameStop (NYCC)
+"
+"
+      Mystery Vinyl Mystery Minis Bethesda Fallout 4 Cait
+    ",7.0,"
+        269 
+      ","
+        212 
+      ",0.78810,"
+      Released 2016Excl. to Hot TopicRarity: 1/24
+"
+"
+      Pop! Vinyl Pop! Star Wars Cal Kestis & BD-1
+    ",6.0,"
+        284 
+      ","
+        121 
+      ",0.42606,"
+      #337Released 2019
+"
+"
+      Pop! Vinyl Pop! Movies Cal Naughton Jr.
+    ",3.0,"
+        3116 
+      ","
+        695 
+      ",0.22304,"
+      #184Released 2015
+"
+"
+      Pop! Vinyl Pop! Football Calvin Johnson
+    ",6.0,"
+        742 
+      ","
+        263 
+      ",0.35445,"
+      #17Released 2014
+"
+"
+      Pop! Vinyl Pop! Football Cam Newton (Color Rush)
+    ",4.0,"
+        351 
+      ","
+        115 
+      ",0.32764,"
+      #46Released 2017Excl. to Toys R Us
+"
+"
+      Pop! Vinyl Pop! Marvel Captain America (Metallic)
+    ",920.0,"
+        311 
+      ","
+        1796 
+      ",5.77492,"
+      #6Released 2011Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Wacky Wobbler Wacky Wobblers Marvel Captain America (Movie) Metallic)
+    ",4.0,"
+        36 
+      ","
+        69 
+      ",1.91667,"
+      Released 2011Excl. to San Diego Comic Con
+"
+"
+      Pop! Vinyl Pop! Marvel Captain America (Unmasked) (Metallic)
+    ",5.0,"
+        4525 
+      ","
+        2095 
+      ",0.46298,"
+      #6Released 2014Excl. to Comikaze/Supanova
+"
+"
+      Wacky Wobbler Wacky Wobblers Star Trek Captain Kirk (Metallic Green Base)
+    ",7.0,"
+        3 
+      ","
+        11 
+      ",3.66667,"
+"
+"
+      Pop! Vinyl Pop! Marvel Captain Marvel (Mar-Vell) (First Appearance) [Fall Convention]
+    ",3.0,"
+        481 
+      ","
+        108 
+      ",0.22453,"
+      #526Released 2019Excl. to Walgreens (NYCC)
+"
+"
+      Hikari Star Wars Captain Phasma (Alloy)
+    ",8.0,"
+        17 
+      ","
+        47 
+      ",2.76471,"
+      Edition Size: 250
+"
+"
+      Pop! Vinyl Pop! Star Wars Captain Rex (The Clone Wars) [Fall Convention]
+    ",5.0,"
+        2558 
+      ","
+        500 
+      ",0.19547,"
+      #274Released 2018Excl. to Hot Topic (NYCC)
+"
+"
+      Pop! Vinyl Pop! Marvel Carnage (Tendrils) [Fall Convention]
+    ",5.0,"
+        5757 
+      ","
+        689 
+      ",0.11968,"
+      #371Released 2018Excl. to Hot Topic (NYCC)
+"
+"
+      Pop! Vinyl Pop! Harry Potter Cedric Diggory (Yule Ball)
+    ",2.0,"
+        712 
+      ","
+        431 
+      ",0.60534,"
+      #90Released 2019
+"
+"
+      Pop! Vinyl Pop! Television Charlie Brown (Ghost)
+    ",5.0,"
+        2728 
+      ","
+        1232 
+      ",0.45161,"
+      #333Released 2016
+"
+"
+      Pop! Vinyl Pop! Television Charlie Brown (Mask)
+    ",1.0,"
+        3924 
+      ","
+        485 
+      ",0.12360,"
+      #331Released 2016
+"
+"
+      Pop! Vinyl Pop! Monsters Chester McFreckle (Fall)
+    ",1.0,"
+        68 
+      ","
+        150 
+      ",2.20588,"
+      #5Released 2018Excl. to Funko
+"
+"
+      Pop! Vinyl Pop! Harry Potter Cho Chang (Yule Ball)
+    ",1.0,"
+        295 
+      ","
+        461 
+      ",1.56271,"
+      #98Due 2019-11-01
+"
+"
+      Pop! Vinyl Pop! Football Christian McCaffrey
+    ",9.0,"
+        110 
+      ","
+        34 
+      ",0.30909,"
+      Due 2019-09-01
+"
+"
+      Pop! Vinyl Pop! Disney Cinderella (Dancing) (Shimmering)
+    ",7.0,"
+        3094 
+      ","
+        1153 
+      ",0.37266,"
+      #222Released 2016Excl. to Amazon
+"
+"
+      Pop! Vinyl Pop! Television Claire Randall
+    ",5.0,"
+        1295 
+      ","
+        504 
+      ",0.38919,"
+      #250Released 2015Vaulted
+"
+"
+      Pop! Vinyl Pop! Television Clark Kent (Smallville)
+    ",3.0,"
+        1837 
+      ","
+        305 
+      ",0.16603,"
+      #625Released 2018
+"
+"
+      Pop! Vinyl Pop! Animation Clyde [Fall Convention]
+    ",2.0,"
+        112 
+      ","
+        27 
+      ",0.24107,"
+      #601Released 2019Excl. to Funko-Shop (NYCC)
+"
+"
+      Wacky Wobbler Wacky Wobblers G.I. Joe Cobra Commander (Metallic)
+    ",5.0,"
+        6 
+      ","
+        20 
+      ",3.33333,"
+      Released 2010Excl. to San Diego Comic ConEdition Size: 240
+"
+"
+      Pop! Vinyl Pop! Games Codsworth
+    ",8.0,"
+        2699 
+      ","
+        1087 
+      ",0.40274,"
+      #163Released 2017
+"
+"
+      Pop! Vinyl Pop! Games Codsworth (Battle)
+    ",7.0,"
+        1643 
+      ","
+        949 
+      ",0.57760,"
+      #163Released 2017Excl. to Target
+"
+"
+      Pop! Vinyl Pop! Football Colin Kaepernick
+    ",2.0,"
+        841 
+      ","
+        238 
+      ",0.28300,"
+      #6Released 2014
+"
+"
+      Pop! Vinyl Pop! Marvel Compound Hulk (Metallic)
+    ",50.0,"
+        503 
+      ","
+        1772 
+      ",3.52286,"
+      #39Released 2013Excl. to Toy Anxiety
+"
+"
+      Pop! Vinyl Pop! Games Conehead Zombie (Metallic)
+    ",5.0,"
+        405 
+      ","
+        587 
+      ",1.44938,"
+      #5Released 2013Excl. to San Diego Comic ConEdition Size: 1008
+"
+"
+      Pop! Vinyl Pop! Animation Coraline in Pajamas [Fall Convention]
+    ",7.0,"
+        1791 
+      ","
+        333 
+      ",0.18593,"
+      #424Released 2018Excl. to Hot Topic (NYCC)
+"
+"
+      Vinyl Blox Count Chocula (Metallic)
+    ",4.0,"
+        44 
+      ","
+        59 
+      ",1.34091,"
+      #7Released 2011Excl. to San Diego Comic ConEdition Size: 240
+"
+"
+      Pop! Vinyl Pop! Freddy Funko Count Chocula (Metallic)
+    ",780.0,"
+        43 
+      ","
+        277 
+      ",6.44186,"
+      #2Released 2011Excl. to San Diego Comic ConEdition Size: 12
+"
+"
+      Pop! Vinyl Pop! Ad Icons Count Chocula (Metallic)
+    ",70.0,"
+        504 
+      ","
+        1177 
+      ",2.33532,"
+      #1Released 2011Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Pop! Vinyl Pop! Movies Creature From the Black Lagoon (Metallic)
+    ",5.0,"
+        1861 
+      ","
+        1125 
+      ",0.60451,"
+      #116Released 2014Excl. to Gemini Collectibles
+"
+"
+      Vinyl Funko Force Movies Creature from the Black Lagoon (Metallic)
+    ",1.0,"
+        13 
+      ","
+        39 
+      ",3.00000,"
+      Excl. to Gemini Collectibles
+"
+"
+      Pop! Vinyl Pop! Television Crowley (Bloody) (Metallic)
+    ",5.0,"
+        1397 
+      ","
+        1507 
+      ",1.07874,"
+      #200Released 2015Excl. to Convention
+"
+"
+      Pop! Vinyl Pop! Books Cthulhu (Gold Metallic)
+    ",7.0,"
+        2043 
+      ","
+        624 
+      ",0.30543,"
+      #3Released 2016Excl. to Books-a-Million
+"
+"
+      Wacky Wobbler Wacky Wobblers H.P Lovecraft Cthulhu (Metallic)
+    ",60.0,"
+        5 
+      ","
+        78 
+      ",15.60000,"
+      Edition Size: 12
+"
+"
+      Mystery Vinyl Mystery Minis Bethesda Fallout 4 Curie
+    ",2.0,"
+        391 
+      ","
+        260 
+      ",0.66496,"
+      Released 2016Excl. to Hot TopicRarity: 1/12
+"
+"
+      Mystery Vinyl Mystery Minis Bethesda Fallout 4 Curie (Synth)
+    ",7.0,"
+        377 
+      ","
+        149 
+      ",0.39523,"
+      Released 2016Excl. to GameStopRarity: 1/24
+"
+"
+      Pop! Vinyl Pop! Animation Dabi [Fall Convention]
+    ",3.0,"
+        2324 
+      ","
+        197 
+      ",0.08477,"
+      #637Released 2019Excl. to Hot Topic (NYCC)
+"
+"
+      Pop! Vinyl Pop! Football Dak Prescott (Alternate Uniform)
+    ",3.0,"
+        247 
+      ","
+        64 
+      ",0.25911,"
+      #67Released 2018
+"
+"
+      Pop! Vinyl Pop! Football Dan Marino
+    ",8.0,"
+        710 
+      ","
+        184 
+      ",0.25915,"
+      #91Released 2017
+"
+"
+      Pop! Vinyl Pop! Disney Dapper Sally
+    ",2.0,"
+        6581 
+      ","
+        1147 
+      ",0.17429,"
+      #313Released 2017Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Disney Dapper Sally (Diamond Collection)
+    ",4.0,"
+        1145 
+      ","
+        116 
+      ",0.10131,"
+      #313Released 2019Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Animation Daria [Fall Convention]
+    ",1.0,"
+        948 
+      ","
+        96 
+      ",0.10127,"
+      #674Released 2019Excl. to GameStop (NYCC)
+"
+"
+      Other POP! Items Pop! Tees & Apparel Pop! and Shirt Pack Dark Phoenix (Orange Translucent) and Dark Phoenix Tee [Fall Convention]
+    ",9.0,"
+        369 
+      ","
+        76 
+      ",0.20596,"
+      Released 2019Excl. to GameStop (NYCC)
+"
+"
+      Pop! Vinyl Pop! Marvel Dark Phoenix (Orange Translucent) [Fall Convention]
+    ",9.0,"
+        219 
+      ","
+        84 
+      ",0.38356,"
+      #422Released 2019Excl. to GameStop (NYCC)
+"
+"
+      Pop! Vinyl Pop! Games Dark Voyager (Glow in the Dark) [Fall Convention]
+    ",5.0,"
+        201 
+      ","
+        23 
+      ",0.11443,"
+      #442Released 2019Excl. to Target (NYCC)
+"
+"
+      Pop! Vinyl Pop! Comics Darna (First Appearance)
+    ",4.0,"
+        318 
+      ","
+        61 
+      ",0.19182,"
+      #23Released 2019Excl. to Big Boys Toy Store
+"
+"
+      Pop! Vinyl Pop! Movies Dave (Metallic)
+    ",5.0,"
+        299 
+      ","
+        517 
+      ",1.72910,"
+      #36Released 2013Excl. to San Diego Comic ConEdition Size: 1008
+"
+"
+      Pop! Vinyl Pop! Football (Soccer) David De Gea
+    ",5.0,"
+        350 
+      ","
+        183 
+      ",0.52286,"
+      #01Released 2018
+"
+"
+      Pop! Vinyl Pop! Football (Soccer) David Luiz
+    ",1.0,"
+        199 
+      ","
+        104 
+      ",0.52261,"
+      #06Released 2018
+"
+"
+      Mystery Vinyl Mystery Minis Bethesda Fallout 4 Deacon
+    ",4.0,"
+        222 
+      ","
+        218 
+      ",0.98198,"
+      Released 2016Excl. to Hot TopicRarity: 1/36
+"
+"
+      Pop! Vinyl Pop! Animation Dead Yamcha [Summer Convention]
+    ",4.0,"
+        8958 
+      ","
+        655 
+      ",0.07312,"
+      #397Released 2018Excl. to Hot Topic (SDCC)
+"
+"
+      Pop! Vinyl Pop! Marvel Deadpool (Metallic)
+    ",80.0,"
+        1090 
+      ","
+        2778 
+      ",2.54862,"
+      #20Released 2013Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Mystery Vinyl Mystery Minis Marvel SDCC Deadpool (with Guns) (Metallic)
+    ",9.0,"
+        200 
+      ","
+        260 
+      ",1.30000,"
+      Released 2014Excl. to San Diego Comic ConRarity: 1/12
+"
+"
+      Mystery Vinyl Mystery Minis Marvel SDCC Deadpool (with Guns) (X-Force) (Metallic)
+    ",5.0,"
+        306 
+      ","
+        259 
+      ",0.84641,"
+      Released 2014Excl. to San Diego Comic ConRarity: 1/12
+"
+"
+      Pop! Vinyl Pop! Television Dean (Bloody) (Metallic)
+    ",5.0,"
+        1864 
+      ","
+        1746 
+      ",0.93670,"
+      #94Released 2014
+"
+"
+      Pop! Vinyl Pop! Football DeAndre Hopkins
+    ",6.0,"
+        52 
+      ","
+        27 
+      ",0.51923,"
+      Due 2019-09-01
+"
+"
+      Mystery Vinyl Mystery Minis Bethesda Fallout Deathclaw
+    ",2.0,"
+        602 
+      ","
+        371 
+      ",0.61628,"
+      Released 2015Excl. to GameStop/EB GamesRarity: 1/12
+"
+"
+      Pop! Vinyl Pop! Games Deathclaw
+    ",3.0,"
+        6134 
+      ","
+        1420 
+      ",0.23150,"
+      #52Released 2015
+"
+"
+      Pop! Vinyl Pop! Rocks Debbie Harry [Fall Convention]
+    ",1.0,"
+        256 
+      ","
+        59 
+      ",0.23047,"
+      #132Released 2019Excl. to FYE (NYCC)
+"
+"
+      Pop! Vinyl Pop! Football Deion Sanders (Falcons)
+    ",2.0,"
+        1014 
+      ","
+        205 
+      ",0.20217,"
+      #93Released 2017Excl. to Toys R Us
+"
+"
+      Pop! Vinyl Pop! Football Deion Sanders (Third Jersey)
+    ",4.0,"
+        339 
+      ","
+        99 
+      ",0.29204,"
+      #92Released 2018
+"
+"
+      Pop! Vinyl Pop! Football Deshaun Watson
+    ",1.0,"
+        184 
+      ","
+        49 
+      ",0.26630,"
+      #94Released 2018
+"
+"
+      Pop! Vinyl Pop! Football Dez Bryant (White Jersey)
+    ",5.0,"
+        978 
+      ","
+        324 
+      ",0.33129,"
+      #22Released 2014
+"
+"
+      Pop! Vinyl Pop! Animation Dipper Pines
+    ",1.0,"
+        3663 
+      ","
+        1018 
+      ",0.27791,"
+      #240Released 2017
+"
+"
+      Pop! Vinyl Pop! Games Disco Zombie (Metallic)
+    ",55.0,"
+        175 
+      ","
+        497 
+      ",2.84000,"
+      #3Released 2012Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Mystery Vinyl Mystery Minis Bethesda Best of Bethesda Dogmeat
+    ",7.0,"
+        651 
+      ","
+        338 
+      ",0.51920,"
+      Released 2016Rarity: 1/36
+"
+"
+      Pop! Vinyl Pop! Games Dogmeat (Flocked)
+    ",4.0,"
+        3739 
+      ","
+        1695 
+      ",0.45333,"
+      #76Released 2016Excl. to GameStop/EB Games
+"
+"
+      Mystery Vinyl Mystery Minis Kingdom Hearts Series 1 Donald (Halloween Town)
+    ",5.0,"
+        393 
+      ","
+        178 
+      ",0.45293,"
+      Released 2017Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Disney Donald Duck (Firefighter) [Fall Convention]
+    ",6.0,"
+        661 
+      ","
+        84 
+      ",0.12708,"
+      #715Released 2019Excl. to Barnes & Noble (NYCC)
+"
+"
+      Pop! Vinyl Pop! Television Donatello (Metallic)
+    ",30.0,"
+        747 
+      ","
+        1311 
+      ",1.75502,"
+      #60Released 2013Excl. to San Diego Comic ConEdition Size: 1008
+"
+"
+      Hikari TMNT Donatello (Metallic)
+    ",7.0,"
+        97 
+      ","
+        93 
+      ",0.95876,"
+      Released 2014Edition Size: 500
+"
+"
+      Mystery Vinyl Mystery Minis Bethesda Specials Doom, Fallout & Dishonored (3-Pack) 
+    ",5.0,"
+        101 
+      ","
+        299 
+      ",2.96040,"
+      Released 2015Excl. to E3 (Bethesda Conference)
+"
+"
+      Pop! Vinyl Pop! Football Doug Baldwin
+    ",3.0,"
+        133 
+      ","
+        41 
+      ",0.30827,"
+      #99Released 2018
+"
+"
+      Pop! Vinyl Pop! Marvel Dr. Doom (Metallic)
+    ",80.0,"
+        1739 
+      ","
+        1972 
+      ",1.13399,"
+      #17Released 2014Excl. to Bangkok Comic Con
+"
+"
+      Vinyl Vinyl Idolz Ghostbusters Dr. Egon Spengler (Marshmallowed)
+    ",2.0,"
+        58 
+      ","
+        99 
+      ",1.70690,"
+      #3Released 2015Excl. to San Diego Comic ConEdition Size: 500
+"
+"
+      Pop! Vinyl Pop! Movies Dr. Frank Poole [Fall Convention]
+    ",2.0,"
+        200 
+      ","
+        44 
+      ",0.22000,"
+      #823Released 2019Excl. to Books-A-Million (NYCC)
+"
+"
+      Pop! Vinyl Pop! Movies Dr. Peter Venkman (Slimed) & Slimer (Metallic)
+    ",10.0,"
+        1146 
+      ","
+        1726 
+      ",1.50611,"
+      Released 2014Excl. to San Diego Comic ConEdition Size: 2500
+"
+"
+      Vinyl Vinyl Idolz Ghostbusters Dr. Raymond Stantz (Marshmallowed)
+    ",9.0,"
+        49 
+      ","
+        91 
+      ",1.85714,"
+      #2Released 2015Excl. to San Diego Comic ConEdition Size: 500
+"
+"
+      Pop! Vinyl Pop! Football Drew Bledsoe
+    ",2.0,"
+        278 
+      ","
+        63 
+      ",0.22662,"
+      #115Released 2018
+"
+"
+      Pop! Vinyl Pop! Football Drew Brees
+    ",7.0,"
+        968 
+      ","
+        321 
+      ",0.33161,"
+      #11Released 2014
+"
+"
+      Pop! Vinyl Pop! Football Drew Brees (Super Bowl)
+    ",9.0,"
+        52 
+      ","
+        50 
+      ",0.96154,"
+      Due 2019-09-01
+"
+"
+      Pop! Vinyl Pop! Football Drew Brees (Throwback)
+    ",6.0,"
+        1026 
+      ","
+        150 
+      ",0.14620,"
+      #11Released 2016Excl. to Toys R Us
+"
+"
+      Pop! Vinyl Pop! Football Drew Brees (White Jersey)
+    ",9.0,"
+        269 
+      ","
+        63 
+      ",0.23420,"
+      #11Released 2018
+"
+"
+      Pop! Vinyl Pop! Game of Thrones Drogon, Rhaegal & Viserion (Metallic)
+    ",5.0,"
+        5701 
+      ","
+        3651 
+      ",0.64041,"
+      Released 2015Excl. to GameStop / EB Games
+"
+"
+      Pop! Vinyl Pop! Animation Duck Dodgers (Metallic)
+    ",1.0,"
+        4081 
+      ","
+        1087 
+      ",0.26636,"
+      #127Released 2016Vaulted
+"
+"
+      Pop! Vinyl Pop! Television Dustin (Snowball Dance) [SDCC]
+    ",4.0,"
+        647 
+      ","
+        428 
+      ",0.66151,"
+      #617Released 2018Excl. to San Diego Comic Con
+"
+"
+      Pop! Vinyl Pop! Television Dustin (Snowball Dance) [Summer Convention]
+    ",3.0,"
+        5351 
+      ","
+        554 
+      ",0.10353,"
+      #617Released 2018Excl. to GameStop (SDCC)
+"
+"
+      Pop! Vinyl Pop! Television Dwight Schrute (w/ Bobblehead) [Fall Convention]
+    ",9.0,"
+        1290 
+      ","
+        158 
+      ",0.12248,"
+      #882Released 2019Excl. to Amazon (NYCC)
+"
+"
+      Pop! Vinyl Pop! Football Earl Thomas, Richard Sherman & Kam Chancelor (Legion of Boom)
+    ",20.0,"
+        618 
+      ","
+        343 
+      ",0.55502,"
+      Released 2015Excl. to Centurylink FieldEdition Size: 5000
+"
+"
+      Pop! Vinyl Pop! Football (Soccer) Eden Hazard
+    ",2.0,"
+        344 
+      ","
+        129 
+      ",0.37500,"
+      #05Released 2018
+"
+"
+      Pop! Vinyl Pop! Icons Edgar Allan Poe (w/ Book) [Fall Convention]
+    ",3.0,"
+        301 
+      ","
+        154 
+      ",0.51163,"
+      #22Released 2019Excl. to Books-A-Million (NYCC)
+"
+"
+      Pop! Vinyl Pop! Icons Edgar Allan Poe (w/ Book) [NYCC]
+    ",8.0,"
+        66 
+      ","
+        79 
+      ",1.19697,"
+      #22Released 2019Excl. to New York Comic Con
+"
+"
+      Pop! Vinyl Pop! Marvel Electro (Glow in the Dark) (Metallic)
+    ",9.0,"
+        1624 
+      ","
+        1258 
+      ",0.77463,"
+      #46Released 2014Excl. to Hot Topic/Japan
+"
+"
+      Pop! Vinyl Pop! Television Eleven (Mall Outfit)
+    ",4.0,"
+        1095 
+      ","
+        351 
+      ",0.32055,"
+      #802Released 2019
+"
+"
+      Pop! Vinyl Pop! Football Eli Manning
+    ",8.0,"
+        657 
+      ","
+        265 
+      ",0.40335,"
+      #18Released 2014
+"
+"
+      Pop! Vinyl Pop! Football Eli Manning (Throwback)
+    ",3.0,"
+        1011 
+      ","
+        147 
+      ",0.14540,"
+      #18Released 2016Excl. to Toys R Us
+"
+"
+      Pop! Vinyl Pop! Disney Elsa, Marshmallow & Olaf
+    ",8.0,"
+        3518 
+      ","
+        1476 
+      ",0.41956,"
+      Released 2014Excl. to Walmart
+"
+"
+      Pop! Vinyl Pop! Marvel Emma Frost (Diamond)
+    ",7.0,"
+        3538 
+      ","
+        642 
+      ",0.18146,"
+      #184Released 2017Excl. to Halloween ComicFestEdition Size: 10000
+"
+"
+      Pop! Vinyl Pop! Animation Eto [Fall Convention]
+    ",2.0,"
+        2088 
+      ","
+        197 
+      ",0.09435,"
+      #437Released 2018Excl. to Hot Topic (NYCC)
+"
+"
+      Pop! Vinyl Pop! MLB Eugenio Suarez (Gold)
+    ",20.0,"
+        20 
+      ","
+        29 
+      ",1.45000,"
+      #30Released 2019Excl. to Great American Ball ParkEdition Size: 500
+"
+"
+      Mystery Vinyl Pocket POP! Keychains Disney Eve
+    ",1.0,"
+        55 
+      ","
+        43 
+      ",0.78182,"
+      Released 2017
+"
+"
+      Pop! Vinyl Pocket Pop! Keychains Disney EVE
+    ",8.0,"
+        686 
+      ","
+        143 
+      ",0.20845,"
+      Released 2016
+"
+"
+      Pop! Vinyl Pop! Disney EVE
+    ",8.0,"
+        8885 
+      ","
+        3297 
+      ",0.37107,"
+      #44Released 2012
+"
+"
+      Pop! Vinyl Pop! Disney EVE (Earth Day)
+    ",6.0,"
+        3548 
+      ","
+        346 
+      ",0.09752,"
+      #552Released 2019Excl. to BoxLunch
+"
+"
+      Pop! Vinyl Pop! Television Evil Groundskeeper Willie [Fall Convention]
+    ",2.0,"
+        1836 
+      ","
+        171 
+      ",0.09314,"
+      #824Released 2019Excl. to Hot Topic (NYCC)
+"
+"
+      Pop! Vinyl Pop! Movies Evil Minion (Metallic)
+    ",35.0,"
+        298 
+      ","
+        562 
+      ",1.88591,"
+      #37Released 2013Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Mystery Vinyl Mystery Minis Despicable Me & Minions Despicable Me Evil Minion (Metallic)
+    ",4.0,"
+        104 
+      ","
+        88 
+      ",0.84615,"
+      Excl. to Hot TopicRarity: 1/12
+"
+"
+      Pop! Vinyl Pop! Football Ezekiel Elliott (Alternate Uniform)
+    ",7.0,"
+        300 
+      ","
+        86 
+      ",0.28667,"
+      #68Released 2018
+"
+"
+      Pop! Vinyl Pop! Football Ezekiel Elliott (Color Rush)
+    ",3.0,"
+        159 
+      ","
+        234 
+      ",1.47170,"
+      #68Released 2017Excl. to Toys R Us
+"
+"
+      Pop! Vinyl Pop! Football Ezekiel Elliott (Fanatics)
+    ",2.0,"
+        580 
+      ","
+        60 
+      ",0.10345,"
+      #68Released 2018Excl. to Fanatics
+"
+"
+      Pop! Vinyl Pop! Animation Failed Fusions (2-Pack)
+    ",3.0,"
+        1900 
+      ","
+        257 
+      ",0.13526,"
+      Released 2019Excl. to BoxLunch
+"
+"
+      Other POP! Items Pop! Tees & Apparel Boxed Shirts Fallout
+    ",9.0,"
+        30 
+      ","
+        79 
+      ",2.63333,"
+      Released 2018Excl. to E3
+"
+"
+      Pop! Vinyl Pop! Movies Feyd Rautha [Fall Convention]
+    ",6.0,"
+        68 
+      ","
+        25 
+      ",0.36765,"
+      #814Released 2019Excl. to Entertainment Earth (NYCC)
+"
+"
+      Pop! Vinyl Pop! Harry Potter Filch & Mrs. Norris [Fall Convention]
+    ",6.0,"
+        1069 
+      ","
+        190 
+      ",0.17774,"
+      #101Released 2019Excl. to Barnes & Noble (NYCC)
+"
+"
+      Vinyl Mini Vinyl Figures Disney Mickeys 90th Fireman Mickey & Plane Mickey (2-Pack) [Fall Convention]
+    ",6.0,"
+        681 
+      ","
+        86 
+      ",0.12628,"
+      Released 2018Excl. to Amazon (NYCC)
+"
+"
+      Pop! Vinyl Pop! Freddy Funko Flavor Flav (Metallic)
+    ",80.0,"
+        25 
+      ","
+        181 
+      ",7.24000,"
+      #4Released 2011Excl. to San Diego Comic ConEdition Size: 12
+"
+"
+      Pop! Vinyl Pop! Freddy Funko Football Freddy
+    ",20.0,"
+        133 
+      ","
+        194 
+      ",1.45865,"
+      #35Released 2015Excl. to Funko FundaysEdition Size: 196
+"
+"
+      Pop! Vinyl Pop! Freddy Funko Football Freddy (Blue)
+    ",90.0,"
+        35 
+      ","
+        143 
+      ",4.08571,"
+      #35Released 2015Excl. to Funko FundaysEdition Size: 24
+"
+"
+      Pop! Vinyl Pop! Freddy Funko Football Freddy (Throwback)
+    ",8.0,"
+        879 
+      ","
+        71 
+      ",0.08077,"
+      Released 2018Excl. to Funko-Shop
+"
+"
+      Pop! Vinyl Pop! Television Frank Randall
+    ",6.0,"
+        857 
+      ","
+        234 
+      ",0.27305,"
+      #253Released 2015
+"
+"
+      Pop! Vinyl Pop! Ad Icons Franken Berry (Metallic)
+    ",50.0,"
+        480 
+      ","
+        1090 
+      ",2.27083,"
+      #2Released 2011Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Pop! Vinyl Pop! Freddy Funko Frankenberry (Metallic)
+    ",430.0,"
+        40 
+      ","
+        286 
+      ",7.15000,"
+      #1Released 2011Excl. to San Diego Comic ConEdition Size: 12
+"
+"
+      Vinyl Blox Frankenberry (Metallic)
+    ",5.0,"
+        47 
+      ","
+        63 
+      ",1.34043,"
+      #6Released 2011Excl. to San Diego Comic ConEdition Size: 240
+"
+"
+      Vinyl Funko Force Movies Frankenstein (Metallic)
+    ",9.0,"
+        4 
+      ","
+        22 
+      ",5.50000,"
+      Released 2010Excl. to San Diego Comic ConEdition Size: 240
+"
+"
+      Wacky Wobbler Wacky Wobblers Ad Icons Freckle Face Strawberry (Metallic)
+    ",5.0,"
+        6 
+      ","
+        14 
+      ",2.33333,"
+      Released 2010Excl. to San Diego Comic ConEdition Size: 48
+"
+"
+      Wacky Wobbler Wacky Wobblers Freddy Funko Freddy Bowler (Black Ball)
+    ",10.0,"
+        11 
+      ","
+        12 
+      ",1.09091,"
+      Released 2006Excl. to Funko FundaysEdition Size: 48
+"
+"
+      Wacky Wobbler Wacky Wobblers Freddy Funko Freddy Bowler (Blue Ball w/Star)
+    ",30.0,"
+        11 
+      ","
+        12 
+      ",1.09091,"
+      Released 2006Excl. to Funko FundaysEdition Size: 48
+"
+"
+      Wacky Wobbler Wacky Wobblers Freddy Funko Freddy Bowler (Gold Ball)
+    ",5.0,"
+        15 
+      ","
+        12 
+      ",0.80000,"
+      Released 2006Excl. to Funko FundaysEdition Size: 48
+"
+"
+      Dorbz Freddy Funko Freddy Funko (Baseball)
+    ",3.0,"
+        285 
+      ","
+        96 
+      ",0.33684,"
+      Released 2017Excl. to New York Comic ConEdition Size: 750
+"
+"
+      Pop! Vinyl Pop! Freddy Funko Freddy Funko (Baseball)
+    ",5.0,"
+        497 
+      ","
+        138 
+      ",0.27767,"
+      Released 2018Excl. to Funko HQEdition Size: 1000
+"
+"
+      Pop! Vinyl Pop! Freddy Funko Freddy Funko (Baseball) (Teal)
+    ",5.0,"
+        423 
+      ","
+        151 
+      ",0.35697,"
+      Released 2018Excl. to Emerald City ComiConEdition Size: 1000
+"
+"
+      Pop! Vinyl Pop! Freddy Funko Freddy Funko as Genie (Metallic)
+    ",70.0,"
+        116 
+      ","
+        96 
+      ",0.82759,"
+      Released 2019Excl. to Funko Fundays (SDCC)Edition Size: 350
+"
+"
+      Vinyl Five Nights At Freddy's Freddy, Bonnie, Spring Trap & Balloon Boy (4-Pack)
+    ",3.0,"
+        334 
+      ","
+        89 
+      ",0.26647,"
+"
+"
+      Pop! Vinyl Pop! Asia Fudo Myo-o (Metallic)
+    ",5.0,"
+        634 
+      ","
+        273 
+      ",0.43060,"
+      #77Released 2016
+"
+"
+      Other POP! Items Pop! Tees & Apparel Pop! and Shirt Pack Fumikage Tokoyami (Metallic) and Tokoyami Tee
+    ",9.0,"
+        71 
+      ","
+        128 
+      ",1.80282,"
+      Released 2019Excl. to GameStop
+"
+"
+      Pop! Vinyl Pop! Animation Future Trunks (Holding Dragonball)
+    ",5.0,"
+        1738 
+      ","
+        248 
+      ",0.14269,"
+      #639Released 2019Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Football (Soccer) Gabriel Jesus
+    ",8.0,"
+        110 
+      ","
+        47 
+      ",0.42727,"
+      #13Released 2018
+"
+"
+      Pop! Vinyl Pop! Disney Genie (Metallic)
+    ",20.0,"
+        992 
+      ","
+        2707 
+      ",2.72883,"
+      #54Released 2013Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Dorbz Disney Genie (Metallic)
+    ",1.0,"
+        388 
+      ","
+        86 
+      ",0.22165,"
+      #337Released 2017Excl. to Chalice Collectibles
+"
+"
+      Pop! Vinyl Pop! Movies Ghostbusters (Marshmallowed) (4-Pack) [SDCC]
+    ",15.0,"
+        259 
+      ","
+        412 
+      ",1.59073,"
+      Released 2014Excl. to San Diego Comic Con
+"
+"
+      Pop! Vinyl Pop! Movies Ghostbusters (Marshmallowed) (4-Pack) [Summer Convention]
+    ",45.0,"
+        1649 
+      ","
+        1733 
+      ",1.05094,"
+      Released 2014Excl. to  (SDCC)
+"
+"
+      Pop! Vinyl Pop! Television Gilfoyle
+    ",2.0,"
+        1620 
+      ","
+        215 
+      ",0.13272,"
+      #434Released 2017Vaulted
+"
+"
+      Vinyl Vynl Gizmo + Gremlin (3D Glasses) [Fall Convention]
+    ",8.0,"
+        961 
+      ","
+        93 
+      ",0.09677,"
+      Released 2018Excl. to GameStop / EB Games (NYCC)
+"
+"
+      Pop! Vinyl Pop! Games Glowing One
+    ",9.0,"
+        4237 
+      ","
+        1924 
+      ",0.45409,"
+      #50Released 2015Excl. to GameStop/EB Games
+"
+"
+      Hikari Patrick Ballesteros Glub Glub
+    ",40.0,"
+        11 
+      ","
+        17 
+      ",1.54545,"
+      Released 2015Excl. to San Diego Comic ConEdition Size: 88
+"
+"
+      Pop! Vinyl Pop! Animation Gohan & Piccolo (2-Pack)
+    ",5.0,"
+        2724 
+      ","
+        1389 
+      ",0.50991,"
+      Released 2017Excl. to Funimation
+"
+"
+      Pop! Vinyl Pop! Animation Goku
+    ",2.0,"
+        17018 
+      ","
+        4594 
+      ",0.26995,"
+      #9Released 2014Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Animation Goku & Flying Nimbus (Orange)
+    ",5.0,"
+        5017 
+      ","
+        3437 
+      ",0.68507,"
+      #109Released 2016Excl. to Galactic Toys
+"
+"
+      Pop! Vinyl Pop! Animation Goku (Windy) (Kamehameha)
+    ",8.0,"
+        616 
+      ","
+        149 
+      ",0.24188,"
+      #642Released 2019Excl. to GameStop
+"
+"
+      Other POP! Items Pop! Tees & Apparel Pop! and Shirt Pack Goku (Windy) (Kamehameha) and Goku Tee
+    ",6.0,"
+        920 
+      ","
+        108 
+      ",0.11739,"
+      Released 2019Excl. to GameStop
+"
+"
+      Pop! Vinyl Pop! Animation Golden Frieza (Red Eyes)
+    ",20.0,"
+        3481 
+      ","
+        4496 
+      ",1.29158,"
+      #47Released 2015Excl. to San Diego Comic Con
+"
+"
+      Mystery Vinyl Mystery Minis Kingdom Hearts Series 1 Goofy (Halloween Town)
+    ",8.0,"
+        398 
+      ","
+        199 
+      ",0.50000,"
+      Released 2017Excl. to Hot Topic
+"
+"
+      Wacky Wobbler Wacky Wobblers Ad Icons Goofy Grape (Metallic)
+    ",8.0,"
+        20 
+      ","
+        29 
+      ",1.45000,"
+      Released 2010Excl. to San Diego Comic ConEdition Size: 240
+"
+"
+      Pop! Vinyl Pop! Animation Goten / Trunks (2-Pack)
+    ",7.0,"
+        5793 
+      ","
+        1508 
+      ",0.26031,"
+      Released 2018Excl. to Funimation/BoxLunch
+"
+"
+      Pop! Vinyl Pop! Animation Gotenks
+    ",5.0,"
+        7694 
+      ","
+        1735 
+      ",0.22550,"
+      #319Released 2018Excl. to PreviewsEdition Size: 20000
+"
+"
+      Pop! Vinyl Pop! Animation Gotenks (Super Ghost Kamikaze Attack) [SDCC]
+    ",5.0,"
+        311 
+      ","
+        328 
+      ",1.05466,"
+      #634Released 2019Excl. to San Diego Comic Con
+"
+"
+      Pop! Vinyl Pop! Animation Gotenks (Super Ghost Kamikaze Attack) [Summer Convention]
+    ",3.0,"
+        3368 
+      ","
+        320 
+      ",0.09501,"
+      #634Released 2019Excl. to BoxLunch (SDCC)
+"
+"
+      Vinyl Coin Banks Grape Ape (Metallic)
+    ",80.0,"
+        5 
+      ","
+        13 
+      ",2.60000,"
+      Released 2009Excl. to Funko FundaysEdition Size: 24
+"
+"
+      Pop! Vinyl Pop! Animation Great Ape Vegeta [Fall Convention]
+    ",8.0,"
+        6676 
+      ","
+        1251 
+      ",0.18739,"
+      #434Released 2018Excl. to Hot Topic (NYCC)
+"
+"
+      Pop! Vinyl Pop! Ad Icons Green Giant & Sprout (Metallic 2-Pack)
+    ",7.0,"
+        926 
+      ","
+        194 
+      ",0.20950,"
+      Released 2019Excl. to Target
+"
+"
+      Pop! Vinyl Pop! Ad Icons Green Giant & Sprout (Metallic 2-Pack) [SDCC Debut]
+    ",3.0,"
+        151 
+      ","
+        66 
+      ",0.43709,"
+      Released 2019Excl. to San Diego Comic Con / Target
+"
+"
+      Pop! Vinyl Pop! Marvel Green Goblin (Metallic)
+    ",5.0,"
+        7129 
+      ","
+        2805 
+      ",0.39346,"
+      #109Released 2016Excl. to Walgreens/Underground ToysRarity: 1/6
+"
+"
+      Pop! Vinyl Pop! Heroes Green Lantern (Bobble-Head) (Metallic)
+    ",200.0,"
+        71 
+      ","
+        888 
+      ",12.50704,"
+      #9Released 2010Excl. to Target
+"
+"
+      Vinyl Funko Force DC Comics Green Lantern (Metallic)
+    ",5.0,"
+        10 
+      ","
+        48 
+      ",4.80000,"
+"
+"
+      Pop! Vinyl Pop! Heroes Green Lantern (Metallic)
+    ",20.0,"
+        380 
+      ","
+        1134 
+      ",2.98421,"
+      #9Released 2010
+"
+"
+      Pop! Vinyl Pop! Television Green Ranger (Metallic)
+    ",6.0,"
+        4967 
+      ","
+        1862 
+      ",0.37487,"
+      #360Released 2016Excl. to Toy Tokyo 
+"
+"
+      Pop! Vinyl Pop! Football Greg Olsen, Cam Newton & Luke Kuechly (3-Pack)
+    ",3.0,"
+        311 
+      ","
+        209 
+      ",0.67203,"
+      Released 2016Excl. to GTS
+"
+"
+      Pop! Vinyl Pop! Marvel Groot (Angry)
+    ",3.0,"
+        6634 
+      ","
+        2945 
+      ",0.44393,"
+      #84Released 2015Excl. to Dallas Comic Con
+"
+"
+      Pop! Vinyl Pop! Animation Grunkle Stan
+    ",9.0,"
+        2701 
+      ","
+        1018 
+      ",0.37690,"
+      #242Released 2017
+"
+"
+      Plush Other Smallfoot Gwangi
+    ",1.0,"
+        1 
+      ","
+        2 
+      ",2.00000,"
+      Released 2019
+"
+"
+      Pop! Vinyl Pop! Heroes Hal Jordan (Movie) (Metallic)
+    ",10.0,"
+        275 
+      ","
+        656 
+      ",2.38545,"
+      #11Released 2011Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Wacky Wobbler Wacky Wobblers DC Comics Hal Jordan (Movie) (Metallic)
+    ",4.0,"
+        23 
+      ","
+        17 
+      ",0.73913,"
+      Released 2011Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Pop! Vinyl Pop! Disney Halloween Donald
+    ",9.0,"
+        6135 
+      ","
+        1970 
+      ",0.32111,"
+      #268Released 2017Excl. to New York Comic Con
+"
+"
+      Vinyl Retro Freddy Halloween Freddy
+    ",4.0,"
+        821 
+      ","
+        82 
+      ",0.09988,"
+      Released 2018Excl. to Funko HQ / Funko-Shop
+"
+"
+      Pop! Vinyl Pop! Disney Halloween Goofy
+    ",4.0,"
+        6247 
+      ","
+        2057 
+      ",0.32928,"
+      #269Released 2017Excl. to New York Comic Con
+"
+"
+      Pop! Vinyl Pop! Disney Halloween Stitch
+    ",6.0,"
+        1502 
+      ","
+        307 
+      ",0.20439,"
+      #605Released 2019Excl. to FYE
+"
+"
+      Mystery Vinyl Mystery Minis DC Comics Series 2 - DC Super Heroes Harley Quinn (Cane) (Metallic)
+    ",8.0,"
+        212 
+      ","
+        378 
+      ",1.78302,"
+      Excl. to Hot TopicRarity: 1/36
+"
+"
+      Hikari DC Comics Harley Quinn (Crimson Metallic)
+    ",9.0,"
+        36 
+      ","
+        135 
+      ",3.75000,"
+      Released 2016Edition Size: 500
+"
+"
+      Pop! Vinyl Pop! Heroes Harley Quinn (Metallic)
+    ",9.0,"
+        2371 
+      ","
+        2515 
+      ",1.06073,"
+      #34Released 2013Excl. to Conquest Comics
+"
+"
+      Vinyl 5 Star DC Super Heroes Harley Quinn (Pink) [Fall Convention]
+    ",7.0,"
+        279 
+      ","
+        98 
+      ",0.35125,"
+      Released 2018Excl. to Hot Topic (NYCC)
+"
+"
+      Pop! Vinyl Pop! Heroes Harley Quinn with Mallet (Black & White)
+    ",9.0,"
+        5232 
+      ","
+        2523 
+      ",0.48222,"
+      #45Released 2015Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Heroes Harley Quinn with Mallet (Pink Diamond Collection)
+    ",4.0,"
+        3278 
+      ","
+        293 
+      ",0.08938,"
+      #45Released 2019Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Heroes Harley Quinn with Mallet (Pink Hearts)
+    ",5.0,"
+        12725 
+      ","
+        2733 
+      ",0.21477,"
+      #45Released 2016Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pocket Pop! Advent Calendar Harry Potter Calendar (Yule Ball)
+    ",1.0,"
+        365 
+      ","
+        100 
+      ",0.27397,"
+      Due 2019-10-01
+"
+"
+      Vinyl HeroWorld Harry Potter Harry Potter, Ron Weasley, Hermione Granger, Albus Dumbledore, Minerva McGonagall
+    ",2.0,"
+        102 
+      ","
+        86 
+      ",0.84314,"
+      Released 2018
+"
+"
+      Pop! Vinyl Pop! Rocks Hatsune Miku (Metallic)
+    ",6.0,"
+        1241 
+      ","
+        635 
+      ",0.51168,"
+      #39Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Heroes Hawkman (Metallic)
+    ",90.0,"
+        412 
+      ","
+        725 
+      ",1.75971,"
+      #17Released 2011Excl. to Gemini CollectiblesEdition Size: 240
+"
+"
+      Pop! Vinyl Pop! Animation Heffer (Halloween) (Glow in the Dark)
+    ",7.0,"
+        3274 
+      ","
+        626 
+      ",0.19120,"
+      #321Released 2017
+"
+"
+      Pop! Vinyl Pop! Freddy Funko Heimdall
+    ",10.0,"
+        248 
+      ","
+        436 
+      ",1.75806,"
+      #29Released 2014Excl. to San Diego Comic ConEdition Size: 300
+"
+"
+      Pop! Vinyl Pop! Marvel Heimdall (Dark World)
+    ",5.0,"
+        6774 
+      ","
+        2414 
+      ",0.35636,"
+      #55Released 2014Vaulted
+"
+"
+      Pop! Vinyl Pop! Marvel Heimdall (Ragnarok)
+    ",1.0,"
+        6666 
+      ","
+        1093 
+      ",0.16397,"
+      #245Released 2017
+"
+"
+      Pop! Vinyl Pop! Sanrio Hello Kitty (Lady Liberty) [Fall Convention]
+    ",2.0,"
+        845 
+      ","
+        59 
+      ",0.06982,"
+      #27Released 2019Excl. to Target (NYCC)
+"
+"
+      Vinyl Hello Kitty Hello Kitty (Metallic Bow)
+    ",3.0,"
+        48 
+      ","
+        103 
+      ",2.14583,"
+      Excl. to HMV
+"
+"
+      Pop! Vinyl Pop! Harry Potter Hermione Granger (Sorting Hat) [Fall Convention]
+    ",1.0,"
+        6034 
+      ","
+        691 
+      ",0.11452,"
+      #69Released 2018Excl. to Barnes & Noble (NYCC)
+"
+"
+      Pop! Vinyl Pop! Animation Hero Killer Stain [Fall Convention]
+    ",2.0,"
+        2344 
+      ","
+        198 
+      ",0.08447,"
+      #636Released 2019Excl. to GameStop (NYCC)
+"
+"
+      Pop! Vinyl Pop! Asia Hiddy (Metallic)
+    ",5.0,"
+        142 
+      ","
+        73 
+      ",0.51408,"
+      #83Released 2016Excl. to ToyCon
+"
+"
+      Pop! Vinyl Pop! Animation HIT
+    ",4.0,"
+        8430 
+      ","
+        1549 
+      ",0.18375,"
+      #315Released 2018Excl. to Toys R Us
+"
+"
+      Pop! Vinyl Pop! Star Wars Holographic Darth Vader
+    ",90.0,"
+        1608 
+      ","
+        3729 
+      ",2.31903,"
+      #33Released 2014Excl. to Dallas Comic Con
+"
+"
+      Vinyl Funko Force Hanna-Barbera Hong Kong Phooey (Metallic)
+    ",5.0,"
+        16 
+      ","
+        34 
+      ",2.12500,"
+      Excl. to San Diego Comic ConEdition Size: 196
+"
+"
+      Wacky Wobbler Wacky Wobblers The Big Bang Theory Howard (Star Trek) (Metallic)
+    ",3.0,"
+        25 
+      ","
+        20 
+      ",0.80000,"
+"
+"
+      Vinyl Funko Force Hanna-Barbera Huckleberry Hound (Blue) (Metallic)
+    ",15.0,"
+        10 
+      ","
+        24 
+      ",2.40000,"
+      Edition Size: 83
+"
+"
+      Wacky Wobbler Bobble Banks Huckleberry Hound (Metallic Blue)
+    ",40.0,"
+        2 
+      ","
+        15 
+      ",7.50000,"
+      Edition Size: Limited
+"
+"
+      Wacky Wobbler Wacky Wobblers Hanna-Barbera Huckleberry Hound (Metallic Blue)
+    ",25.0,"
+        9 
+      ","
+        23 
+      ",2.55556,"
+      Released 2009Excl. to San Diego Comic ConEdition Size: 48
+"
+"
+      Wacky Wobbler Wacky Wobblers Hanna-Barbera Huckleberry Hound (Metallic Purple)
+    ",65.0,"
+        3 
+      ","
+        20 
+      ",6.66667,"
+      Excl. to San Diego Comic ConEdition Size: 12
+"
+"
+      Wacky Wobbler Wacky Wobblers Hanna-Barbera Huckleberry Hound (Metallic Red)
+    ",80.0,"
+        4 
+      ","
+        17 
+      ",4.25000,"
+      Edition Size: 12?
+"
+"
+      Wacky Wobbler Wacky Wobblers Hanna-Barbera Huckleberry Hound (Metallic Silver)
+    ",55.0,"
+        7 
+      ","
+        24 
+      ",3.42857,"
+      Released 2010Excl. to San Diego Comic ConEdition Size: 48
+"
+"
+      Vinyl Vynl Huckleberry Hound + Snagglepuss [Fall Convention]
+    ",5.0,"
+        315 
+      ","
+        51 
+      ",0.16190,"
+      Released 2018Excl. to Funko-Shop (NYCC)
+"
+"
+      Mystery Vinyl Mystery Minis Marvel SDCC Hulk (Metallic)
+    ",1.0,"
+        257 
+      ","
+        122 
+      ",0.47471,"
+      Released 2014Excl. to San Diego Comic ConRarity: 1/12
+"
+"
+      Pop! Vinyl Pop! Marvel Hulkbuster vs. Hulk [Fall Convention]
+    ",3.0,"
+        2368 
+      ","
+        726 
+      ",0.30659,"
+      #394Released 2018Excl. to Walgreens (NYCC)
+"
+"
+      Pop! Vinyl Pop! Heroes Huntress [Fall Convention]
+    ",1.0,"
+        705 
+      ","
+        100 
+      ",0.14184,"
+      #285Released 2019Excl. to Hot Topic (NYCC)
+"
+"
+      Pop! Vinyl Pop! Television Hypodermic Sally
+    ",5.0,"
+        3229 
+      ","
+        1133 
+      ",0.35088,"
+      #324Released 2016Vaulted
+"
+"
+      Other POP! Items Pop! Pins I'm a Fan of Sally
+    ",3.0,"
+        2 
+      ","
+        23 
+      ",11.50000,"
+      Released 2019Excl. to New York Comic Con
+"
+"
+      Pop! Vinyl Pop! Harry Potter Igor Karkaroff (Yule Ball)
+    ",2.0,"
+        261 
+      ","
+        433 
+      ",1.65900,"
+      #95Due 2019-11-01
+"
+"
+      Wacky Wobbler Wacky Wobblers Movies Invasion of the Saucer-Men (Metallic)
+    ",5.0,"
+        3 
+      ","
+        12 
+      ",4.00000,"
+      Released 2010Excl. to San Diego Comic ConEdition Size: 240
+"
+"
+      Pop! Vinyl Pop! Marvel Iron Man (Gauntlet) [Fall Convention]
+    ",1.0,"
+        3151 
+      ","
+        390 
+      ",0.12377,"
+      #529Released 2019Excl. to Amazon (NYCC)
+"
+"
+      Wacky Wobbler Wacky Wobblers Marvel Iron Patriot (Iron Man 3) (Metallic)
+    ",4.0,"
+        99 
+      ","
+        42 
+      ",0.42424,"
+      Released 2013Excl. to San Diego Comic Con
+"
+"
+      Pop! Vinyl Pop! Marvel Iron Patriot (Metallic)
+    ",95.0,"
+        741 
+      ","
+        1580 
+      ",2.13225,"
+      #25Released 2013Excl. to Hot Topic
+"
+"
+      Dorbz Dorbz Ridez It's A Small World
+    ",4.0,"
+        2882 
+      ","
+        106 
+      ",0.03678,"
+      #36Released 2017Excl. to Disney Treasures
+"
+"
+      Pop! Vinyl Pop! Football J.J. Watt
+    ",8.0,"
+        774 
+      ","
+        260 
+      ",0.33592,"
+      #09Released 2014
+"
+"
+      Pop! Vinyl Pop! Football J.J. Watt (Alternate Uniform)
+    ",1.0,"
+        205 
+      ","
+        46 
+      ",0.22439,"
+      #51Released 2018
+"
+"
+      Pop! Vinyl Pop! Football J.J. Watt (Away Jersey)
+    ",9.0,"
+        488 
+      ","
+        203 
+      ",0.41598,"
+      #34Released 2016
+"
+"
+      Pop! Vinyl Pop! Games Jack and BT
+    ",9.0,"
+        1921 
+      ","
+        384 
+      ",0.19990,"
+      #132Released 2017
+"
+"
+      Pop! Vinyl Pop! Disney Jack, Sally & Oogie (Metallic)
+    ",70.0,"
+        466 
+      ","
+        2507 
+      ",5.37983,"
+      Released 2013Excl. to D23 ExpoEdition Size: 500
+"
+"
+      Pop! Vinyl Pop! Football Jalen Ramsey
+    ",3.0,"
+        174 
+      ","
+        40 
+      ",0.22989,"
+      #103Released 2018
+"
+"
+      Pop! Vinyl Pop! Hockey Jamie Benn
+    ",3.0,"
+        539 
+      ","
+        125 
+      ",0.23191,"
+      #01Released 2016
+"
+"
+      Pop! Vinyl Pop! Television Jan Brady & George Glass (2-Pack) [Fall Convention]
+    ",8.0,"
+        915 
+      ","
+        82 
+      ",0.08962,"
+      Released 2018Excl. to Books-A-Million/Sunrise Records (NYCC)
+"
+"
+      Pop! Vinyl Pop! Football Jared Goff
+    ",2.0,"
+        129 
+      ","
+        31 
+      ",0.24031,"
+      #95Released 2018
+"
+"
+      Pop! Vinyl Pop! Football Jason Witten
+    ",1.0,"
+        1014 
+      ","
+        261 
+      ",0.25740,"
+      #49Released 2016
+"
+"
+      Pop! Vinyl Pop! Football Jay Cutler
+    ",2.0,"
+        643 
+      ","
+        123 
+      ",0.19129,"
+      #23Released 2014
+"
+"
+      Pop! Vinyl Pop! Football Jaylon Smith
+    ",6.0,"
+        78 
+      ","
+        40 
+      ",0.51282,"
+      Due 2019-09-01
+"
+"
+      Pop! Vinyl Pop! Artists Jean-Michel Basquiat [Fall Convention]
+    ",2.0,"
+        131 
+      ","
+        33 
+      ",0.25191,"
+      #2Released 2019Excl. to Foot Locker (NYCC)
+"
+"
+      Pop! Vinyl Pop! Football Jerry Rice
+    ",5.0,"
+        651 
+      ","
+        133 
+      ",0.20430,"
+      #114Released 2018
+"
+"
+      Pop! Vinyl Pop! Football Jim Brown
+    ",5.0,"
+        691 
+      ","
+        138 
+      ",0.19971,"
+      #80Released 2017
+"
+"
+      Pop! Vinyl Pop! Television Jimmy McGill
+    ",4.0,"
+        3205 
+      ","
+        1036 
+      ",0.32324,"
+      #322Released 2016Vaulted
+"
+"
+      Pop! Vinyl Pop! Animation Jiren
+    ",8.0,"
+        3850 
+      ","
+        1112 
+      ",0.28883,"
+      #516Released 2019Excl. to PAX South
+"
+"
+      Pop! Vinyl Pop! Football Joe Montana
+    ",2.0,"
+        1589 
+      ","
+        283 
+      ",0.17810,"
+      #84Released 2017
+"
+"
+      Pop! Vinyl Pop! MLB Joey Votto (Gold)
+    ",10.0,"
+        61 
+      ","
+        66 
+      ",1.08197,"
+      #20Released 2018Excl. to Great American Ball Park GiveawayEdition Size: 500
+"
+"
+      Pop! Vinyl Pop! Games John ""Soap"" MacTavish
+    ",2.0,"
+        1873 
+      ","
+        458 
+      ",0.24453,"
+      #143Released 2016
+"
+"
+      Pop! Vinyl Pop! Sports John Wall
+    ",1.0,"
+        437 
+      ","
+        115 
+      ",0.26316,"
+      #26Released 2017
+"
+"
+      Wacky Wobbler Wacky Wobblers Funko Originals Johnny Fang (Metallic)
+    ",80.0,"
+        2 
+      ","
+        5 
+      ",2.50000,"
+"
+"
+      Vinyl Funko Force DC Comics Joker (Metallic)
+    ",70.0,"
+        16 
+      ","
+        90 
+      ",5.62500,"
+"
+"
+      Pop! Vinyl Pop! Ad Icons Jollibee (Metallic)
+    ",65.0,"
+        500 
+      ","
+        486 
+      ",0.97200,"
+      #30Released 2018Excl. to Jollibee Stores
+"
+"
+      Mystery Vinyl Mystery Minis Ad Icons Jolly Green Giant (Metallic)
+    ",6.0,"
+        145 
+      ","
+        102 
+      ",0.70345,"
+      Released 2019Excl. to Specialty SeriesRarity: 1/12
+"
+"
+      Pop! Vinyl Pop! Game of Thrones Jon Snow (Beyond the Wall)
+    ",5.0,"
+        3369 
+      ","
+        2995 
+      ",0.88899,"
+      #7Released 2014
+"
+"
+      Mystery Vinyl Mystery Minis Game of Thrones Series 1 Jon Snow (Beyond the Wall)
+    ",5.0,"
+        325 
+      ","
+        349 
+      ",1.07385,"
+      Excl. to Hot TopicRarity: 1/12
+"
+"
+      Pop! Vinyl Pop! Football Josh Allen
+    ",1.0,"
+        164 
+      ","
+        35 
+      ",0.21341,"
+      #109Released 2018
+"
+"
+      Pop! Vinyl Pop! Football Juju Smith-Schuster
+    ",8.0,"
+        311 
+      ","
+        104 
+      ",0.33441,"
+      #97Released 2018
+"
+"
+      Pop! Vinyl Pop! Football Julian Edelman
+    ",5.0,"
+        934 
+      ","
+        184 
+      ",0.19700,"
+      #70Released 2017
+"
+"
+      Pop! Vinyl Pop! Football Julian Edelman, Tom Brady & Rob Gronkowski (3-Pack)
+    ",20.0,"
+        624 
+      ","
+        511 
+      ",0.81891,"
+      Released 2016Excl. to GTS / Big Game Vendor
+"
+"
+      Pop! Vinyl Pop! Football Julio Jones
+    ",2.0,"
+        647 
+      ","
+        98 
+      ",0.15147,"
+      #72Released 2017
+"
+"
+      Mystery Vinyl Mystery Minis Five Nights at Freddy's Series 2 (Sister Location) Jumpscare Ballora
+    ",4.0,"
+        172 
+      ","
+        94 
+      ",0.54651,"
+      Released 2017Excl. to Walmart
+"
+"
+      Pop! Vinyl Pop! Football Junior Seau
+    ",2.0,"
+        249 
+      ","
+        46 
+      ",0.18474,"
+      #111Released 2018
+"
+"
+      Pop! Vinyl Pop! Asia Kappa (Metallic)
+    ",2.0,"
+        330 
+      ","
+        294 
+      ",0.89091,"
+      #78Released 2016
+"
+"
+      Mystery Vinyl Mystery Minis Stranger Things Series 2 Karen (Metallic)
+    ",2.0,"
+        86 
+      ","
+        42 
+      ",0.48837,"
+      Released 2019Excl. to Hot TopicRarity: 1/72
+"
+"
+      Pop! Vinyl Pop! Movies Katayanagi Twins (2-Pack) [Fall Convention]
+    ",3.0,"
+        1279 
+      ","
+        194 
+      ",0.15168,"
+      Released 2018Excl. to Funko-Shop (NYCC)
+"
+"
+      Pop! Vinyl Pop! Artists Keith Haring [Fall Convention]
+    ",7.0,"
+        309 
+      ","
+        34 
+      ",0.11003,"
+      #1Released 2019Excl. to Barnes & Noble (NYCC)
+"
+"
+      Pop! Vinyl Pop! MLB Ken Griffey Jr. (Bronze)
+    ",100.0,"
+        15 
+      ","
+        135 
+      ",9.00000,"
+      #24Released 2018Excl. to Safeco FieldEdition Size: 24
+"
+"
+      Pop! Vinyl Pop! MLB Ken Griffey Jr. (Rookie)
+    ",60.0,"
+        67 
+      ","
+        232 
+      ",3.46269,"
+      #24Released 2018Excl. to Safeco FieldEdition Size: 1000
+"
+"
+      Pop! Vinyl Pop! Muppets Kermit (Metallic)
+    ",80.0,"
+        471 
+      ","
+        659 
+      ",1.39915,"
+      #1Released 2013Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Pop! Vinyl Pop! Football (Soccer) Kevin De Bruyne
+    ",4.0,"
+        195 
+      ","
+        75 
+      ",0.38462,"
+      #14Released 2018
+"
+"
+      Pop! Vinyl Pop! MLB Kevin Kiermaier (Star Wars Edition)
+    ",5.0,"
+        300 
+      ","
+        139 
+      ",0.46333,"
+      Released 2018Excl. to Tampa Bay Rays
+"
+"
+      Pop! Vinyl Pop! Football Khalil Mack
+    ",6.0,"
+        65 
+      ","
+        30 
+      ",0.46154,"
+      Due 2019-09-01
+"
+"
+      Pop! Vinyl Pop! Television Killer Frost [Fall Convention]
+    ",5.0,"
+        3009 
+      ","
+        623 
+      ",0.20705,"
+      #712Released 2018Excl. to Hot Topic (NYCC)
+"
+"
+      Pop! Vinyl Pop! Movies Korben Dallas
+    ",5.0,"
+        4070 
+      ","
+        1231 
+      ",0.30246,"
+      #189Released 2015Vaulted
+"
+"
+      Pop! Vinyl Pop! Marvel Korg with Miek [Fall Convention]
+    ",9.0,"
+        5697 
+      ","
+        558 
+      ",0.09795,"
+      #391Released 2018Excl. to GameStop / EB Games (NYCC)
+"
+"
+      Pop! Vinyl Pop! Animation Krillin
+    ",8.0,"
+        11808 
+      ","
+        2394 
+      ",0.20274,"
+      #110Released 2016
+"
+"
+      Pop! Vinyl Pop! MLB Kris Bryant
+    ",2.0,"
+        559 
+      ","
+        161 
+      ",0.28801,"
+      #3Released 2018
+"
+"
+      Pop! Vinyl Pop! Football Lamar Jackson
+    ",3.0,"
+        73 
+      ","
+        27 
+      ",0.36986,"
+      Due 2019-09-01
+"
+"
+      Pop! Vinyl Pop! Football Lawrence Taylor (Color Rush)
+    ",6.0,"
+        686 
+      ","
+        116 
+      ",0.16910,"
+      #79Released 2017Excl. to Toys R Us
+"
+"
+      Pop! Vinyl Pop! Football Le'Veon Bell
+    ",1.0,"
+        162 
+      ","
+        42 
+      ",0.25926,"
+      #52Released 2018
+"
+"
+      Wacky Wobbler Wacky Wobblers Ad Icons Lefty Lime (Metallic)
+    ",5.0,"
+        4 
+      ","
+        10 
+      ",2.50000,"
+      Released 2010Excl. to Funko Fundays
+"
+"
+      Pop! Vinyl Pop! Animation Legendary Super Saiyan Broly
+    ",6.0,"
+        2662 
+      ","
+        416 
+      ",0.15627,"
+      #623Released 2019Excl. to Galactic Toys
+"
+"
+      Wacky Wobbler Wacky Wobblers The Big Bang Theory Leonard (Star Trek) (Metallic)
+    ",1.0,"
+        25 
+      ","
+        25 
+      ",1.00000,"
+"
+"
+      Pop! Vinyl Pop! Television Leonardo (Metallic)
+    ",20.0,"
+        718 
+      ","
+        1256 
+      ",1.74930,"
+      #63Released 2013Excl. to San Diego Comic ConEdition Size: 1008
+"
+"
+      Hikari TMNT Leonardo (Metallic)
+    ",2.0,"
+        80 
+      ","
+        87 
+      ",1.08750,"
+      Released 2014Edition Size: 500
+"
+"
+      Pop! Vinyl Pop! Football (Soccer) Leroy Sane
+    ",2.0,"
+        18 
+      ","
+        13 
+      ",0.72222,"
+      Released 2019
+"
+"
+      Pop! Vinyl Pop! Games Liberty Prime
+    ",1.0,"
+        1798 
+      ","
+        653 
+      ",0.36318,"
+      #167Released 2017
+"
+"
+      Pop! Vinyl Pop! Games Liberty Prime (Battle)
+    ",5.0,"
+        2775 
+      ","
+        808 
+      ",0.29117,"
+      #170Released 2017Excl. to Gamestop
+"
+"
+      Pop! Vinyl Pop! Disney Little Whirlwind Mickey [Fall Convention]
+    ",4.0,"
+        1916 
+      ","
+        251 
+      ",0.13100,"
+      #432Released 2018Excl. to Walmart (NYCC)
+"
+"
+      Wacky Wobbler Wacky Wobblers Music Lizard King (Metallic)
+    ",10.0,"
+        10 
+      ","
+        32 
+      ",3.20000,"
+      Released 2010
+"
+"
+      Mystery Vinyl Mystery Minis Bethesda Fallout Lone Wanderer (Female)
+    ",4.0,"
+        453 
+      ","
+        266 
+      ",0.58720,"
+      Released 2015Excl. to GameStop/EB GamesRarity: 1/12
+"
+"
+      Pop! Vinyl Pop! Games LT. Simon ""Ghost"" Riley
+    ",9.0,"
+        4050 
+      ","
+        698 
+      ",0.17235,"
+      #70Released 2015Excl. to GameStop/EB Games
+"
+"
+      Pop! Vinyl Pop! Games LT. Simon ""Ghost"" Riley (Muddy)
+    ",5.0,"
+        1030 
+      ","
+        487 
+      ",0.47282,"
+      #70Released 2016Vaulted
+"
+"
+      Wacky Wobbler Wacky Wobblers Peanuts Lucy (Halloween)
+    ",2.0,"
+        12 
+      ","
+        39 
+      ",3.25000,"
+"
+"
+      Pop! Vinyl Pop! Television Lucy Van Pelt (Witch)
+    ",7.0,"
+        2601 
+      ","
+        812 
+      ",0.31219,"
+      #332Released 2016
+"
+"
+      Pop! Vinyl Pop! Basketball Luka Doncic
+    ",5.0,"
+        46 
+      ","
+        29 
+      ",0.63043,"
+      #60Due 2019-11-01
+"
+"
+      Pop! Vinyl Pop! Animation Mabel Pines
+    ",1.0,"
+        2771 
+      ","
+        1022 
+      ",0.36882,"
+      #241Released 2017
+"
+"
+      Pop! Vinyl Pop! Animation Mabelcorn Mabel
+    ",9.0,"
+        3307 
+      ","
+        899 
+      ",0.27185,"
+      #244Released 2017Excl. to Hot Topic
+"
+"
+      Dorbz Disney Mad Hatter, McTwisp, Time & Mallymkun (4-Pack)
+    ",6.0,"
+        223 
+      ","
+        169 
+      ",0.75785,"
+      Released 2016Excl. to San Diego Comic ConEdition Size: 750
+"
+"
+      Pop! Vinyl Pop! Harry Potter Madame Maxime (Yule Ball) [Fall Convention]
+    ",4.0,"
+        788 
+      ","
+        89 
+      ",0.11294,"
+      #102Released 2019Excl. to Hot Topic (NYCC)
+"
+"
+      Pop! Vinyl Pop! Harry Potter Madame Maxime (Yule Ball) [NYCC]
+    ",1.0,"
+        90 
+      ","
+        105 
+      ",1.16667,"
+      #102Released 2019Excl. to New York Comic Con
+"
+"
+      Pop! Vinyl Pop! Marvel Madcap (Metallic)
+    ",8.0,"
+        2724 
+      ","
+        1366 
+      ",0.50147,"
+      #158Released 2016Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Marvel Magneto (Metallic)
+    ",4.0,"
+        9778 
+      ","
+        2346 
+      ",0.23993,"
+      #62Released 2014Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Muppets Mahna Mahna & Snowths (Metallic) (3-Pack)
+    ",80.0,"
+        189 
+      ","
+        613 
+      ",3.24339,"
+      Released 2012Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Pop! Vinyl Pop! Animation Majin Buu
+    ",1.0,"
+        15194 
+      ","
+        2460 
+      ",0.16191,"
+      #111Released 2016
+"
+"
+      Pop! Vinyl Pop! Animation Majin Buu (Chocolate)
+    ",3.0,"
+        8471 
+      ","
+        3175 
+      ",0.37481,"
+      #111
+"
+"
+      Pop! Vinyl Pop! Giant Maleficent (Metallic)
+    ",60.0,"
+        171 
+      ","
+        834 
+      ",4.87719,"
+      Released 2011Excl. to San Diego Comic ConEdition Size: 360
+"
+"
+      Pop! Vinyl Pop! Asia Manny Pacquiao (Basketball)
+    ",8.0,"
+        495 
+      ","
+        241 
+      ",0.48687,"
+      #40Released 2015
+"
+"
+      Pop! Vinyl Pop! Football Marcus Mariota
+    ",5.0,"
+        555 
+      ","
+        151 
+      ",0.27207,"
+      #35Released 2016
+"
+"
+      Pop! Vinyl Pop! Football Marcus Mariota (Away Jersey)
+    ",2.0,"
+        433 
+      ","
+        123 
+      ",0.28406,"
+      #54Released 2016
+"
+"
+      Pop! Vinyl Pop! Football (Soccer) Marcus Rashford
+    ",4.0,"
+        67 
+      ","
+        24 
+      ",0.35821,"
+      #17Released 2019
+"
+"
+      Action Figures Articulated Action Figures Married with Children (4-Pack) [Fall Convention]
+    ",8.0,"
+        110 
+      ","
+        24 
+      ",0.21818,"
+      Released 2018Excl. to Target (NYCC)
+"
+"
+      Action Figures ReAction Figures Pulp Fiction Marsellus Wallace
+    ",1.0,"
+        62 
+      ","
+        31 
+      ",0.50000,"
+      Released 2015
+"
+"
+      Pop! Vinyl Pop! Football Marshawn Lynch
+    ",7.0,"
+        1028 
+      ","
+        368 
+      ",0.35798,"
+      #3Released 2014
+"
+"
+      Pop! Vinyl Pop! Football Marshawn Lynch (Away Jersey)
+    ",9.0,"
+        646 
+      ","
+        201 
+      ",0.31115,"
+      #36Released 2016
+"
+"
+      Pop! Vinyl Pop! Football Marshawn Lynch (Raiders)
+    ",1.0,"
+        524 
+      ","
+        138 
+      ",0.26336,"
+      #77Released 2017
+"
+"
+      Mystery Vinyl Mystery Minis Disney Frozen Marshmallow (Angry)
+    ",4.0,"
+        1063 
+      ","
+        162 
+      ",0.15240,"
+      Released 2015Rarity: 1/24
+"
+"
+      Mystery Vinyl Mystery Minis Disney Frozen Marshmallow (Happy)
+    ",9.0,"
+        508 
+      ","
+        185 
+      ",0.36417,"
+      Released 2015Rarity: 1/72
+"
+"
+      Pop! Vinyl Pop! Sci-Fi Martian (Metallic)
+    ",90.0,"
+        451 
+      ","
+        747 
+      ",1.65632,"
+      #1Released 2012Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Wacky Wobbler Wacky Wobblers Movies Martian (Metallic)
+    ",5.0,"
+        101 
+      ","
+        89 
+      ",0.88119,"
+      Released 2012Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Pop! Vinyl Pop! Freddy Funko Martian (Metallic)
+    ",50.0,"
+        25 
+      ","
+        304 
+      ",12.16000,"
+      #10Released 2012Excl. to San Diego Comic ConEdition Size: 12
+"
+"
+      Pop! Vinyl Pop! Heroes Martian Manhunter (Metallic)
+    ",60.0,"
+        429 
+      ","
+        910 
+      ",2.12121,"
+      #18Released 2011Excl. to Gemini CollectiblesEdition Size: 480
+"
+"
+      Pop! Vinyl Pop! Movies Marty McFly (Anti-Radiation Suit) [Fall Convention]
+    ",1.0,"
+        1507 
+      ","
+        154 
+      ",0.10219,"
+      #815Released 2019Excl. to Funko-Shop (NYCC)
+"
+"
+      Pop! Vinyl Pop! Disney Mary Sanderson
+    ",7.0,"
+        4867 
+      ","
+        726 
+      ",0.14917,"
+      #435Released 2018Excl. to Spirit Halloween
+"
+"
+      Vinyl Funko Force Halo Master Chief (Metallic)
+    ",6.0,"
+        26 
+      ","
+        34 
+      ",1.30769,"
+      Released 2009Excl. to SDCCEdition Size: Limited
+"
+"
+      Pop! Vinyl Pop! Animation Master Roshi (Peace Sign)
+    ",3.0,"
+        4743 
+      ","
+        985 
+      ",0.20767,"
+      #381Released 2018Excl. to FYE
+"
+"
+      Pop! Vinyl Pop! Football Matt Ryan
+    ",1.0,"
+        558 
+      ","
+        83 
+      ",0.14875,"
+      #73Released 2017
+"
+"
+      Pop! Vinyl Pop! Football Matt Stafford
+    ",3.0,"
+        176 
+      ","
+        56 
+      ",0.31818,"
+      #102Released 2018
+"
+"
+      Pop! Vinyl Pop! Television Max (Mall Outfit)
+    ",2.0,"
+        911 
+      ","
+        279 
+      ",0.30626,"
+      #806Released 2019
+"
+"
+      Vinyl Vynl Max Fischer + Herman Blume [Fall Convention]
+    ",6.0,"
+        173 
+      ","
+        21 
+      ",0.12139,"
+      Released 2018Excl. to BoxLunch (NYCC)
+"
+"
+      Pop! Vinyl Pop! Town Christmas Mayor Patty Noble with City Hall
+    ",9.0,"
+        122 
+      ","
+        84 
+      ",0.68852,"
+      #4Due 2019-11-01
+"
+"
+      Pop! Vinyl Pop! Rides Mean Machine (w/ Dick Dastardly) (Metallic)
+    ",10.0,"
+        233 
+      ","
+        582 
+      ",2.49785,"
+      #11Released 2015Excl. to Toy Tokyo
+"
+"
+      Plush Other Smallfoot Meechee
+    ",2.0,"
+        3 
+      ","
+        2 
+      ",0.66667,"
+      Released 2018
+"
+"
+      Wacky Wobbler Wacky Wobblers Transformers Megatron (Red Metallic Base)
+    ",1.0,"
+        5 
+      ","
+        17 
+      ",3.40000,"
+      Released 2009
+"
+"
+      Pop! Vinyl Pop! Television Megazord (Metallic)
+    ",8.0,"
+        2906 
+      ","
+        567 
+      ",0.19511,"
+      #497Released 2018Excl. to AAA Anime
+"
+"
+      Pop! Vinyl Pop! Football Melvin Gordon III
+    ",8.0,"
+        29 
+      ","
+        17 
+      ",0.58621,"
+      Due 2019-09-01
+"
+"
+      Pop! Vinyl Pop! Disney Merida (Metallic)
+    ",65.0,"
+        583 
+      ","
+        1253 
+      ",2.14923,"
+      #57Released 2013Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Pop! Vinyl Pop! Marvel Mermaid Deadpool (Metallic)
+    ",6.0,"
+        2275 
+      ","
+        1089 
+      ",0.47868,"
+      #321Released 2018Excl. to Target
+"
+"
+      Other POP! Items Pop! Tees & Apparel Pop! and Shirt Pack Mermaid Deadpool (Metallic) with Mermaid Deadpool Tee
+    ",6.0,"
+        1516 
+      ","
+        236 
+      ",0.15567,"
+      Released 2018Excl. to Target
+"
+"
+      Pop! Vinyl Pop! Football (Soccer) Mesut Ozil
+    ",2.0,"
+        186 
+      ","
+        64 
+      ",0.34409,"
+      #11Released 2018
+"
+"
+      Hikari Universal Monsters Metaluna Mutant (Metallic)
+    ",3.0,"
+        50 
+      ","
+        57 
+      ",1.14000,"
+      Released 2015Edition Size: 750
+"
+"
+      Action Figures ReAction Figures Pulp Fiction Mia Wallace
+    ",2.0,"
+        93 
+      ","
+        30 
+      ",0.32258,"
+      Released 2014
+"
+"
+      Pop! Vinyl Pop! Movies Mia Wallace
+    ",5.0,"
+        2701 
+      ","
+        2190 
+      ",0.81081,"
+      #63Released 2014Vaulted
+"
+"
+      Action Figures ReAction Figures Horror Classics Michael Myers
+    ",2.0,"
+        472 
+      ","
+        170 
+      ",0.36017,"
+      Released 2014
+"
+"
+      Plush Horror Plushies Michael Myers
+    ",7.0,"
+        211 
+      ","
+        71 
+      ",0.33649,"
+      Released 2017
+"
+"
+      Plush Mopeez Horror Michael Myers
+    ",8.0,"
+        470 
+      ","
+        124 
+      ",0.26383,"
+      Released 2016Vaulted
+"
+"
+      Action Figures Savage World Horror Michael Myers
+    ",1.0,"
+        166 
+      ","
+        52 
+      ",0.31325,"
+      Released 2018
+"
+"
+      Plush Plushies (Older Line) Horror Classics Michael Myers
+    ",6.0,"
+        94 
+      ","
+        137 
+      ",1.45745,"
+"
+"
+      Mystery Vinyl Mystery Minis Horror Classics Series 1 Michael Myers
+    ",1.0,"
+        1649 
+      ","
+        662 
+      ",0.40146,"
+      Released 2013Rarity: 1/12
+"
+"
+      Pop! Vinyl Pop! Movies Michael Myers (Blood Splatter)
+    ",9.0,"
+        4450 
+      ","
+        548 
+      ",0.12315,"
+      #622Released 2018Excl. to FYE
+"
+"
+      Pop! Vinyl Pop! Movies Michael Myers (Glow in the Dark)
+    ",30.0,"
+        2590 
+      ","
+        2960 
+      ",1.14286,"
+      #3Released 2011
+"
+"
+      Pop! Vinyl Pop! Movies Michael Myers (H20)
+    ",4.0,"
+        720 
+      ","
+        111 
+      ",0.15417,"
+      #831Released 2019Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Football Michael Thomas
+    ",6.0,"
+        65 
+      ","
+        24 
+      ",0.36923,"
+      Due 2019-09-01
+"
+"
+      Pop! Vinyl Pop! Television Michelangelo (Grayscale Metallic)
+    ",55.0,"
+        310 
+      ","
+        1045 
+      ",3.37097,"
+      #62Released 2013Excl. to Coast City StylesEdition Size: 500
+"
+"
+      Pop! Vinyl Pop! Television Michelangelo (Metallic)
+    ",80.0,"
+        725 
+      ","
+        1264 
+      ",1.74345,"
+      #62Released 2013Excl. to San Diego Comic ConEdition Size: 1008
+"
+"
+      Hikari TMNT Michelangelo (Metallic)
+    ",3.0,"
+        73 
+      ","
+        91 
+      ",1.24658,"
+      Released 2014Excl. to NickelodeonEdition Size: 500
+"
+"
+      Pop! Vinyl Pop! Disney Mickey Mouse (Metallic)
+    ",120.0,"
+        210 
+      ","
+        1439 
+      ",6.85238,"
+      #1Released 2011Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Pop! Vinyl Pocket Pop! Keychains Other Migo
+    ",1.0,"
+        24 
+      ","
+        10 
+      ",0.41667,"
+      Released 2018Excl. to Walmart
+"
+"
+      Plush Other Smallfoot Migo
+    ",5.0,"
+        2 
+      ","
+        3 
+      ",1.50000,"
+      Released 2018
+"
+"
+      Pop! Vinyl Pop! Football Mike Ditka
+    ",3.0,"
+        880 
+      ","
+        173 
+      ",0.19659,"
+      #90Released 2017
+"
+"
+      Pop! Vinyl Pop! Disney Mike Wazowski (Monsters University) (Metallic)
+    ",85.0,"
+        691 
+      ","
+        972 
+      ",1.40666,"
+      #61Released 2013Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Pop! Vinyl Pop! Ad Icons Mimic the Monkey (Red Overalls) [Fall Convention]
+    ",9.0,"
+        318 
+      ","
+        56 
+      ",0.17610,"
+      #64Released 2019Excl. to Funko-Shop (NYCC)
+"
+"
+      Pop! Vinyl Pop! Ad Icons Mimic the Monkey (Red Overalls) [NYCC]
+    ",6.0,"
+        63 
+      ","
+        47 
+      ",0.74603,"
+      #64Released 2019Excl. to New York Comic Con
+"
+"
+      Mystery Vinyl Mystery Minis Harry Potter Series 1 Minerva McGonagall
+    ",4.0,"
+        1131 
+      ","
+        623 
+      ",0.55084,"
+      Released 2016Rarity: 1/72
+"
+"
+      Pop! Vinyl Pop! Harry Potter Minerva McGonagall (Cat)
+    ",5.0,"
+        2576 
+      ","
+        1125 
+      ",0.43672,"
+      #66Released 2018Excl. to Books-A-Million
+"
+"
+      Pop! Vinyl Pop! Harry Potter Minerva McGonagall (Yule Ball)
+    ",4.0,"
+        312 
+      ","
+        490 
+      ",1.57051,"
+      #93Due 2019-11-01
+"
+"
+      Pop! Vinyl Pop! Muppets Miss Piggy (Metallic)
+    ",60.0,"
+        493 
+      ","
+        496 
+      ",1.00609,"
+      #2Released 2013Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Pop! Vinyl Pop! Game of Thrones Missandei [Fall Convention]
+    ",7.0,"
+        1288 
+      ","
+        144 
+      ",0.11180,"
+      #77Released 2019Excl. to Barnes & Noble (NYCC)
+"
+"
+      Mystery Vinyl Mystery Minis Bethesda Fallout 4 Mister Handy
+    ",5.0,"
+        563 
+      ","
+        270 
+      ",0.47957,"
+      Released 2016Rarity: 1/12
+"
+"
+      Pop! Vinyl Pop! Football (Soccer) Mohamed Salah
+    ",4.0,"
+        457 
+      ","
+        161 
+      ",0.35230,"
+      #08Released 2018
+"
+"
+      Pop! Vinyl Pop! Games Monkey Bomb
+    ",6.0,"
+        4810 
+      ","
+        736 
+      ",0.15301,"
+      #147Released 2016Excl. to GameStop / EB Games
+"
+"
+      Pop! Vinyl Pop! Marvel Ms. Marvel (First Appearance) [Fall Convention]
+    ",5.0,"
+        432 
+      ","
+        85 
+      ",0.19676,"
+      #527Released 2019Excl. to Funko-Shop (NYCC)
+"
+"
+      Pop! Vinyl Pop! Games MSGT. Frank Woods
+    ",1.0,"
+        2862 
+      ","
+        381 
+      ",0.13312,"
+      #69Released 2015Excl. to GameStop/EB Games
+"
+"
+      Pop! Vinyl Pop! Games Msgt. Frank Woods (Muddy)
+    ",2.0,"
+        683 
+      ","
+        275 
+      ",0.40264,"
+      #69Released 2016
+"
+"
+      Pop! Vinyl Pop! MLB Nelson Cruz
+    ",4.0,"
+        259 
+      ","
+        53 
+      ",0.20463,"
+      #19Released 2018
+"
+"
+      Pop! Vinyl Pop! MLB Nelson Cruz (Boomstick)
+    ",8.0,"
+        351 
+      ","
+        93 
+      ",0.26496,"
+      #21Released 2018Excl. to Safeco FieldEdition Size: 18,977
+"
+"
+      Pop! Vinyl Pop! MLB Nelson Cruz (Boomstick) (Silver)
+    ",10.0,"
+        8 
+      ","
+        76 
+      ",9.50000,"
+      #21Released 2018Excl. to Safeco FieldEdition Size: 23
+"
+"
+      Pop! Vinyl Pop! Animation Neo Queen Serenity, Small Lady & King Endymion (3-Pack)
+    ",5.0,"
+        3420 
+      ","
+        731 
+      ",0.21374,"
+      Released 2018Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Marvel Nick Fury (First Appearance) [Fall Convention]
+    ",7.0,"
+        1430 
+      ","
+        141 
+      ",0.09860,"
+      #528Released 2019Excl. to GameStop (NYCC)
+"
+"
+      Mystery Vinyl Mystery Minis Bethesda Fallout 4 Nick Valentine
+    ",1.0,"
+        662 
+      ","
+        151 
+      ",0.22810,"
+      Released 2016Rarity: 1/24
+"
+"
+      Pop! Vinyl Pop! Games Nick Valentine
+    ",6.0,"
+        2512 
+      ","
+        995 
+      ",0.39610,"
+      #162Released 2017
+"
+"
+      Pop! Vinyl Pop! Game of Thrones Night King (Iron Throne) (Metallic)
+    ",2.0,"
+        1924 
+      ","
+        390 
+      ",0.20270,"
+      #74Released 2019Excl. to HBO Shop
+"
+"
+      Pop! Vinyl Pop! Game of Thrones Night King (Metallic)
+    ",2.0,"
+        4955 
+      ","
+        436 
+      ",0.08799,"
+      #44Released 2019Excl. to AT&T
+"
+"
+      Mystery Vinyl Mystery Minis Five Nights at Freddy's Series 2 (Sister Location) Nightmare Balloon Boy
+    ",2.0,"
+        357 
+      ","
+        83 
+      ",0.23249,"
+      Released 2017Rarity: 1/24
+"
+"
+      Pop! Vinyl Pocket Pop! Tins Nightmare Before Christmas (Jack, Sally, Oogie) (Glow in the Dark)
+    ",3.0,"
+        1918 
+      ","
+        495 
+      ",0.25808,"
+      #7Released 2015Excl. to Barnes & Noble
+"
+"
+      Pop! Vinyl Pop! Heroes Nightwing (Red) (Metallic)
+    ",60.0,"
+        270 
+      ","
+        1176 
+      ",4.35556,"
+      #40Released 2013Excl. to Fugitive Toys
+"
+"
+      Pop! Vinyl Pop! Uglydoll Ninja Batty Shogun (Red Metallic)
+    ",70.0,"
+        34 
+      ","
+        220 
+      ",6.47059,"
+      #4Released 2012Excl. to San Diego Comic ConEdition Size: 48
+"
+"
+      Vinyl Urban Vinyl Notorious BIG (Metallic)
+    ",45.0,"
+        17 
+      ","
+        49 
+      ",2.88235,"
+      Released 2011Excl. to San Diego Comic Con/Toy TokyoEdition Size: 240
+"
+"
+      Mystery Vinyl Mystery Minis Bethesda Fallout Series 2 Nuka-Girl
+    ",1.0,"
+        204 
+      ","
+        76 
+      ",0.37255,"
+      Released 2018Rarity: 1/12
+"
+"
+      Pop! Vinyl Pop! Games Nuka-Girl
+    ",8.0,"
+        316 
+      ","
+        110 
+      ",0.34810,"
+      #517Excl. to GameStopDue 2019-10-23
+"
+"
+      Pop! Vinyl Pop! Football Odell Beckham Jr (Away Jersey)
+    ",6.0,"
+        556 
+      ","
+        252 
+      ",0.45324,"
+      #29Released 2016
+"
+"
+      Pop! Vinyl Pop! Football Odell Beckham Jr (Color Rush)
+    ",1.0,"
+        623 
+      ","
+        90 
+      ",0.14446,"
+      #55Released 2017
+"
+"
+      Pop! Vinyl Pop! Football Odell Beckham Jr.
+    ",5.0,"
+        96 
+      ","
+        34 
+      ",0.35417,"
+      Due 2019-09-01
+"
+"
+      Pop! Vinyl Pop! Funko Officer Freddy [Fall Convention]
+    ",5.0,"
+        819 
+      ","
+        68 
+      ",0.08303,"
+      #58Released 2019Excl. to Funko-Shop (NYCC)
+"
+"
+      Pop! Vinyl Pop! Marvel Okoye (Red Dress) [Fall Convention]
+    ",3.0,"
+        3240 
+      ","
+        544 
+      ",0.16790,"
+      #385Released 2018Excl. to Amazon (NYCC)
+"
+"
+      Pop! Vinyl Pocket Pop! Singles Oogie Boogie (Glow in the Dark)
+    ",5.0,"
+        13 
+      ","
+        37 
+      ",2.84615,"
+      Released 2019Excl. to Spencer's and Spirit Halloween
+"
+"
+      Other Funko Lines FunkOs Oogie Boogie FunkO's
+    ",3.0,"
+        65 
+      ","
+        66 
+      ",1.01538,"
+      Released 2019Excl. to Spencer's and Spirit Halloween
+"
+"
+      Wacky Wobbler Wacky Wobblers Transformers Optimus Prime (Metallic)
+    ",2.0,"
+        11 
+      ","
+        30 
+      ",2.72727,"
+      Released 2010Excl. to San Diego Comic ConEdition Size: 240
+"
+"
+      Hikari Transformers Optimus Prime (Metallic)
+    ",1.0,"
+        84 
+      ","
+        46 
+      ",0.54762,"
+      Released 2014Edition Size: 2000
+"
+"
+      Pop! Vinyl Pop! Movies Optimus Prime (Metallic)
+    ",2.0,"
+        2513 
+      ","
+        1060 
+      ",0.42181,"
+      #101Released 2014Excl. to Barnes & Noble
+"
+"
+      Pop! Vinyl Pop! Disney Oswald Rabbit (Metallic)
+    ",45.0,"
+        745 
+      ","
+        839 
+      ",1.12617,"
+      #65Released 2013Excl. to San Diego Comic ConEdition Size: 1008
+"
+"
+      Pop! Vinyl Pop! Harry Potter Padma Patil (Yule Ball)
+    ",2.0,"
+        236 
+      ","
+        418 
+      ",1.77119,"
+      #99Due 2019-11-01
+"
+"
+      Pop! Vinyl Pop! Games Paladin Danse
+    ",1.0,"
+        1834 
+      ","
+        676 
+      ",0.36859,"
+      #165Released 2017Vaulted
+"
+"
+      Pop! Vinyl Pop! Football Patrick Mahomes II
+    ",4.0,"
+        128 
+      ","
+        58 
+      ",0.45312,"
+      #119Released 2019
+"
+"
+      Pop! Vinyl Pop! Football (Soccer) Paul Pogba
+    ",4.0,"
+        337 
+      ","
+        179 
+      ",0.53116,"
+      #04Released 2018
+"
+"
+      Pop! Vinyl Pop! Icons Paulie Pigeon (Black) [Fall Convention]
+    ",6.0,"
+        323 
+      ","
+        40 
+      ",0.12384,"
+      #23Released 2019Excl. to Funko-Shop (NYCC)
+"
+"
+      Pop! Vinyl Pop! Icons Paulie Pigeon (Red) [Fall Convention]
+    ",6.0,"
+        249 
+      ","
+        36 
+      ",0.14458,"
+      #23Released 2019Excl. to Funko-Shop (NYCC)
+"
+"
+      Pop! Vinyl Pop! Animation Penelope Pitstop (Metallic)
+    ",5.0,"
+        278 
+      ","
+        586 
+      ",2.10791,"
+      #64Released 2015
+"
+"
+      Pop! Vinyl Pop! Movies Pennywise (With Balloon)
+    ",2.0,"
+        11978 
+      ","
+        2292 
+      ",0.19135,"
+      #475Released 2017Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Movies Pennywise (with Balloon) (Metallic)
+    ",2.0,"
+        1685 
+      ","
+        396 
+      ",0.23501,"
+      #475Released 2018Excl. to Hot Topic
+"
+"
+      Other POP! Items Pop! Tees & Apparel Pop! and Shirt Pack Pennywise (with Balloon) (Metallic) and Pennywise Tee
+    ",6.0,"
+        1864 
+      ","
+        271 
+      ",0.14539,"
+      Released 2018Excl. to Hot Topic
+"
+"
+      Wacky Wobbler Wacky Wobblers Ad Icons Pepsi Baseball Player
+    ",3.0,"
+        5 
+      ","
+        24 
+      ",4.80000,"
+      Released 2001Excl. to PBG Summer Challenge
+"
+"
+      Pop! Vinyl Pop! Football Peyton Manning
+    ",5.0,"
+        1816 
+      ","
+        409 
+      ",0.22522,"
+      #4Released 2014
+"
+"
+      Pop! Vinyl Pop! Football Peyton Manning (Alternate Jersey)
+    ",6.0,"
+        1061 
+      ","
+        295 
+      ",0.27804,"
+      #37Released 2016
+"
+"
+      Pop! Vinyl Pop! Ad Icons PEZ Girl (Blonde) [Fall Convention]
+    ",5.0,"
+        449 
+      ","
+        96 
+      ",0.21381,"
+      #81Released 2019Excl. to Funko-Shop (NYCC)
+"
+"
+      Plush Five Nights at Freddy's Phantom Foxy (Metallic Green)
+    ",6.0,"
+        477 
+      ","
+        94 
+      ",0.19706,"
+      Released 2016Excl. to Target
+"
+"
+      Pop! Vinyl Pop! Football Philip Rivers
+    ",8.0,"
+        626 
+      ","
+        157 
+      ",0.25080,"
+      #12Released 2014
+"
+"
+      Pop! Vinyl Pop! Football Philip Rivers (Color Rush)
+    ",7.0,"
+        645 
+      ","
+        92 
+      ",0.14264,"
+      #12Released 2017Excl. to Toys R Us
+"
+"
+      Pop! Vinyl Pop! Animation Piccolo (Lotus Position) [Fall Convention]
+    ",4.0,"
+        2080 
+      ","
+        161 
+      ",0.07740,"
+      #670Released 2019Excl. to GameStop (NYCC)
+"
+"
+      Pop! Vinyl Pop! Animation Piccolo (Lotus Position) [NYCC]
+    ",2.0,"
+        146 
+      ","
+        79 
+      ",0.54110,"
+      #670Released 2019Excl. to New York Comic Con
+"
+"
+      Pop! Vinyl Pop! Monsters Picklez (Fall)
+    ",7.0,"
+        48 
+      ","
+        143 
+      ",2.97917,"
+      #6Released 2018Excl. to Funko
+"
+"
+      Pop! Vinyl Pop! My Little Pony Pinkie Pie (Metallic)
+    ",8.0,"
+        408 
+      ","
+        445 
+      ",1.09069,"
+      #3Released 2014Excl. to Toy Wiz
+"
+"
+      Pop! Vinyl Pop! Games Piper
+    ",1.0,"
+        2092 
+      ","
+        787 
+      ",0.37620,"
+      #164Released 2017
+"
+"
+      Mystery Vinyl Mystery Minis Bethesda Fallout 4 Piper Wright
+    ",1.0,"
+        385 
+      ","
+        179 
+      ",0.46494,"
+      Released 2016Rarity: 1/24
+"
+"
+      Pop! Vinyl Pop! Animation Planet Arlia Vegeta
+    ",220.0,"
+        1554 
+      ","
+        5710 
+      ",3.67439,"
+      #10Released 2014Excl. to New York Comic Con/Toy Tokyo 
+"
+"
+      Pop! Vinyl Pop! Asia Pluto (Metallic)
+    ",4.0,"
+        380 
+      ","
+        236 
+      ",0.62105,"
+      #60Released 2015
+"
+"
+      Vinyl Rock Candy Disney Pocahontas [Fall Convention]
+    ",8.0,"
+        364 
+      ","
+        168 
+      ",0.46154,"
+      Released 2018Excl. to Amazon (NYCC)
+"
+"
+      Pop! Vinyl Pop! Animation Porunga [ECCC]
+    ",5.0,"
+        569 
+      ","
+        522 
+      ",0.91740,"
+      #553Released 2019Excl. to Emerald City Comic Con
+"
+"
+      Pop! Vinyl Pop! Animation Porunga [Spring Convention]
+    ",7.0,"
+        4941 
+      ","
+        400 
+      ",0.08096,"
+      #553Released 2019Excl. to Hot Topic (ECCC)
+"
+"
+      Mystery Vinyl Mystery Minis Bethesda Fallout Power Armor
+    ",2.0,"
+        1406 
+      ","
+        245 
+      ",0.17425,"
+      Rarity: 1/12
+"
+"
+      Pop! Vinyl Pocket Pop! Keychains Video Games Power Armor
+    ",1.0,"
+        774 
+      ","
+        168 
+      ",0.21705,"
+      Released 2016
+"
+"
+      Action Figures Legacy Collection Fallout Power Armor
+    ",6.0,"
+        381 
+      ","
+        182 
+      ",0.47769,"
+      #2Released 2015
+"
+"
+      Pop! Vinyl Pop! Games Power Armor (Gold)
+    ",5.0,"
+        1841 
+      ","
+        1910 
+      ",1.03748,"
+      #49Released 2015Excl. to GameStop/EB Games
+"
+"
+      Pop! Vinyl Pop! Games Power Armor (T-60)
+    ",5.0,"
+        5486 
+      ","
+        1352 
+      ",0.24645,"
+      #78Released 2016Vaulted
+"
+"
+      Pop! Vinyl Pop! Games Power Armor (T-60) (Green)
+    ",7.0,"
+        3655 
+      ","
+        1247 
+      ",0.34118,"
+      #78Released 2016Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Games Power Armor (Unmasked)
+    ",9.0,"
+        3694 
+      ","
+        1375 
+      ",0.37223,"
+      #67Released 2015Excl. to New York Comic Con
+"
+"
+      Pop! Vinyl Pop! Games Power Armor (Unmasked) (Female)
+    ",2.0,"
+        4402 
+      ","
+        890 
+      ",0.20218,"
+      #67Released 2016Excl. to GameStop/EB Games
+"
+"
+      Pop! Vinyl Pop! Games Power Armor (X-01)
+    ",2.0,"
+        2606 
+      ","
+        1027 
+      ",0.39409,"
+      #166Released 2017
+"
+"
+      Hikari Predator Predator (Metallic)
+    ",7.0,"
+        27 
+      ","
+        68 
+      ",2.51852,"
+      Released 2015Excl. to Gemini CollectiblesEdition Size: 500
+"
+"
+      Mystery Vinyl Mystery Minis Bethesda Fallout 4 Preston Garvey
+    ",2.0,"
+        317 
+      ","
+        192 
+      ",0.60568,"
+      Released 2016Rarity: 1/36
+"
+"
+      Vinyl Vynl Prince Akeem + Randy Watson [Fall Convention]
+    ",9.0,"
+        214 
+      ","
+        41 
+      ",0.19159,"
+      Released 2018Excl. to Target (NYCC)
+"
+"
+      Other POP! Items Pop! Tees & Apparel Pop! Tees Princess Leia (Death Star Balloon)
+    ",9.0,"
+        10 
+      ","
+        49 
+      ",4.90000,"
+      Released 2017Excl. to FYE
+"
+"
+      Pop! Vinyl Pop! Asia Princess Sapphire (Metallic)
+    ",9.0,"
+        221 
+      ","
+        114 
+      ",0.51584,"
+      #55Released 2015
+"
+"
+      Pop! Vinyl Pop! Animation Professor Pat Pending [Fall Convention]
+    ",5.0,"
+        100 
+      ","
+        28 
+      ",0.28000,"
+      #602Released 2019Excl. to Funko-Shop (NYCC)
+"
+"
+      Pop! Vinyl Pop! Harry Potter Professor Quirrell [Fall Convention]
+    ",3.0,"
+        6013 
+      ","
+        1121 
+      ",0.18643,"
+      #68Released 2018Excl. to FYE (NYCC)
+"
+"
+      Mystery Vinyl Mystery Minis Bethesda Fallout 4 Protectron
+    ",8.0,"
+        581 
+      ","
+        243 
+      ",0.41824,"
+      Released 2016Rarity: 1/36
+"
+"
+      Pop! Vinyl Pop! Rocks Purple Haze (Metallic)
+    ",780.0,"
+        58 
+      ","
+        878 
+      ",15.13793,"
+      #1
+"
+"
+      Wacky Wobbler Wacky Wobblers Ad Icons Quisp (Pink) (Chrome)
+    ",5.0,"
+        3 
+      ","
+        15 
+      ",5.00000,"
+      Released 2006Excl. to San Diego Comic ConEdition Size: Limited
+"
+"
+      Vinyl My Little Pony Rainbow Dash (Metallic Hair)
+    ",2.0,"
+        267 
+      ","
+        124 
+      ",0.46442,"
+      Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! My Little Pony Rainbow Dash (Metallic)
+    ",4.0,"
+        916 
+      ","
+        533 
+      ",0.58188,"
+      #4Released 2014Excl. to Gemini Collectibles
+"
+"
+      Hikari My Little Pony Rainbow Dash (Metallic)
+    ",90.0,"
+        31 
+      ","
+        83 
+      ",2.67742,"
+      Released 2015Edition Size: 250
+"
+"
+      Wacky Wobbler Wacky Wobblers The Big Bang Theory Raj (Star Trek) (Metallic)
+    ",8.0,"
+        29 
+      ","
+        25 
+      ",0.86207,"
+"
+"
+      Pop! Vinyl Pop! Movies Ramona Flowers (w/ Mallet) [ECCC]
+    ",3.0,"
+        197 
+      ","
+        209 
+      ",1.06091,"
+      #719Released 2019Excl. to Emerald City Comic Con
+"
+"
+      Wacky Wobbler Wacky Wobblers Disney Randall (Monsters University)
+    ",4.0,"
+        49 
+      ","
+        36 
+      ",0.73469,"
+"
+"
+      Pop! Vinyl Pop! Disney Randall Boggs
+    ",7.0,"
+        1691 
+      ","
+        1653 
+      ",0.97753,"
+      #63Released 2013Vaulted
+"
+"
+      Pop! Vinyl Pop! Television Raphael (Grayscale Metallic)
+    ",40.0,"
+        253 
+      ","
+        1010 
+      ",3.99209,"
+      #61Released 2013Excl. to Alamo City Comic Con
+"
+"
+      Hikari TMNT Raphael (Metallic)
+    ",8.0,"
+        86 
+      ","
+        81 
+      ",0.94186,"
+      Released 2014Edition Size: 500
+"
+"
+      Pop! Vinyl Pop! Television Raphael (Metallic)
+    ",40.0,"
+        738 
+      ","
+        1242 
+      ",1.68293,"
+      #61Released 2013Excl. to San Diego Comic ConEdition Size: 1008
+"
+"
+      Wacky Wobbler Bobble Banks Rat Fink (24"" - Green Metallic)
+    ",50.0,"
+        3 
+      ","
+        7 
+      ",2.33333,"
+      Edition Size: 50
+"
+"
+      Wacky Wobbler Wacky Wobblers Rat Fink Rat Fink (Black) (Metallic)
+    ",60.0,"
+        3 
+      ","
+        9 
+      ",3.00000,"
+      Released 2005Excl. to Gemini CollectiblesEdition Size: 480
+"
+"
+      Wacky Wobbler Wacky Wobblers Rat Fink Rat Fink (Blue) (Metallic)
+    ",8.0,"
+        30 
+      ","
+        14 
+      ",0.46667,"
+      Released 2009Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Wacky Wobbler Wacky Wobblers Rat Fink Rat Fink (Gold) (Metallic) 
+    ",7.0,"
+        14 
+      ","
+        8 
+      ",0.57143,"
+"
+"
+      Wacky Wobbler Wacky Wobblers Rat Fink Rat Fink (Metallic)
+    ",4.0,"
+        25 
+      ","
+        11 
+      ",0.44000,"
+      Edition Size: 1500
+"
+"
+      Wacky Wobbler Wacky Wobblers Rat Fink Rat Fink (Red) (Metallic)
+    ",1.0,"
+        10 
+      ","
+        10 
+      ",1.00000,"
+      Excl. to Gemini CollectiblesEdition Size: 480
+"
+"
+      Wacky Wobbler Wacky Wobblers Rat Fink Rat Fink (Surfboard) (Teal) (Metallic)
+    ",5.0,"
+        3 
+      ","
+        9 
+      ",3.00000,"
+      Released 2009Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Wacky Wobbler Wacky Wobblers Rat Fink Rat Fink (White Shirt) (Metallic)
+    ",6.0,"
+        4 
+      ","
+        10 
+      ",2.50000,"
+      Edition Size: 1500
+"
+"
+      Electronics Headphones Rebel Alliance
+    ",3.0,"
+        8 
+      ","
+        18 
+      ",2.25000,"
+"
+"
+      Mystery Vinyl Pint Size Heroes Mighty Morphin Power Rangers Red Ranger (Metallic)
+    ",5.0,"
+        350 
+      ","
+        155 
+      ",0.44286,"
+      Released 2017Excl. to WalmartRarity: 1/12
+"
+"
+      Pop! Vinyl Pop! Television Red Ranger (Metallic) (Action Pose)
+    ",2.0,"
+        9434 
+      ","
+        852 
+      ",0.09031,"
+      #406Released 2016Excl. to Hot Topic
+"
+"
+      Wacky Wobbler Wacky Wobblers Marvel Red Skull (Metallic)
+    ",9.0,"
+        27 
+      ","
+        48 
+      ",1.77778,"
+      Released 2009Excl. to San Diego Comic Con
+"
+"
+      Wacky Wobbler Wacky Wobblers Marvel Red Skull (Movie) (Metallic)
+    ",4.0,"
+        51 
+      ","
+        54 
+      ",1.05882,"
+      Released 2011Excl. to San Diego Comic Con
+"
+"
+      Pop! Vinyl Pop! Television Regina (w/ Fireball)
+    ",5.0,"
+        3048 
+      ","
+        902 
+      ",0.29593,"
+      #382Released 2016
+"
+"
+      Pop! Vinyl Pop! Games Reinhardt (Coldhardt) [Fall Convention]
+    ",2.0,"
+        4063 
+      ","
+        323 
+      ",0.07950,"
+      #400Released 2018Excl. to GameStop / EB Games (NYCC)
+"
+"
+      Pop! Vinyl Pop! Heroes Reverse Flash (Glow in the Dark)
+    ",90.0,"
+        387 
+      ","
+        1516 
+      ",3.91731,"
+      #39Released 2013Excl. to Dallas Comic ConEdition Size: 500
+"
+"
+      Pop! Vinyl Pop! Heroes Reverse Flash [Dallas ComicCon]
+    ",7.0,"
+        625 
+      ","
+        821 
+      ",1.31360,"
+      #39Released 2013Excl. to Dallas Comic ConEdition Size: 2000
+"
+"
+      Pop! Vinyl Pop! Football Richard Sherman (49ers)
+    ",5.0,"
+        246 
+      ","
+        39 
+      ",0.15854,"
+      #100Released 2018
+"
+"
+      Pop! Vinyl Pop! Football Richard Sherman (Away Jersey)
+    ",1.0,"
+        391 
+      ","
+        172 
+      ",0.43990,"
+      #61Released 2016
+"
+"
+      Pop! Vinyl Pop! Football Rob Gronkowski (Away Jersey)
+    ",3.0,"
+        1045 
+      ","
+        260 
+      ",0.24880,"
+      #56Released 2016
+"
+"
+      Pop! Vinyl Pop! Football Rob Gronkowski (Throwback)
+    ",8.0,"
+        1529 
+      ","
+        243 
+      ",0.15893,"
+      #56Released 2016Excl. to Gamestop
+"
+"
+      Pop! Vinyl Pop! Movies Robby the Robot (Purple Metallic)
+    ",50.0,"
+        73 
+      ","
+        302 
+      ",4.13699,"
+      #89Released 2014Excl. to Gemini CollectiblesEdition Size: 48
+"
+"
+      Pop! Vinyl Pop! Movies Robby the Robot (Turquoise Metallic)
+    ",3.0,"
+        919 
+      ","
+        224 
+      ",0.24374,"
+      #89Released 2014Excl. to Gemini Collectibles
+"
+"
+      Pop! Vinyl Pop! Heroes Robin (Bobble-Head) (Metallic)
+    ",40.0,"
+        65 
+      ","
+        925 
+      ",14.23077,"
+      #2Released 2010Excl. to Target
+"
+"
+      Pop! Vinyl Pop! Heroes Robin (Metallic)
+    ",60.0,"
+        1426 
+      ","
+        1557 
+      ",1.09187,"
+      #2Released 2010
+"
+"
+      Pop! Vinyl Pop! Marvel Rocket Raccoon (Classic)
+    ",3.0,"
+        2803 
+      ","
+        479 
+      ",0.17089,"
+      #396Released 2018Excl. to Halloween ComicFest / PreviewsEdition Size: 25000
+"
+"
+      Pop! Vinyl Pop! Football Roger Staubach
+    ",1.0,"
+        709 
+      ","
+        129 
+      ",0.18195,"
+      #82Released 2017
+"
+"
+      Pop! Vinyl Pop! Harry Potter Ron Weasley (Yule Ball)
+    ",9.0,"
+        9855 
+      ","
+        2782 
+      ",0.28229,"
+      #12Released 2016
+"
+"
+      Pop! Vinyl Pop! Football Russell Wilson
+    ",2.0,"
+        970 
+      ","
+        277 
+      ",0.28557,"
+      #1Released 2014
+"
+"
+      Pop! Vinyl Pop! Football Russell Wilson (Away Jersey) (Hat)
+    ",2.0,"
+        559 
+      ","
+        164 
+      ",0.29338,"
+      #57Released 2016
+"
+"
+      Pop! Vinyl Pop! Football Russell Wilson (Color Rush)
+    ",7.0,"
+        472 
+      ","
+        104 
+      ",0.22034,"
+      #57Released 2017
+"
+"
+      Pop! Vinyl Pop! Football Ryan Tannehill
+    ",2.0,"
+        545 
+      ","
+        131 
+      ",0.24037,"
+      #13Released 2014
+"
+"
+      Pop! Vinyl Pop! Football (Soccer) Sadio Mane
+    ",65.0,"
+        289 
+      ","
+        154 
+      ",0.53287,"
+      #10Released 2018
+"
+"
+      Other POP! Items Pop! Tees & Apparel Pop! Tees Sally
+    ",8.0,"
+        96 
+      ","
+        109 
+      ",1.13542,"
+      #29Released 2015Excl. to Hot Topic
+"
+"
+      Plush Pop! Plush Sally
+    ",6.0,"
+        156 
+      ","
+        88 
+      ",0.56410,"
+      Released 2016
+"
+"
+      Wacky Wobbler Wacky Wobblers Nightmare Before Christmas Sally
+    ",9.0,"
+        279 
+      ","
+        197 
+      ",0.70609,"
+"
+"
+      Plush Plushies (Older Line) Disney Sally
+    ",7.0,"
+        106 
+      ","
+        130 
+      ",1.22642,"
+"
+"
+      Vinyl Rock Candy Disney Sally (Black Cat)
+    ",8.0,"
+        701 
+      ","
+        501 
+      ",0.71469,"
+      Released 2017Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Disney Sally (Day of the Dead)
+    ",5.0,"
+        6583 
+      ","
+        2795 
+      ",0.42458,"
+      #70Released 2013Vaulted
+"
+"
+      Pop! Vinyl Pop! Disney Sally (Day of the Dead) (Glow in the Dark)
+    ",10.0,"
+        337 
+      ","
+        2003 
+      ",5.94362,"
+      #70Released 2013Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Disney Sally (Glow in the Dark)
+    ",60.0,"
+        179 
+      ","
+        1749 
+      ",9.77095,"
+      #16Released 2012Excl. to Toy TokyoEdition Size: 252
+"
+"
+      Plush Pop! Plush Sally (Mega)
+    ",4.0,"
+        218 
+      ","
+        82 
+      ",0.37615,"
+      Released 2016
+"
+"
+      Pop! Vinyl Pop! Disney Sally (Seated w/ Cat)
+    ",9.0,"
+        9664 
+      ","
+        2420 
+      ",0.25041,"
+      #209Released 2016Excl. to New York Comic Con
+"
+"
+      Pop! Vinyl Pop! Disney Sally (Seated) (Glow in the Dark) with Cat (Flocked)
+    ",7.0,"
+        5966 
+      ","
+        1212 
+      ",0.20315,"
+      #209Released 2017Excl. to Walgreens
+"
+"
+      Vinyl Vynl Sally + Jack Skellington
+    ",8.0,"
+        1492 
+      ","
+        280 
+      ",0.18767,"
+      Released 2017
+"
+"
+      Plush SuperCute Plushies Disney Sally Skellington (Rag Doll)
+    ",1.0,"
+        13 
+      ","
+        15 
+      ",1.15385,"
+      Released 2018Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Television Sam (Bloody) (Metallic)
+    ",2.0,"
+        1901 
+      ","
+        1652 
+      ",0.86902,"
+      #93Released 2014
+"
+"
+      Vinyl Spastik Plastik Sam (Green Metallic)
+    ",70.0,"
+        6 
+      ","
+        31 
+      ",5.16667,"
+      Released 2011Edition Size: 12
+"
+"
+      Pop! Vinyl Pop! Football Sam Darnold
+    ",8.0,"
+        203 
+      ","
+        39 
+      ",0.19212,"
+      #107Released 2018
+"
+"
+      Pop! Vinyl Pop! Television Sam, Dean & Crowley (Metallic) (Bloody) (3-Pack)
+    ",20.0,"
+        119 
+      ","
+        1165 
+      ",9.78992,"
+      Released 2015Excl. to New York Comic ConEdition Size: 175
+"
+"
+      Pop! Vinyl Pop! Star Wars Sandtrooper [Fall Convention]
+    ",8.0,"
+        1162 
+      ","
+        102 
+      ",0.08778,"
+      #322Released 2019Excl. to Target (NYCC)
+"
+"
+      Pop! Vinyl Pop! Football Saquon Barkley (Home Jersey)
+    ",3.0,"
+        65 
+      ","
+        33 
+      ",0.50769,"
+      Due 2019-10-01
+"
+"
+      Pop! Vinyl Pop! Disney Sarah Sanderson
+    ",5.0,"
+        4962 
+      ","
+        704 
+      ",0.14188,"
+      #434Released 2018Excl. to Spirit Halloween
+"
+"
+      Pop! Vinyl Pop! Movies Sark (Metallic)
+    ",4.0,"
+        2501 
+      ","
+        467 
+      ",0.18673,"
+      #490Released 2017Rarity: 1/6
+"
+"
+      Pop! Vinyl Pop! Television Scott McCall
+    ",2.0,"
+        1069 
+      ","
+        282 
+      ",0.26380,"
+      #484Released 2017
+"
+"
+      Pop! Vinyl Pop! Television Scott McCall (Werewolf)
+    ",1.0,"
+        1407 
+      ","
+        307 
+      ",0.21819,"
+      #485Released 2017
+"
+"
+      Pop! Vinyl Pop! Star Wars Second Sister Inquisitor
+    ",5.0,"
+        318 
+      ","
+        135 
+      ",0.42453,"
+      #338Released 2019
+"
+"
+      Pop! Vinyl Pop! Football (Soccer) Sergio Aguero
+    ",3.0,"
+        20 
+      ","
+        18 
+      ",0.90000,"
+      Released 2019
+"
+"
+      Pop! Vinyl Pop! Heroes Shazam (Metallic)
+    ",20.0,"
+        402 
+      ","
+        843 
+      ",2.09701,"
+      #14Released 2011Excl. to Gemini CollectiblesEdition Size: 240
+"
+"
+      Wacky Wobbler Wacky Wobblers The Big Bang Theory Sheldon (Star Trek) (Metallic)
+    ",1.0,"
+        47 
+      ","
+        36 
+      ",0.76596,"
+"
+"
+      Pop! Vinyl Pop! Animation Shenron
+    ",6.0,"
+        13457 
+      ","
+        3517 
+      ",0.26135,"
+      #265Released 2017Excl. to Galactic Toys
+"
+"
+      Pop! Vinyl Pop! Animation Shenron (Jade)
+    ",1.0,"
+        2949 
+      ","
+        302 
+      ",0.10241,"
+      #265Released 2019Excl. to Hot Topic and Cosmic Comics
+"
+"
+      Wacky Wobbler Wacky Wobblers Movies Shrek (Metallic)
+    ",3.0,"
+        13 
+      ","
+        15 
+      ",1.15385,"
+      Released 2010Excl. to SDCCEdition Size: 480
+"
+"
+      Pop! Vinyl Pop! Animation Shrimp Morty [Fall Convention]
+    ",9.0,"
+        518 
+      ","
+        63 
+      ",0.12162,"
+      #645Released 2019Excl. to Hot Topic (NYCC)
+"
+"
+      Pop! Vinyl Pop! Animation Shrimp Rick [Fall Convention]
+    ",6.0,"
+        531 
+      ","
+        60 
+      ",0.11299,"
+      #644Released 2019Excl. to Hot Topic (NYCC)
+"
+"
+      Mystery Vinyl Mystery Minis Bethesda Fallout 4 Silver Shroud 
+    ",3.0,"
+        388 
+      ","
+        188 
+      ",0.48454,"
+      Released 2016Rarity: 1/72
+"
+"
+      Pop! Vinyl Pop! Heroes Sinestro (Movie) (Metallic)
+    ",20.0,"
+        350 
+      ","
+        698 
+      ",1.99429,"
+      #12Released 2011Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Pop! Vinyl Pop! Television Skeletor (Battle Armor) (Metallic)
+    ",5.0,"
+        3259 
+      ","
+        292 
+      ",0.08960,"
+      #563Released 2018Excl. to Gemini Collectibles
+"
+"
+      Hikari Masters of the Universe Skeletor (Metallic)
+    ",5.0,"
+        169 
+      ","
+        90 
+      ",0.53254,"
+      Released 2014Edition Size: 2000
+"
+"
+      Wacky Wobbler Wacky Wobblers Masters of the Universe Skeletor (Metallic)
+    ",4.0,"
+        239 
+      ","
+        105 
+      ",0.43933,"
+      Released 2013Excl. to San Diego Comic Con
+"
+"
+      Vinyl Coin Banks Sleestak (Metallic Gold)
+    ",5.0,"
+        5 
+      ","
+        7 
+      ",1.40000,"
+      Released 2008Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Vinyl Coin Banks Sleestak (Red) (Metallic)
+    ",20.0,"
+        3 
+      ","
+        4 
+      ",1.33333,"
+      Released 2008Excl. to Funko FundaysEdition Size: 24
+"
+"
+      Vinyl Other Sleestak and Chaka (Metallic)
+    ",1.0,"
+        9 
+      ","
+        20 
+      ",2.22222,"
+      Released 2009Excl. to San Diego Comic ConEdition Size: 196
+"
+"
+      Pop! Vinyl Pop! Movies Slim [Fall Convention]
+    ",5.0,"
+        1931 
+      ","
+        126 
+      ",0.06525,"
+      #822Released 2019Excl. to GameStop (NYCC)
+"
+"
+      Pop! Vinyl Pop! Movies Smalls
+    ",6.0,"
+        2162 
+      ","
+        424 
+      ",0.19611,"
+      #567Released 2018
+"
+"
+      Pop! Vinyl Pop! Movies Smaug (Gold Metallic)
+    ",9.0,"
+        5411 
+      ","
+        2340 
+      ",0.43245,"
+      #124Released 2014Excl. to Hot Topic
+"
+"
+      Dorbz Video Games Fallout Sneak
+    ",2.0,"
+        436 
+      ","
+        174 
+      ",0.39908,"
+      #299Released 2017Rarity: 1/6
+"
+"
+      Plush Galactic Plushies Rick and Morty Snowball (12 inch) (Talking)
+    ",4.0,"
+        137 
+      ","
+        60 
+      ",0.43796,"
+      Released 2018
+"
+"
+      Pop! Vinyl Pop! Animation Snowball (Flocked)
+    ",2.0,"
+        8835 
+      ","
+        936 
+      ",0.10594,"
+      #178Released 2017Excl. to LA Comic Con
+"
+"
+      Pop! Vinyl Pop! Monsters Snuggle-Tooth (Fall)
+    ",2.0,"
+        47 
+      ","
+        139 
+      ",2.95745,"
+      #3Released 2018Excl. to Funko
+"
+"
+      Pop! Vinyl Pop! Animation Son Goku
+    ",1.0,"
+        5797 
+      ","
+        645 
+      ",0.11126,"
+      #517Released 2018Excl. to GameStop Funko Insider Club
+"
+"
+      Pop! Vinyl Pop! Games Sonic with Ring (Metallic)
+    ",4.0,"
+        944 
+      ","
+        170 
+      ",0.18008,"
+      #283Released 2018Excl. to GameStop
+"
+"
+      Other POP! Items Pop! Tees & Apparel Pop! and Shirt Pack Sonic with Ring (Metallic) and Sonic Tee
+    ",1.0,"
+        805 
+      ","
+        68 
+      ",0.08447,"
+      Released 2018Excl. to GameStop
+"
+"
+      Pop! Vinyl Pop! Games Sora (Guardian Form) [Fall Convention]
+    ",2.0,"
+        1671 
+      ","
+        455 
+      ",0.27229,"
+      #405Released 2018Excl. to Walmart (NYCC)
+"
+"
+      Mystery Vinyl Mystery Minis Kingdom Hearts Series 1 Sora (Halloween Town)
+    ",8.0,"
+        400 
+      ","
+        203 
+      ",0.50750,"
+      Released 2017Excl. to Hot Topic
+"
+"
+      Plush SuperCute Plushies Disney Sora (Halloween)
+    ",6.0,"
+        174 
+      ","
+        68 
+      ",0.39080,"
+      Released 2017Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Disney Sorcerer Mickey & Chernabog (Metallic)
+    ",20.0,"
+        269 
+      ","
+        1537 
+      ",5.71375,"
+      Released 2012Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Pop! Vinyl Pop! Animation Space Cadet (Metallic)
+    ",8.0,"
+        3187 
+      ","
+        744 
+      ",0.23345,"
+      #142Released 2016
+"
+"
+      Pop! Vinyl Pop! Freddy Funko Spengler (Marshmallow)
+    ",50.0,"
+        36 
+      ","
+        270 
+      ",7.50000,"
+      #27Released 2014Excl. to San Diego Comic ConEdition Size: 24
+"
+"
+      Mystery Vinyl Mystery Minis Marvel Series 1 Spider-Man (Metallic)
+    ",3.0,"
+        38 
+      ","
+        236 
+      ",6.21053,"
+      Released 2014Excl. to Japan
+"
+"
+      Pop! Vinyl Pop! Marvel Spider-Man (Metallic)
+    ",440.0,"
+        346 
+      ","
+        1801 
+      ",5.20520,"
+      #3Released 2011Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Pop! Vinyl Pop! Marvel Spider-Man (The Amazing Spider-Man 2) (Metallic)
+    ",40.0,"
+        146 
+      ","
+        1642 
+      ",11.24658,"
+      #45Released 2014Excl. to Japan
+"
+"
+      Pop! Vinyl Pop! Marvel Spider-Man (The Amazing Spider-Man) (Metallic)
+    ",30.0,"
+        334 
+      ","
+        1715 
+      ",5.13473,"
+      #15Released 2012Excl. to San Diego Comic ConEdition Size: 480 
+"
+"
+      Pop! Vinyl Pop! Marvel Spider-Man (The Amazing Spider-Man) (Metallic) (Blu-ray)
+    ",60.0,"
+        173 
+      ","
+        772 
+      ",4.46243,"
+      #15Released 2012Excl. to Japan Blu-Ray DVDEdition Size: 1000
+"
+"
+      Mystery Vinyl Mystery Minis Marvel SDCC Spider-Man (with Webbing) (Metallic)
+    ",4.0,"
+        275 
+      ","
+        205 
+      ",0.74545,"
+      Released 2014Excl. to San Diego Comic ConRarity: 1/12
+"
+"
+      Pop! Vinyl Pop! Marvel Spider-Woman [Fall Convention]
+    ",3.0,"
+        1838 
+      ","
+        435 
+      ",0.23667,"
+      #392Released 2018Excl. to Entertainment Earth (NYCC)
+"
+"
+      Pop! Vinyl Pop! Television Spongebob Squarepants (Metallic)
+    ",780.0,"
+        151 
+      ","
+        910 
+      ",6.02649,"
+      #25Released 2013Excl. to Spongebob Fan Celebration
+"
+"
+      Pop! Vinyl Pop! Animation SSGSS Goku
+    ",5.0,"
+        956 
+      ","
+        98 
+      ",0.10251,"
+      #668Released 2019Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Animation SSGSS Goku (Kamehameha)
+    ",5.0,"
+        4052 
+      ","
+        452 
+      ",0.11155,"
+      #563Released 2019Excl. to Chalice Collectibles
+"
+"
+      Pop! Vinyl Pop! Animation SSGSS Vegito (Metallic)
+    ",6.0,"
+        9404 
+      ","
+        814 
+      ",0.08656,"
+      #515Released 2018Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Marvel Stan Lee (Astronaut) [Fall Convention]
+    ",6.0,"
+        1888 
+      ","
+        345 
+      ",0.18273,"
+      #519Released 2019Excl. to Walmart (NYCC)
+"
+"
+      Pop! Vinyl Pop! Stan Lee Stan Lee (Superhero) (Red Metallic)
+    ",700.0,"
+        15 
+      ","
+        123 
+      ",8.20000,"
+      Released 2017Excl. to LA Comic ConEdition Size: 12
+"
+"
+      Pop! Vinyl Pop! Freddy Funko Stantz (Marshmallow)
+    ",90.0,"
+        36 
+      ","
+        275 
+      ",7.63889,"
+      #27Released 2014Excl. to San Diego Comic ConEdition Size: 24
+"
+"
+      Pop! Vinyl Pop! Heroes Star Sapphire Wonder Woman (Metallic)
+    ",6.0,"
+        2724 
+      ","
+        1570 
+      ",0.57636,"
+      #61Released 2014Excl. to Fugitive Toys
+"
+"
+      Pop! Vinyl Pop! Marvel Star-Lord (Classic)
+    ",4.0,"
+        3217 
+      ","
+        530 
+      ",0.16475,"
+      #395Released 2018Excl. to Halloween ComicFest / Previews
+"
+"
+      Pop! Vinyl Pop! Movies Stay Puft Marshmallow Man
+    ",4.0,"
+        10995 
+      ","
+        1938 
+      ",0.17626,"
+      #109Released 2014
+"
+"
+      Other POP! Items Pop! Tees & Apparel Pop! Tees Stay Puft Marshmallow Man (Clouds)
+    ",3.0,"
+        89 
+      ","
+        34 
+      ",0.38202,"
+      #87Released 2016Excl. to Target
+"
+"
+      Mystery Vinyl MyMoji Ghostbusters Stay Puft Marshmallow Man (Frown)
+    ",5.0,"
+        22 
+      ","
+        12 
+      ",0.54545,"
+"
+"
+      Pop! Vinyl Pop! Movies Stay Puft Marshmallow Man (Pink Glow in the Dark)
+    ",5.0,"
+        766 
+      ","
+        1322 
+      ",1.72585,"
+      #109Released 2014Excl. to Fugitive Toys
+"
+"
+      Pop! Vinyl Pop! Movies Stay Puft Marshmallow Man (Toasted)
+    ",1.0,"
+        8777 
+      ","
+        1930 
+      ",0.21989,"
+      #109Released 2014Excl. to Hot Topic
+"
+"
+      Dorbz Dorbz XL Stay Puft Marshmallow Man (Toasted)
+    ",7.0,"
+        966 
+      ","
+        244 
+      ",0.25259,"
+      #6Released 2016Excl. to GameStop/EB Games
+"
+"
+      Other POP! Items Pop! Tees & Apparel Pop! Tees Stay Puft Marshmallow Man (Who You Gonna Call?)
+    ",3.0,"
+        142 
+      ","
+        65 
+      ",0.45775,"
+      #65Excl. to Target
+"
+"
+      Pop! Vinyl Pop! Giant Steamboat Willie (Metallic)
+    ",80.0,"
+        134 
+      ","
+        815 
+      ",6.08209,"
+      Released 2013Excl. to D23 ExpoEdition Size: 360
+"
+"
+      Pop! Vinyl Pop! Basketball Stephen Curry (Golden State Warriors - Blue)
+    ",4.0,"
+        401 
+      ","
+        54 
+      ",0.13466,"
+      #43Released 2019Excl. to Fanatics
+"
+"
+      Hikari Star Wars Stormtrooper (Rusty Blue Metallic)
+    ",5.0,"
+        133 
+      ","
+        76 
+      ",0.57143,"
+      Released 2015Edition Size: 1000
+"
+"
+      Hikari Star Wars Stormtrooper (Rusty Silver Metallic)
+    ",5.0,"
+        80 
+      ","
+        69 
+      ",0.86250,"
+      Released 2015Edition Size: 750
+"
+"
+      Pop! Vinyl Pop! Games Sub-Zero (Ice Ball)
+    ",3.0,"
+        4597 
+      ","
+        1116 
+      ",0.24277,"
+      #251Released 2017Rarity: 1/6
+"
+"
+      Pop! Vinyl Pop! Giant Sulley (Large) & Boo (Metallic)
+    ",20.0,"
+        339 
+      ","
+        1613 
+      ",4.75811,"
+      Released 2012Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Pop! Vinyl Pop! Disney Sulley (Monsters University) (Metallic)
+    ",10.0,"
+        734 
+      ","
+        956 
+      ",1.30245,"
+      #62Released 2013Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Pop! Vinyl Pop! Animation Super Saiyan 3 Goku
+    ",9.0,"
+        7589 
+      ","
+        1149 
+      ",0.15140,"
+      #492Released 2018Excl. to  GameStop
+"
+"
+      Pop! Vinyl Pop! Animation Super Saiyan Broly [SDCC]
+    ",5.0,"
+        1191 
+      ","
+        940 
+      ",0.78925,"
+      #402Released 2018Excl. to San Diego Comic Con
+"
+"
+      Pop! Vinyl Pop! Animation Super Saiyan Broly [Summer Convention]
+    ",4.0,"
+        9563 
+      ","
+        1021 
+      ",0.10677,"
+      #402Released 2018Excl. to Hot Topic (SDCC)
+"
+"
+      Pop! Vinyl Pop! Animation Super Saiyan Future Trunks
+    ",1.0,"
+        10868 
+      ","
+        1588 
+      ",0.14612,"
+      #318Released 2018Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Animation Super Saiyan God Goku
+    ",5.0,"
+        11784 
+      ","
+        5352 
+      ",0.45418,"
+      #24Released 2014Excl. to FUNimation
+"
+"
+      Pop! Vinyl Pop! Animation Super Saiyan God Super Saiyan Goku
+    ",9.0,"
+        20551 
+      ","
+        3059 
+      ",0.14885,"
+      #121Released 2016Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pocket Pop! Keychains Anime Super Saiyan God Super Saiyan Goku
+    ",5.0,"
+        779 
+      ","
+        324 
+      ",0.41592,"
+      Released 2016
+"
+"
+      Pop! Vinyl Pop! Animation Super Saiyan God Super Saiyan Vegeta
+    ",8.0,"
+        13791 
+      ","
+        3280 
+      ",0.23784,"
+      #156Released 2016Vaulted
+"
+"
+      Pop! Vinyl Pop! Animation Super Saiyan Gohan
+    ",9.0,"
+        4272 
+      ","
+        1065 
+      ",0.24930,"
+      #509Released 2018Excl. to Galactic Toys
+"
+"
+      Pop! Vinyl Pop! Animation Super Saiyan Goku (Metallic)
+    ",6.0,"
+        9531 
+      ","
+        2936 
+      ",0.30805,"
+      #14Released 2016Excl. to Loot Crate
+"
+"
+      Pop! Vinyl Pop! Animation Super Saiyan Gotenks
+    ",6.0,"
+        2654 
+      ","
+        394 
+      ",0.14846,"
+      #622Released 2019Excl. to AAA Anime
+"
+"
+      Pop! Vinyl Pop! Animation Super Saiyan Rose Goku Black
+    ",7.0,"
+        14843 
+      ","
+        2359 
+      ",0.15893,"
+      #260Released 2017Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Animation Super Saiyan Trunks
+    ",5.0,"
+        13985 
+      ","
+        3516 
+      ",0.25141,"
+      #155Released 2016Excl. to New York Comic Con
+"
+"
+      Pop! Vinyl Pop! Animation Super Saiyan Vegeta
+    ",6.0,"
+        12535 
+      ","
+        3400 
+      ",0.27124,"
+      #154Released 2016Excl. to AAA Anime
+"
+"
+      Pop! Vinyl Pop! Animation Super Saiyan Vegeta (Blue Chrome) [Fall Convention]
+    ",7.0,"
+        1630 
+      ","
+        612 
+      ",0.37546,"
+      #154Released 2018Excl. to Toy Tokyo (NYCC)
+"
+"
+      Pop! Vinyl Pop! Animation Super Saiyan Vegeta (Blue Chrome) [NYCC]
+    ",5.0,"
+        4022 
+      ","
+        658 
+      ",0.16360,"
+      #154Released 2018Excl. to New York Comic Con / Toy Tokyo
+"
+"
+      Pop! Vinyl Pop! Animation Super Saiyan Vegeta (Gold Chrome) [SDCC]
+    ",3.0,"
+        4850 
+      ","
+        1129 
+      ",0.23278,"
+      #154Released 2018Excl. to San Diego Comic Con / Toy Tokyo
+"
+"
+      Pop! Vinyl Pop! Animation Super Saiyan Vegeta (Gold Chrome) [Summer Convention]
+    ",9.0,"
+        3013 
+      ","
+        661 
+      ",0.21938,"
+      #154Released 2018Excl. to Toy Tokyo Website (SDCC)
+"
+"
+      Pop! Vinyl Pop! Animation Super Saiyan Vegeta (Red Chrome) [SDCC]
+    ",4.0,"
+        336 
+      ","
+        213 
+      ",0.63393,"
+      #154Released 2019Excl. to San Diego Comic Con
+"
+"
+      Pop! Vinyl Pop! Animation Super Saiyan Vegeta (Red Chrome) [Summer Convention]
+    ",1.0,"
+        4496 
+      ","
+        155 
+      ",0.03448,"
+      #154Released 2019Excl. to Hot Topic (SDCC)
+"
+"
+      Pop! Vinyl Pop! Animation Super Saiyan Vegito
+    ",6.0,"
+        6211 
+      ","
+        1206 
+      ",0.19417,"
+      #491Released 2018Excl. to AAA Anime
+"
+"
+      Pop! Vinyl Pop! Television Supergirl (Flying) [Fall Convention]
+    ",6.0,"
+        2682 
+      ","
+        343 
+      ",0.12789,"
+      #708Released 2018Excl. to Barnes & Noble (NYCC)
+"
+"
+      Pop! Vinyl Pop! Heroes Superman (Bobble-Head) (Metallic)
+    ",400.0,"
+        75 
+      ","
+        955 
+      ",12.73333,"
+      #7Released 2010Excl. to Target
+"
+"
+      Pop! Vinyl Pop! Heroes Superman (Justice League) (Chrome 3-Pack) [Fall Convention]
+    ",6.0,"
+        1566 
+      ","
+        174 
+      ",0.11111,"
+      Released 2018Excl. to FYE (NYCC)
+"
+"
+      Wacky Wobbler Wacky Wobblers DC Comics Superman (Metallic)
+    ",5.0,"
+        37 
+      ","
+        54 
+      ",1.45946,"
+      Excl. to Gemini CollectiblesEdition Size: 240
+"
+"
+      Pop! Vinyl Pop! Freddy Funko Superman (Metallic)
+    ",50.0,"
+        32 
+      ","
+        377 
+      ",11.78125,"
+      #6Released 2011Excl. to San Diego Comic ConEdition Size: 12
+"
+"
+      Pop! Vinyl Pop! Games T-51 Power Armor (Green)
+    ",2.0,"
+        547 
+      ","
+        186 
+      ",0.34004,"
+      #481Released 2019Excl. to Best Buy
+"
+"
+      Pop! Vinyl Pop! Games T-51 Power Armor (Nuka-Cola)
+    ",2.0,"
+        1062 
+      ","
+        463 
+      ",0.43597,"
+      #370Released 2018Excl. to Walmart
+"
+"
+      Pop! Vinyl Pop! Games T-51 Power Armor (Vault Tec)
+    ",7.0,"
+        1241 
+      ","
+        284 
+      ",0.22885,"
+      #370Released 2018Excl. to Best Buy
+"
+"
+      Pop! Vinyl Pop! Funko T-Bone (Pink) (Metallic)
+    ",440.0,"
+        40 
+      ","
+        196 
+      ",4.90000,"
+      #04Released 2017Excl. to Funatics Day Out 7
+"
+"
+      Pop! Vinyl Pop! Freddy Funko Talladega Nights (Blue)
+    ",5.0,"
+        326 
+      ","
+        191 
+      ",0.58589,"
+      #33Released 2015Excl. to Funko FundaysEdition Size: 500
+"
+"
+      Mystery Vinyl Mystery Minis Horizon Zero Dawn Tallneck
+    ",8.0,"
+        220 
+      ","
+        83 
+      ",0.37727,"
+      Released 2017Rarity: 1/12
+"
+"
+      Pop! Vinyl Pop! Hockey Taylor Hall
+    ",3.0,"
+        121 
+      ","
+        34 
+      ",0.28099,"
+      #34Released 2018
+"
+"
+      Pop! Vinyl Pop! Marvel Thanos (Infinity War) (Metallic)
+    ",9.0,"
+        1724 
+      ","
+        649 
+      ",0.37645,"
+      #289Released 2018Excl. to Target.com
+"
+"
+      Other POP! Items Pop! Tees & Apparel Pop! and Shirt Pack Thanos (Infinity War) (Metallic) and Thanos (with Gauntlet) Tee
+    ",5.0,"
+        2100 
+      ","
+        447 
+      ",0.21286,"
+      Released 2018Excl. to Target.com
+"
+"
+      Pop! Vinyl Pop! Game of Thrones The Creators (3-Pack) [Fall Convention]
+    ",3.0,"
+        2575 
+      ","
+        388 
+      ",0.15068,"
+      Released 2018Excl. to Barnes & Noble (NYCC)
+"
+"
+      Pop! Vinyl Pop! Minis The Disney/Pixar Collection (Buzz Lightyear, Remy, Wall-E, Carl)
+    ",80.0,"
+        102 
+      ","
+        1080 
+      ",10.58824,"
+      Excl. to D23 ExpoEdition Size: 200
+"
+"
+      Pop! Vinyl Pop! Heroes The Flash (Blue Lantern) (Metallic)
+    ",6.0,"
+        5158 
+      ","
+        2221 
+      ",0.43059,"
+      #47Released 2014Excl. to Fugitive Toys
+"
+"
+      Pop! Vinyl Pop! Heroes The Flash (Metallic)
+    ",30.0,"
+        2261 
+      ","
+        2778 
+      ",1.22866,"
+      #10Released 2010
+"
+"
+      Pop! Vinyl Pop! Television The Flash (Running) (Metallic)
+    ",4.0,"
+        543 
+      ","
+        201 
+      ",0.37017,"
+      #713Released 2018Excl. to BoxLunch
+"
+"
+      Pop! Vinyl Pop! Heroes The Flash and Superman (Racing) (2-Pack) [Fall Convention]
+    ",7.0,"
+        2315 
+      ","
+        360 
+      ",0.15551,"
+      Released 2018Excl. to GameStop / EB Games (NYCC)
+"
+"
+      Vinyl Rock Candy Movies The Grady Twins [Fall Convention]
+    ",2.0,"
+        594 
+      ","
+        97 
+      ",0.16330,"
+      Released 2018Excl. to Target (NYCC)
+"
+"
+      Pop! Vinyl Pop! Television The Green Hornet and Kato (2-Pack) [Fall Convention]
+    ",1.0,"
+        197 
+      ","
+        53 
+      ",0.26904,"
+      Released 2019Excl. to Barnes & Noble (NYCC)
+"
+"
+      Pop! Vinyl Pop! Heroes The Joker (Bobble-Head) (Metallic)
+    ",20.0,"
+        88 
+      ","
+        1504 
+      ",17.09091,"
+      #6Released 2010Excl. to Target
+"
+"
+      Pop! Vinyl Pop! Heroes The Joker (Boxer) & Harley Quinn (Suicide Squad) (Metallic) (2-Pack)
+    ",6.0,"
+        11879 
+      ","
+        1912 
+      ",0.16096,"
+      Released 2016Excl. to FYE (U.S) / HMV (Canada)
+"
+"
+      Pop! Vinyl Pop! Heroes The Joker (Classic 1966 TV) (Metallic)
+    ",15.0,"
+        919 
+      ","
+        1704 
+      ",1.85419,"
+      #44Released 2013Excl. to Dallas Comic Con
+"
+"
+      Pop! Vinyl Pop! Heroes The Joker (Metallic)
+    ",80.0,"
+        2225 
+      ","
+        2507 
+      ",1.12674,"
+      #6Released 2010
+"
+"
+      Pop! Vinyl Pop! Star Wars The Mandalorian (Pistol) [Fall Convention]
+    ",9.0,"
+        1128 
+      ","
+        139 
+      ",0.12323,"
+      #330Released 2019Excl. to Funko-Shop (NYCC)
+"
+"
+      Pop! Vinyl Pop! Rocks The Notorious B.I.G. (Metallic)
+    ",80.0,"
+        225 
+      ","
+        1082 
+      ",4.80889,"
+      #18Released 2011Edition Size: 240
+"
+"
+      Pop! Vinyl Pop! Heroes The Penguin (Metallic)
+    ",90.0,"
+        179 
+      ","
+        1165 
+      ",6.50838,"
+      #4Released 2010
+"
+"
+      Pop! Vinyl Pop! Heroes The Riddler (Metallic)
+    ",80.0,"
+        191 
+      ","
+        1217 
+      ",6.37173,"
+      #5Released 2010
+"
+"
+      Pop! Vinyl Pop! Movies The Sanderson Sisters (3-Pack)
+    ",7.0,"
+        155 
+      ","
+        208 
+      ",1.34194,"
+      Excl. to Spirit Halloween / Spencer'sDue 2019-09-04
+"
+"
+      Pop! Vinyl Pop! Movies The Sanderson Sisters (with Cauldron)
+    ",5.0,"
+        884 
+      ","
+        332 
+      ",0.37557,"
+      #560Excl. to Spirit Halloween / Spencer&#39;sDue 2019-09-04
+"
+"
+      Pop! Vinyl Pop! Marvel The Thing (Metallic) (Black Eyes)
+    ",80.0,"
+        25 
+      ","
+        558 
+      ",22.32000,"
+      #09Released 2011
+"
+"
+      Pop! Vinyl Pop! Marvel The Thing (Metallic) (Blue Eyes)
+    ",220.0,"
+        464 
+      ","
+        1217 
+      ",2.62284,"
+      #9Released 2011Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Action Figures Articulated Action Figures Game of Thrones The Wall Playset
+    ",9.0,"
+        117 
+      ","
+        70 
+      ",0.59829,"
+      Released 2016
+"
+"
+      Other POP! Items Pop! Tees & Apparel Pop! Tees Thor: Ragnarok (Thor, Heimdall, Valkyrie)
+    ",1.0,"
+        11 
+      ","
+        36 
+      ",3.27273,"
+      Released 2019
+"
+"
+      Wacky Wobbler Wacky Wobblers Other Titans Baseball Player
+    ",4.0,"
+        2 
+      ","
+        3 
+      ",1.50000,"
+      Released 2004Edition Size: Limited
+"
+"
+      Wacky Wobbler Computer Sitter To-Lucky (Tigers)
+    ",5.0,"
+        1 
+      ","
+        7 
+      ",7.00000,"
+      Excl. to Japan Nippon Baseball League
+"
+"
+      Pop! Vinyl Pop! Games Toasted Monkey Bomb
+    ",5.0,"
+        3564 
+      ","
+        573 
+      ",0.16077,"
+      #147Released 2016Excl. to Gamestop
+"
+"
+      Pop! Vinyl Pop! Football Todd Gurley (White Jersey)
+    ",3.0,"
+        148 
+      ","
+        35 
+      ",0.23649,"
+      #58Released 2018
+"
+"
+      Pop! Vinyl Pop! Football Tom Brady (Away Jersey)
+    ",8.0,"
+        1037 
+      ","
+        389 
+      ",0.37512,"
+      #39Released 2016
+"
+"
+      Pop! Vinyl Pop! Football Tom Brady (Away Jersey) (Hat)
+    ",6.0,"
+        1997 
+      ","
+        350 
+      ",0.17526,"
+      #59Released 2016
+"
+"
+      Pop! Vinyl Pop! Football Tom Brady (Color Rush)
+    ",2.0,"
+        1453 
+      ","
+        185 
+      ",0.12732,"
+      #59Released 2017
+"
+"
+      Pop! Vinyl Pop! Football Tom Brady (Throwback)
+    ",7.0,"
+        1345 
+      ","
+        349 
+      ",0.25948,"
+      #39Released 2016Excl. to Toys R Us
+"
+"
+      Pop! Vinyl Pop! Football Tony Romo (Throwback)
+    ",5.0,"
+        1176 
+      ","
+        223 
+      ",0.18963,"
+      #66Released 2016Excl. to Toys R Us
+"
+"
+      Pop! Vinyl Pop! Freddy Funko Tony Stark (Metallic)
+    ",500.0,"
+        39 
+      ","
+        477 
+      ",12.23077,"
+      #12Released 2012Excl. to San Diego Comic ConEdition Size: 12
+"
+"
+      Pop! Vinyl Pop! Movies Toothless (Metallic)
+    ",2.0,"
+        1952 
+      ","
+        1583 
+      ",0.81096,"
+      #100Released 2014Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Football Travis Kelce
+    ",3.0,"
+        256 
+      ","
+        63 
+      ",0.24609,"
+      #101Released 2018
+"
+"
+      Pop! Vinyl Pop! Animation Trick-or-Sweet Bear
+    ",6.0,"
+        3529 
+      ","
+        414 
+      ",0.11731,"
+      #420Released 2018Excl. to Funko-Shop
+"
+"
+      Pop! Vinyl Pop! Football Troy Aikman
+    ",8.0,"
+        355 
+      ","
+        112 
+      ",0.31549,"
+      #112Released 2018
+"
+"
+      Pop! Vinyl Pop! Monsters Tumblebee (Fall)
+    ",5.0,"
+        51 
+      ","
+        147 
+      ",2.88235,"
+      #1Released 2018Excl. to Funko
+"
+"
+      Vinyl Urban Vinyl Tupac (Metallic)
+    ",90.0,"
+        17 
+      ","
+        41 
+      ",2.41176,"
+      Released 2011Excl. to New York Comic Con/Toy TokyoEdition Size: 240
+"
+"
+      Pop! Vinyl Pop! My Little Pony Twilight Sparkle (Metallic)
+    ",4.0,"
+        394 
+      ","
+        381 
+      ",0.96701,"
+      #6Released 2014Excl. to Toy Wiz
+"
+"
+      Pop! Vinyl Pop! My Little Pony Twilight Sparkle Sea Pony (Metallic)
+    ",1.0,"
+        1950 
+      ","
+        230 
+      ",0.11795,"
+      #14Released 2017Rarity: 1/6
+"
+"
+      Pop! Vinyl Pop! Television Tzim-Sha [Fall Convention]
+    ",8.0,"
+        286 
+      ","
+        29 
+      ",0.10140,"
+      #893Released 2019Excl. to Hot Topic (NYCC)
+"
+"
+      Pop! Vinyl Pop! Disney Under the Moonlight
+    ",9.0,"
+        5432 
+      ","
+        1087 
+      ",0.20011,"
+      #458Released 2018
+"
+"
+      Pop! Vinyl Pop! Movies Universal Monsters (Black & White) (Metallic) (4-Pack) 
+    ",70.0,"
+        302 
+      ","
+        965 
+      ",3.19536,"
+      Released 2015Excl. to Gemini CollectiblesEdition Size: 300
+"
+"
+      Pop! Vinyl Pocket Pop! Keychains Disney Ursula (Metallic) 
+    ",5.0,"
+        2265 
+      ","
+        279 
+      ",0.12318,"
+      Released 2016Excl. to Hot Topic
+"
+"
+      Dorbz Disney Ursula (Metallic)
+    ",3.0,"
+        925 
+      ","
+        228 
+      ",0.24649,"
+      #51Released 2017Excl. to Hot TopicEdition Size: 2000
+"
+"
+      Pop! Vinyl Pop! Disney Ursula (with Eels) (Metallic) [D23]
+    ",6.0,"
+        228 
+      ","
+        60 
+      ",0.26316,"
+      #568Released 2019Excl. to D23
+"
+"
+      Pop! Vinyl Pop! Disney Ursula (with Eels) (Metallic) [Summer Expo]
+    ",2.0,"
+        1437 
+      ","
+        90 
+      ",0.06263,"
+      #568Released 2019Excl. to BoxLunch (D23)
+"
+"
+      Pop! Vinyl Pop! Movies V For Vendetta (Metallic)
+    ",30.0,"
+        365 
+      ","
+        928 
+      ",2.54247,"
+      #10Released 2012Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Pop! Vinyl Pop! Television Vashta Nerada [Fall Convention]
+    ",2.0,"
+        2144 
+      ","
+        390 
+      ",0.18190,"
+      #709Released 2018Excl. to Hot Topic (NYCC)
+"
+"
+      Pop! Vinyl Pop! Freddy Funko Vault Boy
+    ",95.0,"
+        320 
+      ","
+        803 
+      ",2.50937,"
+      #49Released 2016Excl. to Funko FundaysEdition Size: 400
+"
+"
+      Pop! Vinyl Pop! Games Vault Boy (Adamantium Skeleton)
+    ",4.0,"
+        3949 
+      ","
+        951 
+      ",0.24082,"
+      #99Released 2016Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Games Vault Boy (Charisma) 
+    ",2.0,"
+        5775 
+      ","
+        793 
+      ",0.13732,"
+      #98Released 2016Excl. to Hot Topic 
+"
+"
+      Pop! Vinyl Pop! Games Vault Boy (Glow in the Dark)
+    ",1.0,"
+        9007 
+      ","
+        1659 
+      ",0.18419,"
+      #53Released 2015Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Games Vault Boy (Gold)
+    ",3.0,"
+        4493 
+      ","
+        794 
+      ",0.17672,"
+      #53Released 2016Excl. to GameStop 
+"
+"
+      Pop! Vinyl Pop! Games Vault Boy (Locksmith)
+    ",4.0,"
+        1968 
+      ","
+        1040 
+      ",0.52846,"
+      #118Released 2016Excl. to Play and Collect
+"
+"
+      Dorbz Video Games Fallout Vault Boy (Toughness Perk)
+    ",1.0,"
+        221 
+      ","
+        178 
+      ",0.80543,"
+      #205Released 2016Excl. to Entertainment Earth
+"
+"
+      Vinyl Other Vault Boy (Vault-Tec)
+    ",9.0,"
+        1371 
+      ","
+        215 
+      ",0.15682,"
+      Excl. to GameStop/EB Games
+"
+"
+      Vinyl Other Vault Boy (Vault-Tec) (Green)
+    ",80.0,"
+        103 
+      ","
+        249 
+      ",2.41748,"
+      Released 2016Excl. to Emerald City Comic ConEdition Size: 250
+"
+"
+      Pop! Vinyl Pop! Games Vault Dweller (Fallout 76)
+    ",2.0,"
+        240 
+      ","
+        105 
+      ",0.43750,"
+      #483Released 2019
+"
+"
+      Pop! Vinyl Pocket Pop! Keychains Anime Vegeta
+    ",1.0,"
+        990 
+      ","
+        256 
+      ",0.25859,"
+      Released 2016
+"
+"
+      Pop! Vinyl Pop! Animation Vegeta (Black)
+    ",3.0,"
+        9869 
+      ","
+        3038 
+      ",0.30783,"
+      #157Released 2016Excl. to Gamestop
+"
+"
+      Pop! Vinyl Pop! Animation Vegeta (Final Flash) [Fall Convention]
+    ",1.0,"
+        2641 
+      ","
+        210 
+      ",0.07952,"
+      #669Released 2019Excl. to Hot Topic (NYCC)
+"
+"
+      Pop! Vinyl Pop! Animation Vegeta (Final Flash) [NYCC]
+    ",5.0,"
+        164 
+      ","
+        119 
+      ",0.72561,"
+      #669Released 2019Excl. to New York Comic Con
+"
+"
+      Pop! Vinyl Pop! Animation Vegeta (Metallic) 
+    ",6.0,"
+        9508 
+      ","
+        3773 
+      ",0.39682,"
+      #10Released 2015Excl. to Shared Exclusive / No Sticker
+"
+"
+      Pop! Vinyl Pop! Animation Vegeta (Metallic) [SDCC]
+    ",5.0,"
+        50 
+      ","
+        15 
+      ",0.30000,"
+      #10Released 2015Excl. to San Diego Comic Con
+"
+"
+      Pop! Vinyl Pop! Marvel Vision (Metallic)
+    ",4.0,"
+        7005 
+      ","
+        1013 
+      ",0.14461,"
+      #71Released 2015Excl. to FYE
+"
+"
+      Pop! Vinyl Pop! Animation Voltron (Metallic)
+    ",4.0,"
+        4063 
+      ","
+        1077 
+      ",0.26508,"
+      #70Released 2016Excl. to Los Angeles Anime Expo
+"
+"
+      Pop! Vinyl Pop! Football Von Miller
+    ",2.0,"
+        675 
+      ","
+        162 
+      ",0.24000,"
+      #60Released 2016
+"
+"
+      Pop! Vinyl Pop! Football Von Miller (White Jersey)
+    ",4.0,"
+        187 
+      ","
+        49 
+      ",0.26203,"
+      #60Released 2018
+"
+"
+      Pop! Vinyl Pop! Animation Waddles
+    ",8.0,"
+        1758 
+      ","
+        333 
+      ",0.18942,"
+      #490Released 2018Excl. to Hot Topic
+"
+"
+      Pop! Vinyl Pop! Uglydoll Wage (Black) (Metallic)
+    ",10.0,"
+        36 
+      ","
+        173 
+      ",4.80556,"
+      #3Released 2012Excl. to San Diego Comic ConEdition Size: 48
+"
+"
+      Mystery Vinyl Mystery Minis Disney Series 2 Wall-E (1 Claw Up)
+    ",5.0,"
+        320 
+      ","
+        278 
+      ",0.86875,"
+      Rarity: 1/12
+"
+"
+      Mystery Vinyl Mystery Minis Disney SDCC Wall-E (Arms Out)
+    ",2.0,"
+        185 
+      ","
+        200 
+      ",1.08108,"
+      Released 2014Excl. to San Diego Comic ConRarity: 1/12
+"
+"
+      Mystery Vinyl Mystery Minis Disney Series 2 Wall-E (Claws Down)
+    ",3.0,"
+        155 
+      ","
+        268 
+      ",1.72903,"
+      Rarity: 1/72
+"
+"
+      Pop! Vinyl Pop! Disney WALL-E (Earth Day)
+    ",5.0,"
+        9372 
+      ","
+        1651 
+      ",0.17616,"
+      #400Released 2018Excl. to BoxLunch
+"
+"
+      Mystery Vinyl Mystery Minis Disney SDCC Wall-E (Metallic)
+    ",6.0,"
+        185 
+      ","
+        207 
+      ",1.11892,"
+      Released 2014Excl. to San Diego Comic ConRarity: 1/12
+"
+"
+      Vinyl Funko Force Hanna-Barbera Wally Gator
+    ",3.0,"
+        25 
+      ","
+        40 
+      ",1.60000,"
+"
+"
+      Wacky Wobbler Wacky Wobblers Hanna-Barbera Wally Gator
+    ",4.0,"
+        50 
+      ","
+        35 
+      ",0.70000,"
+"
+"
+      Dorbz Television Hanna-Barbera  Wally Gator (4-Pack)
+    ",6.0,"
+        224 
+      ","
+        64 
+      ",0.28571,"
+      Released 2016Excl. to Funko-ShopEdition Size: 1000
+"
+"
+      Pop! Vinyl Pop! Animation Wally Gator (Blue)
+    ",2.0,"
+        1309 
+      ","
+        268 
+      ",0.20474,"
+      #169Released 2017Vaulted
+"
+"
+      Wacky Wobbler Wacky Wobblers Hanna-Barbera Wally Gator (Crystal)
+    ",9.0,"
+        5 
+      ","
+        15 
+      ",3.00000,"
+      Edition Size: 125
+"
+"
+      Wacky Wobbler Wacky Wobblers Hanna-Barbera Wally Gator (Red)
+    ",9.0,"
+        10 
+      ","
+        12 
+      ",1.20000,"
+      Released 2005Excl. to San Diego Comic Con
+"
+"
+      Pop! Vinyl Pop! MLB Wally The Green Monster
+    ",7.0,"
+        779 
+      ","
+        465 
+      ",0.59692,"
+      #7Vaulted
+"
+"
+      Pop! Vinyl Pop! Football Walter Payton
+    ",7.0,"
+        1182 
+      ","
+        215 
+      ",0.18190,"
+      #78Released 2017
+"
+"
+      Pop! Vinyl Pop! Football Walter Payton (Away Jersey)
+    ",2.0,"
+        262 
+      ","
+        81 
+      ",0.30916,"
+      #78Released 2018
+"
+"
+      Pop! Vinyl Pop! Animation Whis (Metallic)
+    ",15.0,"
+        2870 
+      ","
+        1526 
+      ",0.53171,"
+      #317Released 2018Excl. to San Diego Comic Con Funimation Booth
+"
+"
+      Pop! Vinyl Pop! Movies White Goodman
+    ",8.0,"
+        1934 
+      ","
+        881 
+      ",0.45553,"
+      #238Released 2015
+"
+"
+      Vinyl Vinyl Idolz Dodgeball White Goodman
+    ",1.0,"
+        140 
+      ","
+        23 
+      ",0.16429,"
+      Released 2015
+"
+"
+      Pop! Vinyl Pop! Movies Wicked Witch (Metallic)
+    ",60.0,"
+        285 
+      ","
+        936 
+      ",3.28421,"
+      #8Released 2011Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Pop! Vinyl Pop! Movies William Wallace
+    ",5.0,"
+        5654 
+      ","
+        778 
+      ",0.13760,"
+      #368Released 2016
+"
+"
+      Pop! Vinyl Pop! Movies William Wallace (Bloody)
+    ",4.0,"
+        2721 
+      ","
+        591 
+      ",0.21720,"
+      #368Released 2016Excl. to FYE
+"
+"
+      Pop! Vinyl Pop! Freddy Funko Winged Monkey (Metallic)
+    ",290.0,"
+        23 
+      ","
+        303 
+      ",13.17391,"
+      #8Released 2011Excl. to San Diego Comic ConEdition Size: 12
+"
+"
+      Pop! Vinyl Pop! Movies Winged Monkey (Metallic)
+    ",50.0,"
+        301 
+      ","
+        891 
+      ",2.96013,"
+      #9Released 2011Excl. to San Diego Comic ConEdition Size: 480
+"
+"
+      Pop! Vinyl Pop! Disney Winifred Sanderson
+    ",4.0,"
+        5277 
+      ","
+        711 
+      ",0.13474,"
+      #433Released 2018Excl. to Spirit Halloween
+"
+"
+      Pop! Vinyl Pop! Disney Winnie the Pooh (with Red Balloon)
+    ",3.0,"
+        3860 
+      ","
+        733 
+      ",0.18990,"
+      #440Released 2018Excl. to BoxLunch
+"
+"
+      Pop! Vinyl Pop! Television Witchiepoo [Fall Convention]
+    ",9.0,"
+        80 
+      ","
+        33 
+      ",0.41250,"
+      #896Released 2019Excl. to Toy Tokyo (NYCC)
+"
